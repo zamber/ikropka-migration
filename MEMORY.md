@@ -310,3 +310,181 @@ See `ROADMAP.md` for full details.
 ---
 
 **Next Update Trigger:** After theme selection and Jekyll scaffolding
+## Theme Decision - 2026-07-16
+
+**Decision:** Minimal Mistakes theme selected
+**Rationale:**
+- Active maintenance (12k+ GitHub stars, frequent updates)
+- Excellent SEO support built-in (jekyll-seo-tag)
+- Highly customizable via _config.yml
+- Strong documentation at https://mmistakes.github.io/minimal-mistakes/
+- Portfolio/gallery support
+- Mobile-first responsive design
+
+**Trade-offs:**
+- Requires more customization for business/agency look (but worth it for stability)
+- Not as visually 'business-oriented' out of box, but very flexible
+
+**Impact:**
+- Will use Minimal Mistakes as base theme
+- Customize for IKROPKA branding (colors, fonts, layouts)
+- Leverage built-in portfolio/collection support for 130+ projects
+
+## Portfolio Organization Decision - 2026-07-16
+
+**Decision:** Category pages with optional pagination + lazy-loaded images + fuzzy search
+
+**Architecture:**
+- **Index page** (`/portfolio/`) - wszystkie 130+ projektów na jednej stronie
+  - Lazy loading obrazków (tylko w viewport)
+  - Przyciski kategorii → linkują do dedykowanych stron kategorii
+  - Fuzzy search (fuse.js) po tytułach/opisach projektów
+  - NO pagination initially (dodamy tylko jeżeli będą problemy z performance)
+
+- **Category pages** (`/portfolio/zabytkowe/`, `/portfolio/projekty/`, `/portfolio/szkolenia/`)
+  - Osobne strony dla każdej kategorii
+  - Lazy loading obrazków
+  - Fuzzy search na danej kategorii (fuse.js)
+  - Paginacja opcjonalna (dodamy jeżeli potrzeba)
+
+**Rationale:**
+- Przyciski kategorii jako linki (nie client-side filtering) = lepsze SEO, czyste URLs
+- Lazy loading obrazków rozwiązuje problem load times (nie content)
+- 130 projektów tekstowo to niewiele danych — spokojnie można wylistować wszystkie
+- Fuzzy search (fuse.js) dodaje świetny UX bez backend'u
+- Paginacja "na zapas" tylko jeżeli performance wymusi
+
+**Technical Implementation:**
+- Jekyll collections dla portfolio (`_portfolio/`)
+- Category filtering via front matter (`category: zabytkowe`)
+- Lazy loading: Intersection Observer API lub `loading="lazy"` attribute
+- Fuse.js dla search (lightweight, client-side, ~10KB gzipped)
+
+**Impact:**
+- Prostsze niż full client-side filtering z ładowaniem wszystkiego
+- Lepsze SEO niż pure JS filtering
+- Search dodaje discovery value
+- Elastic — możemy dodać paginację później bez przepisywania
+
+
+## Contact Form Decision - 2026-07-16
+
+**Decision:** Deferred to later phase (TBD)
+
+**Rationale:**
+- Focus on content migration and structure first
+- Form can be added anytime after core site is built
+- Not blocking for demo/preview
+
+**Phase 1 Approach:**
+- Static contact page with email/phone/address info
+- Placeholder text: "Formularz kontaktowy będzie dostępny wkrótce"
+- Or: Simple mailto: link as temporary solution
+
+**Phase 2/3 Implementation:**
+- TBD: Formspree, Netlify Forms, or custom backend
+- Requirements: file uploads, GDPR compliance, spam protection
+- Will decide based on hosting platform chosen in Phase 3
+
+**Impact:**
+- Unblocks content migration work
+- Allows focus on Jekyll setup and content structuring now
+
+
+## Image Handling Strategy - 2026-07-16
+
+**Decision:** Automatic download + optimization + WordPress thumbnail deduplication
+
+**Approach:**
+1. **Download all images** from ikropka.eu
+2. **Deduplicate WordPress thumbnails** — WordPress creates multiple sizes (e.g., `-300x200.jpg`, `-1024x768.jpg`) from same source image
+   - Detect by filename pattern (same base ID/slug)
+   - Keep only largest/original version
+   - Discard auto-generated thumbnails
+3. **Optimize images:**
+   - Convert to WebP (25-35% smaller than JPEG)
+   - Compress to 80-85% quality
+   - Fallback JPEG for compatibility
+   - Max width: ~1200-1600px (sufficient for modern displays)
+4. **Store in repo** (`site/assets/images/`)
+   - Start simple — everything in Git
+   - If repo size >500MB, migrate to CDN in Phase 2/3
+
+**WordPress Thumbnail Deduplication Logic:**
+- WordPress generates: `image.jpg`, `image-150x150.jpg`, `image-300x200.jpg`, `image-1024x768.jpg`
+- Strategy: Group by base filename, keep largest dimension version only
+- This should reduce 600+ images significantly
+
+**Technical Implementation:**
+- Script: `/home/luna/ikropka-migration/scripts/download-and-optimize-images.sh`
+- Tools: `wget`/`curl` for download, `cwebp` for WebP conversion, `imagemagick`/`sharp` for optimization
+- Output: `scraped-content/images/` (originals) → `site/assets/images/` (optimized)
+
+**Impact:**
+- Significantly reduces repo size by deduplicating WP thumbnails
+- WebP saves 25-35% file size
+- One automated script handles entire image migration
+
+
+## Content Structuring AI Model Decision - 2026-07-16
+
+**Decision:** Kimi K2.5 with incremental refinement approach
+
+**Model Choice:**
+- **Kimi K2.5** ($0.375/1M input, $2.025/1M output, 262K context)
+- Estimated cost for 150 pages: ~$0.89 total
+- Good structured output quality, handles long context well
+
+**Approach: Refinement Loop (Critical for Success)**
+
+**Phase 1: Initial Refinement (5 diverse test pages)**
+1. Select 5 representative pages covering different complexity levels:
+   - Homepage (hero slider, testimonials, mixed content)
+   - Simple static page (e.g., About / O nas)
+   - Service detail page (e.g., one oferta subpage - complex structure)
+   - Portfolio project page (images, metadata)
+   - News/blog post (if applicable)
+
+2. For each page:
+   - Run HTML → YAML conversion
+   - **Manually review output quality**
+   - Identify issues: missing fields, incorrect structure, malformed YAML
+   - **Refine prompt** to handle edge cases
+   - Re-run until output is clean
+
+3. Document YAML schema and prompt in `/home/luna/ikropka-migration/scripts/content-extraction-prompt.md`
+
+4. **Success criteria:** Zero manual fixes needed for test pages — YAML validates and maps cleanly to Jekyll
+
+**Phase 2: Batch Processing (remaining ~145 pages)**
+- Only proceed after refinement loop succeeds
+- Use finalized prompt on all remaining pages
+- Spot-check 10-20 random outputs for quality
+- Fix any outliers
+
+**YAML Schema Requirements:**
+
+The conversion script must clearly define:
+- **Standard fields:** title, description, layout, permalink, date, categories, tags
+- **Custom fields:** portfolio metadata (client, location, year), service details, image arrays
+- **Component handling:** How to represent sliders, galleries, testimonials, forms
+- **Fallbacks:** What to do with unrecognized HTML elements (preserve as HTML block? Skip? Flag for manual review?)
+
+**Non-standard Elements Strategy:**
+- Custom WordPress shortcodes → Map to Jekyll includes or Liquid tags
+- Embedded videos/iframes → Preserve with proper frontmatter metadata
+- Contact forms → Placeholder comment in YAML
+- Gallery blocks → Array of image objects with captions
+
+**Technical Implementation:**
+- Script: `/home/luna/ikropka-migration/scripts/extract-content-with-ai.js` (or .py)
+- Prompt template: `/home/luna/ikropka-migration/scripts/content-extraction-prompt.md`
+- OpenRouter API key: Check `~/.openclaw/workspace/bw_config.sh` or env vars
+- Output: `/home/luna/ikropka-migration/content-structured/[page-slug].yaml`
+
+**Impact:**
+- Initial refinement loop (5 pages) is CRITICAL — don't rush this
+- Well-defined schema prevents garbage-in-garbage-out
+- Clean YAML = easy Jekyll integration
+- Investment in prompt quality pays off for 150 pages
+
