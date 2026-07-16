@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Projekt powykonawczy Parku Sikorskiego w Świdnicy – kompensacja zieleni
   i nasadzenia rodzimych gatunków po rewaloryzacji zabytkowego parku. Zobacz efekty!
 header:
-  image: /assets/images/news/ppw-sikorskiego-zdj-1.jpg
+  image: /assets/images/ppw-sikorskiego-zdj-1.jpg
   teaser: /assets/images/news/ppw-sikorskiego-zdj-1.jpg
 layout: single
 tags:
@@ -32,9 +32,9 @@ Projekt zakładał nasadzenia drzew i krzewów – kompleksową kompensację uby
 Przywrócenie warstwy zieleni niskiej miało istotne znaczenie m.in. ze względu na ukształtowanie terenu. Nowo posadzona roślinność przyczyni się do zmniejszenia spływu powierzchniowego wody, a tym samym poprawi stateczność zboczy i skarp. W efekcie nasadzeń powstało bogate, wielopiętrowe i wielogatunkowe założenie zieleni tworzące dogodne warunki dla ptaków, owadów, drobnych ssaków.
 
 
-![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/news/ppw-sikorskiego-zdj2.jpg)
+![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/ppw-sikorskiego-zdj2.jpg)
 
-![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/news/ppw-sikorskiego-zdj1.jpg)
+![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/ppw-sikorskiego-zdj1.jpg)
 
-![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/news/ppw-sikorskiego-zdj.jpg)
+![PROJEKT POWYKONAWCZY DLA PARKU SIKORSKIEGO W ŚWIDNICY](/assets/images/ppw-sikorskiego-zdj.jpg)
 

@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Podpisaliśmy umowy na trzy nowe tematy projektowe. Sprawdź, nad jakimi
   inwestycjami pracuje zespół IKROPKA i poznaj szczegóły realizacji.
 header:
-  image: /assets/images/news/umowy_ikropka.jpg
+  image: /assets/images/umowy_ikropka.jpg
   teaser: /assets/images/news/umowy_ikropka.jpg
 layout: single
 tags:

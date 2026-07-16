@@ -6,7 +6,7 @@ date: '2026-07-16'
 description: Dołącz do zespołu PAK IKROPKA! Poszukujemy architekta krajobrazu z doświadczeniem
   w projektowaniu i opracowaniach dendrologicznych do współpracy we Wrocławiu.
 header:
-  image: /assets/images/news/praca_IKROPKA_-1.jpg
+  image: /assets/images/praca_IKROPKA_-1.jpg
   teaser: /assets/images/news/praca_IKROPKA_-1.jpg
 layout: single
 tags:
@@ -45,7 +45,7 @@ Masz już doświadczenie w pracy projektowej oraz opracowaniach dendrologicznych
 - dobrej komunikacji z innymi.
 
 
-![Praca w PAK IKROPKA](/assets/images/news/IKROPKA_Oferta-pracy.jpg)
+![Praca w PAK IKROPKA](/assets/images/IKROPKA_Oferta-pracy.jpg)
 
 *Oferta pracy w PAK IKROPKA*
 

@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Koncepcja zagospodarowania parku przy ul. Wolbromskiej we Wrocławiu tworzy
   atrakcyjną przestrzeń rekreacyjną z poszanowaniem istniejącej zieleni.
 header:
-  image: /assets/images/news/2019/09/Koncepcja_ParkWolbromska2_ikropka.jpg
+  image: /assets/images/Koncepcja_ParkWolbromska2_ikropka.jpg
   teaser: /assets/images/news/2019/09/Koncepcja_ParkWolbromska2_ikropka.jpg
 layout: single
 tags:
@@ -32,7 +32,7 @@ Koncepcja projektowa zakłada:
 – założenie na terenie opracowania oświetlenia,roślinność wprowadzająca klimat „tajemniczego ogrodu”, piętrowe kompozycje roślinne dostosowane do siedlisk.
 
 
-![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/news/2019/09/Koncepcja_ParkWolbromska_ikropka.jpg)
+![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/Koncepcja_ParkWolbromska_ikropka.jpg)
 
-![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/news/2019/09/Koncepcja_ParkWolbromska3_ikropka.jpg)
+![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/Koncepcja_ParkWolbromska3_ikropka.jpg)
 

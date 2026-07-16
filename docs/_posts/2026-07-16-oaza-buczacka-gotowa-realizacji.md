@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Oaza Buczacka we Wrocławiu – projekt wykonawczy skweru z altaną, ogrodem
   deszczowym i miejskimi leżakami na Muchoborze Wielkim.
 header:
-  image: /assets/images/news/proj-Oaza-Buczacka-zdj1.jpg
+  image: /assets/images/proj-Oaza-Buczacka-zdj1.jpg
   teaser: /assets/images/news/proj-Oaza-Buczacka-zdj1.jpg
 layout: single
 tags:
@@ -26,7 +26,7 @@ Skwer będący do tej pory nieużytkiem zostanie przekształcony w teren wypoczy
 Po więcej obrazków i szczegółów zapraszamy do portfolio: [kliknij tutaj](/projekt/projekt-skweru-ogrodem-deszczowym/).
 
 
-![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/news/proj-Oaza-Buczacka-zdj2.jpg)
+![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/proj-Oaza-Buczacka-zdj2.jpg)
 
-![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/news/proj-Oaza-Buczacka-zdj3.jpg)
+![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/proj-Oaza-Buczacka-zdj3.jpg)
 

@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Park Idzikowskiego we Wrocławiu na łamach Architektura & Biznes – wywiad
   z Dominiką Krop-Andrzejczuk o projektowaniu opartym na naturze.
 header:
-  image: /assets/images/news/aktualnosci-ikropka-1.jpg
+  image: /assets/images/aktualnosci-ikropka-1.jpg
   teaser: /assets/images/news/aktualnosci-ikropka-1.jpg
 layout: single
 tags:

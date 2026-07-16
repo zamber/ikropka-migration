@@ -6,25 +6,25 @@ featured_image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykows
 gallery:
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza10-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza10-min.jpg
 - alt: Wizualizacja Parku Henrykowskiego
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg
+  image: /assets/images/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza1-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza1-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza2-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza2-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza3-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza3-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza4-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza4-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza5-min.jpg
+  image: /assets/images/ikropka-park-henrykowski-konkurs-plansza5-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
   image: /assets/images/portfolio/park-henrykowski/ikropka-park-henrykowski-konkurs-plansza8-min_optimized-min_optimized.jpg

@@ -6,7 +6,7 @@ date: '2026-07-16'
 description: Opracowanie dendrologiczne dla parku miejskiego w Wejherowie obejmuje
   ocenę bezpieczeństwa drzew i zalecenia pielęgnacyjne. Poznaj szczegóły.
 header:
-  image: /assets/images/news/wejherowo_oddanie_ikropka.jpg
+  image: /assets/images/wejherowo_oddanie_ikropka.jpg
   teaser: /assets/images/news/wejherowo_oddanie_ikropka.jpg
 layout: single
 tags:
@@ -26,7 +26,7 @@ Park Miejski im. A. Majkowskiego położony obok wejherowskiego rynku jest jedn�
 Prace nad przeglądem dendrologicznym rozpoczęto od przeprowadzenia wizji terenowej, co trwało łącznie prawie 2-tygodnie, następnie zebrane dane dendrometryczne, opisane zalecenia, stany sanitarne itp. przeniesiono na wersję cyfrową. Wykonane rysunki oraz wykaz zinwentaryzowanych drzew i krzewów podsumowano w części opisowej zawierającej zestawienia tabelaryczne.
 
 
-![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/news/wejherowo_oddanie2_ikropka.jpg)
+![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/wejherowo_oddanie2_ikropka.jpg)
 
-![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/news/wejherowo_oddanie3_ikropka.jpg)
+![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/wejherowo_oddanie3_ikropka.jpg)
 

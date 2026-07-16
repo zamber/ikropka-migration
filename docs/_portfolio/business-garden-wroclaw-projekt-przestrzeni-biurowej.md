@@ -52,7 +52,7 @@ gallery:
   image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj9_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj12_ikropka.jpg
+  image: /assets/images/BGW_zdj12_ikropka.jpg
 - alt: ''
   caption: ''
   image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj8_ikropka.jpg
@@ -70,22 +70,22 @@ gallery:
   image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj10_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj13_ikropka.jpg
+  image: /assets/images/BGW_zdj13_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj17_ikropka.jpg
+  image: /assets/images/BGW_zdj17_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj18_ikropka.jpg
+  image: /assets/images/BGW_zdj18_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj14_ikropka.jpg
+  image: /assets/images/BGW_zdj14_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj16_ikropka.jpg
+  image: /assets/images/BGW_zdj16_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj15_ikropka.jpg
+  image: /assets/images/BGW_zdj15_ikropka.jpg
 layout: single
 permalink: /portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/
 project:

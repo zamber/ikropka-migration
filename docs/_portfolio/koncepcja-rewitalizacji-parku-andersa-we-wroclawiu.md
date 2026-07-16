@@ -6,11 +6,11 @@ description: Koncepcja projektowa wraz z programem funkcjonalno-przestrzennym dl
 featured_image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_slider_Andersa2_do-500KB.jpg
 gallery:
 - alt: Park Andersa - strona
-  image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona.jpg
+  image: /assets/images/Park-Andersa-strona.jpg
 - alt: Park Andersa - strona 2
-  image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona2.jpg
+  image: /assets/images/Park-Andersa-strona2.jpg
 - alt: Park Andersa - strona 3
-  image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona3.jpg
+  image: /assets/images/Park-Andersa-strona3.jpg
 - alt: Rzut nawarstwienia
   image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_rzut_nawarstwienia.jpg
 - alt: Miski

@@ -9,7 +9,7 @@ description: 'Podczas eventu zakładania łąki kwietnej przy wrocławskim Sky T
 
   '
 header:
-  image: /assets/images/news/parki-kieszonkowe_event_ikropka.jpg
+  image: /assets/images/parki-kieszonkowe_event_ikropka.jpg
   teaser: /assets/images/news/parki-kieszonkowe_event_ikropka.jpg
 layout: single
 tags:

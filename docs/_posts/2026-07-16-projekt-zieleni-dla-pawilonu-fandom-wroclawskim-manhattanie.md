@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Projekt zieleni dla pawilonu FANDOM na wrocławskim Manhattanie tworzy
   funkcjonalną i atrakcyjną przestrzeń z wykorzystaniem nowoczesnych nasadzeń.
 header:
-  image: /assets/images/news/aktualnosci-ikropka-_Arch_it.jpg
+  image: /assets/images/aktualnosci-ikropka-_Arch_it.jpg
   teaser: /assets/images/news/aktualnosci-ikropka-_Arch_it.jpg
 layout: single
 tags:
@@ -35,7 +35,7 @@ Oprócz tego dbamy o to aby projektowana zieleń była:
 - bioróżnorodna.
 
 
-![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/news/20221212-2029-WRO-FANDOM-PB-WIZ-1-scaled.jpg)
+![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/20221212-2029-WRO-FANDOM-PB-WIZ-1-scaled.jpg)
 
-![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/news/rzut_kolor_fandom_kadr_rabata2_2_logo.jpg)
+![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/rzut_kolor_fandom_kadr_rabata2_2_logo.jpg)
 

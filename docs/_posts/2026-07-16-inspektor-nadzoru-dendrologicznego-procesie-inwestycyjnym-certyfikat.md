@@ -7,7 +7,7 @@ date: '2026-07-16'
 description: Certyfikat Inspektora Nadzoru Dendrologicznego potwierdza nasze kompetencje
   w ochronie drzew podczas inwestycji. Dowiedz się więcej.
 header:
-  image: /assets/images/news/inspektor_cert.jpg
+  image: /assets/images/inspektor_cert.jpg
   teaser: /assets/images/news/inspektor_cert.jpg
 layout: single
 tags:

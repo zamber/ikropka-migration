@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Oficjalne otwarcie Parku Sikorskiego w Świdnicy – relacja i zdjęcia z
   rewaloryzacji zabytkowego parku zrealizowanej pod nadzorem autorskim IKROPKI.
 header:
-  image: /assets/images/news/otwarciePSikorskiego-zdj.jpg
+  image: /assets/images/otwarciePSikorskiego-zdj.jpg
   teaser: /assets/images/news/otwarciePSikorskiego-zdj.jpg
 layout: single
 tags:

@@ -2,7 +2,7 @@
 category: projekty
 description: Park kieszonkowy „Pod Srebrzystym Klonem” we Wrocławiu – projekt zagospodarowania
   terenu z ochroną starodrzewu i drewnianymi chodnikami rampowymi.
-featured_image: /assets/images/portfolio/park-pod-srebrzystym-klonem/main.jpg
+featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
 gallery:
 - alt: ''
   caption: ''

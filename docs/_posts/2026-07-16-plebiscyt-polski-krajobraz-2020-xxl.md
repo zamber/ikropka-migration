@@ -6,7 +6,7 @@ description: Z radością informujemy o artykule na Wroclife.pl poświęconym Pa
   Uśmiechu oraz jego zwycięstwu w Plebiscycie Polski Krajobraz 2020 XXL w kategorii
   przestrzeń publiczna.
 header:
-  image: /assets/images/news/aktualności-ikropka_Park-Uśmiechu_2021.jpg
+  image: /assets/images/aktualności-ikropka_Park-Uśmiechu_2021.jpg
   teaser: /assets/images/news/aktualności-ikropka_Park-Uśmiechu_2021.jpg
 layout: single
 tags:
@@ -26,9 +26,9 @@ Zachęcamy do zapoznania się z artykułem, znajdującym się pod linkiem:
 https://wroclife.pl/czas-wolny/park-usmiechu-nagrodzony/?fbclid=IwAR2NLad7kftMTAuGUzB7MeeTp-hCAkMU5jBK3UjaWiKWhTtqHJXfIJpUJ-0
 
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/news/IKROPKA_Park_Uśmiechu_2021.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021.jpg)
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/news/IKROPKA_Park_Uśmiechu_2021_2.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021_2.jpg)
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/news/IKROPKA_Park_Uśmiechu_2021_3.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021_3.jpg)
 

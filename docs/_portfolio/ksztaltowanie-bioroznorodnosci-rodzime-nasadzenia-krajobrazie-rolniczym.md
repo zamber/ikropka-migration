@@ -9,7 +9,7 @@ gallery:
 - alt: Plan koncepcyjny siedlisk pomostowych dla dzierzby gąsiorka
   image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/GLUBCZYCE-DO-PORTFOLIO-1-scaled.jpg
 - alt: Schemat korytarzy ekologicznych i nasadzeń w krajobrazie rolniczym
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/2.jpg
+  image: /assets/images/2.jpg
 - alt: Widok ogólny projektu zieleni w powiecie głubczyckim
   image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1.jpg
 - alt: Detal nasadzeń tworzących siedliska dla ptaków
@@ -17,7 +17,7 @@ gallery:
 - alt: Wizualizacja remiz i przydrożnych pasów zieleni
   image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-4.jpg
 - alt: Plan projektu nasadzeń rodzimych w krajobrazie rolniczym
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/1.jpg
+  image: /assets/images/1.jpg
 layout: single
 permalink: /portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/
 project:

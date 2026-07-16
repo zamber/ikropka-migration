@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: IKROPKA stale rozwija kompetencje podczas specjalistycznych szkoleń z
   zakresu zieleni, dendrologii i architektury krajobrazu. Dowiedz się więcej.
 header:
-  image: /assets/images/news/szkolenia-zdj-2.jpg
+  image: /assets/images/szkolenia-zdj-2.jpg
   teaser: /assets/images/news/szkolenia-zdj-2.jpg
 layout: single
 tags:
@@ -26,9 +26,9 @@ Dzisiaj nasz nowy pracownik bierze udział w dwudniowym szkoleniu Fundacji EkoRo
 A za tydzień weźmiemy udział w Sympozjum Zielony Wrocław „Projektowanie zintegrowane. Zielone i efektywne energetycznie budynki.", którego organizatorami są Departament Zrównoważonego Rozwoju Urzędu Miejskiego i Muzeum Architektury we Wrocławiu!
 
 
-![IKROPKA NA SZKOLENIACH](/assets/images/news/szkolenia-zdj-3.jpg)
+![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj-3.jpg)
 
-![IKROPKA NA SZKOLENIACH](/assets/images/news/szkolenia-zdj-1.jpg)
+![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj-1.jpg)
 
-![IKROPKA NA SZKOLENIACH](/assets/images/news/szkolenia-zdj4.jpg)
+![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj4.jpg)
 

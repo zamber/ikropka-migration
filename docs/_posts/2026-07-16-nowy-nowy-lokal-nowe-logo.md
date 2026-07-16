@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Poznaj nową siedzibę oraz odświeżone logo IKROPKA. Sprawdź, co zmieniło
   się w naszej pracowni i gdzie możesz się z nami skontaktować.
 header:
-  image: /assets/images/news/nowy-rok.jpg
+  image: /assets/images/nowy-rok.jpg
   teaser: /assets/images/news/nowy-rok.jpg
 layout: single
 tags:
@@ -20,7 +20,7 @@ title: NOWY ROK, NOWY LOKAL I NOWE LOGO
 W Nowym Roku mnóstwo dobrych zmian dla IKROPKI! Przenieśliśmy się do nowego lokalu, mamy nowe, odświeżone logo. Praca wre!
 
 
-![NOWY ROK, NOWY LOKAL I NOWE LOGO](/assets/images/news/nowy-rok.jpg)
+![NOWY ROK, NOWY LOKAL I NOWE LOGO](/assets/images/nowy-rok.jpg)
 
 Jesteśmy po przeprowadzce! Od teraz można nas znaleźć zaledwie kilka numerów dalej, wciąż w okolicy Sky Tower, a bliżej centrum, pod nowym adresem: ul. Powstańców Śląskich 48, 53-333 Wrocław.
 

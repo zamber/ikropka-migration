@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Projekty zieleni dla budynków biurowych łączą estetykę, funkcjonalność
   i komfort użytkowników. Poznaj nasze realizacje i rozwiązania.
 header:
-  image: /assets/images/news/BGW-zdj1.jpg
+  image: /assets/images/BGW-zdj1.jpg
   teaser: /assets/images/news/BGW-zdj1.jpg
 layout: single
 tags:
@@ -24,5 +24,5 @@ Kończymy dokumentację projektu wykonawczego projektu zieleni i projektu system
 Projekt obejmuje obszar kilku hektarów zagospodarowania przy budynkach biurowych i jest kolejną fazą budowy kompleksu Business Garden. Projekt powstaje w stałej koordynacji z wieloma branżami – architektami, drogowcami, konstruktorami i nie tylko. Praca w takim zespole wymaga ciągłej koordynacji, dobrej współpracy i dużej dokładności. Cieszymy się, że jesteśmy jego częścią!
 
 
-![Prace projektowe dla budynków biurowych](/assets/images/news/BGW-zdj2.jpg)
+![Prace projektowe dla budynków biurowych](/assets/images/BGW-zdj2.jpg)
 

@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Pracownia IKROPKA to zespół architektów krajobrazu i dendrologów we Wrocławiu
   – poznaj ludzi, którzy zmieniają przestrzeń dla i z mieszkańcami miast.
 header:
-  image: /assets/images/news/2019/06/ikropka1.jpg
+  image: /assets/images/ikropka1.jpg
   teaser: /assets/images/news/2019/06/ikropka1.jpg
 layout: single
 tags:

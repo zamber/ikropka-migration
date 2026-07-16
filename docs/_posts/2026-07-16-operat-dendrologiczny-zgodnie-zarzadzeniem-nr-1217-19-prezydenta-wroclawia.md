@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Operat dendrologiczny zgodny z Zarządzeniem nr 1217/19 Prezydenta Wrocławia
   spełnia obowiązujące wymagania. Sprawdź zakres opracowania.
 header:
-  image: /assets/images/news/operat_wolbromska_zarzadzenie_ikropka.jpg
+  image: /assets/images/operat_wolbromska_zarzadzenie_ikropka.jpg
   teaser: /assets/images/news/operat_wolbromska_zarzadzenie_ikropka.jpg
 layout: single
 tags:

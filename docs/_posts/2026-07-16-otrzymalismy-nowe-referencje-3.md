@@ -7,7 +7,7 @@ description: IKROPKA otrzymała nowe referencje od Wrocławskiego Centrum Trenin
   SPARTAN za prowadzenie nadzoru dendrologicznego podczas inwestycji w zabytkowym
   Parku Południowym we Wrocławiu.
 header:
-  image: /assets/images/news/aktualnosci-spartanikropka-kopia.jpg
+  image: /assets/images/aktualnosci-spartanikropka-kopia.jpg
   teaser: /assets/images/news/aktualnosci-spartanikropka-kopia.jpg
 layout: single
 tags:
@@ -22,7 +22,7 @@ title: Otrzymaliśmy nowe referencje
 Otrzymaliśmy referencje od spółki Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością z siedzibą we Wrocławiu za prowadzony [nadzór dendrologiczny](/oferta/nadzory/) w zabytkowym parku we Wrocławiu – Park Południowy.
 
 
-![Otrzymaliśmy nowe referencje](/assets/images/news/aktualnosci-spartanikropka-kopia.jpg)
+![Otrzymaliśmy nowe referencje](/assets/images/aktualnosci-spartanikropka-kopia.jpg)
 
 *Referencje od Wrocławskiego Centrum Treningowego SPARTAN*
 

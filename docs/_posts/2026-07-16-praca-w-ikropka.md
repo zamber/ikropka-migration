@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Praca w IKROPKA to możliwość realizacji ciekawych projektów z zakresu
   architektury krajobrazu i dendrologii. Dołącz do naszego zespołu.
 header:
-  image: /assets/images/news/6b205bfb-a82e-4ee1-b4b0-839c7b1420f0.jpg
+  image: /assets/images/6b205bfb-a82e-4ee1-b4b0-839c7b1420f0.jpg
   teaser: /assets/images/news/6b205bfb-a82e-4ee1-b4b0-839c7b1420f0.jpg
 layout: single
 tags:
@@ -18,7 +18,7 @@ title: Praca w IKROPKA
 Poszukujemy projektanta lub asystenta projektanta architekta krajobrazu do zespołu naszej Pracowni Architektury Krajobrazu IKROPKA.
 
 
-![Praca w IKROPKA](/assets/images/news/6b205bfb-a82e-4ee1-b4b0-839c7b1420f0.jpg)
+![Praca w IKROPKA](/assets/images/6b205bfb-a82e-4ee1-b4b0-839c7b1420f0.jpg)
 
 Poszukujemy do zespołu naszej pracowani PAK IKROPKA projektanta lub asystenta projektanta architekta krajobrazu na stały kontrakt – praca we Wrocławiu – w biurze i w terenie do współpracy przy realizowanych w firmie zleceniach z zakresu opracowań dendrologicznych oraz przy ciekawych projektach publicznych i prywatnych z obszaru architektury krajobrazu (zieleń osiedlowa, skwery, parki, ogrody, naturalne place zabaw itp.) – projekty koncepcyjne, budowlane, wykonawcze.
 

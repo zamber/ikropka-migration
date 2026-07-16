@@ -2,17 +2,17 @@
 category: projekty
 description: Ocena zniszczeń drzewa – ekspertyza dendrologiczna jarzębu w Płocku po
   cięciach pielęgnacyjnych, wykonana przez specjalistów IKROPKI.
-featured_image: /assets/images/portfolio/ocena-zniszczen-drzewa/main.jpg
+featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
 gallery:
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 1
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj1.jpg
+  image: /assets/images/zdj1.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 2
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj2.jpg
+  image: /assets/images/zdj2.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 3
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj3.jpg
+  image: /assets/images/zdj3.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 4
   caption: ''
   image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj4.jpg

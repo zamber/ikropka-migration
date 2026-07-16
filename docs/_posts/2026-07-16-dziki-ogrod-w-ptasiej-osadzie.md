@@ -6,7 +6,7 @@ description: Naturalistyczny, rustykalny projekt zieleni dla ośrodka wypoczynko
   w Miliczu nad Doliną Baryczy. Ogród nawiązuje do tradycyjnych wiejskich ogrodów
   kwiatowo-ziołowo-warzywnych.
 header:
-  image: /assets/images/news/Milicz-Ptasia-Osada-zdj.jpg
+  image: /assets/images/Milicz-Ptasia-Osada-zdj.jpg
   teaser: /assets/images/news/Milicz-Ptasia-Osada-zdj.jpg
 layout: single
 tags:
@@ -35,23 +35,23 @@ Program funkcjonalny inwestycji ukierunkowany będzie na przybliżanie użytkown
 Projektowana mała architektura charakterem wpisze się w rustykalną stylistykę miejsca, dlatego proponujemy elementy z naturalnych materiałów, takich jak drewno i faszyna.
 
 
-![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/news/Milicz-Ptasia-Osada-zdj5.jpg)
+![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/Milicz-Ptasia-Osada-zdj5.jpg)
 
 *Kliknij, aby powiększyć*
 
-![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/news/Milicz-Ptasia-Osada-zdj4.jpg)
+![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/Milicz-Ptasia-Osada-zdj4.jpg)
 
 *Kliknij, aby powiększyć*
 
-![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/news/Milicz-Ptasia-Osada-zdj3.jpg)
+![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/Milicz-Ptasia-Osada-zdj3.jpg)
 
 *Kliknij, aby powiększyć*
 
-![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/news/Milicz-Ptasia-Osada-zdj2.jpg)
+![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/Milicz-Ptasia-Osada-zdj2.jpg)
 
 *Kliknij, aby powiększyć*
 
-![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/news/Milicz-Ptasia-Osada-zdj1.jpg)
+![DZIKI OGRÓD W PTASIEJ OSADZIE](/assets/images/Milicz-Ptasia-Osada-zdj1.jpg)
 
 *Kliknij, aby powiększyć*
 

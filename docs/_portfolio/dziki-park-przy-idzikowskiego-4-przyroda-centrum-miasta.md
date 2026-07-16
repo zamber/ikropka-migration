@@ -51,7 +51,7 @@ gallery:
   image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_6.jpg
 - alt: Grafika projektowa parku przy Idzikowskiego
   caption: Grafika projektowa
-  image: /assets/images/portfolio/dziki-park/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
+  image: /assets/images/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
   image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_8.jpg

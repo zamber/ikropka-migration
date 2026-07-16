@@ -2,7 +2,7 @@
 category: projekty
 description: Nadzór przyrodniczy w Parku Szczytnickim zapewnił ochronę cennej zieleni
   podczas prowadzonych prac inwestycyjnych.
-featured_image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/main.jpg
+featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
 gallery:
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''

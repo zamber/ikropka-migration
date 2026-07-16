@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Budowa osiedla River Point na Kępie Mieszczańskiej we Wrocławiu – pierwsze
   efekty realizacji projektu zieleni i małej architektury IKROPKI.
 header:
-  image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj6.jpg
+  image: /assets/images/Kępa-River-Point-budowa-zdj6.jpg
   teaser: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj6.jpg
 layout: single
 tags:

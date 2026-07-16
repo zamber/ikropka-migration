@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Projekt zieleni dla biurowca Port Popowice we Wrocławiu – zielone otoczenie
   zgodne z certyfikatem LEED GOLD, we współpracy z pracownią WXCA.
 header:
-  image: /assets/images/news/Projekt_biurowca_WXCA_Port_Popowice_Wroclaw-1024x512.jpg
+  image: /assets/images/Projekt_biurowca_WXCA_Port_Popowice_Wroclaw-1024x512.jpg
   teaser: /assets/images/news/Projekt_biurowca_WXCA_Port_Popowice_Wroclaw-1024x512.jpg
 layout: single
 tags:
@@ -25,5 +25,5 @@ Projekt osiedla nawiązuje do industrialnej przeszłości miejsca. Ważnym aspek
 Żródło zdjęć: wxca.pl
 
 
-![PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE](/assets/images/news/projekt_biurowca_Port_Popowice_WXCA-1024x512.jpg)
+![PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE](/assets/images/projekt_biurowca_Port_Popowice_WXCA-1024x512.jpg)
 

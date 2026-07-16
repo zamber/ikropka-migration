@@ -30,7 +30,7 @@ gallery:
   image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.5.jpg
 - alt: Layout graficzny ogrodu sensorycznego
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
+  image: /assets/images/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
   image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-3.jpg

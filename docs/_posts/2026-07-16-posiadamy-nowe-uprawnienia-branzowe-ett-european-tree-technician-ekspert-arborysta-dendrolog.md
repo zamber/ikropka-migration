@@ -6,7 +6,7 @@ date: '2026-07-16'
 description: Zdobyliśmy uprawnienia European Tree Technician, potwierdzające wysokie
   kompetencje w arborystyce i diagnostyce drzew. Dowiedz się więcej.
 header:
-  image: /assets/images/news/Nowy-projekt-3.jpg
+  image: /assets/images/Nowy-projekt-3.jpg
   teaser: /assets/images/news/Nowy-projekt-3.jpg
 layout: single
 tags:

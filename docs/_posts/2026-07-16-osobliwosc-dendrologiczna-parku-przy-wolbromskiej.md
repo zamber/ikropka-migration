@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Poznaj dendrologiczną osobliwość parku przy ul. Wolbromskiej i dowiedz
   się, co wyróżnia ten cenny element miejskiej zieleni.
 header:
-  image: /assets/images/news/operat_wolbromska_zarzadzenie4_ikropka.jpg
+  image: /assets/images/operat_wolbromska_zarzadzenie4_ikropka.jpg
   teaser: /assets/images/news/operat_wolbromska_zarzadzenie4_ikropka.jpg
 layout: single
 tags:
@@ -25,7 +25,7 @@ Mydleniec wiechowaty (*Koelreuteria paniculata*) rośnie we wschodniej części 
 Gatunek ten pochodzi ze wschodniej Azji: Chiny, Korea, Japonia. Wyróżnia się wysoką atrakcyjnością. Kwiatostan w postaci charakterystycznych 30-centymetrowych wiech w kolorze jaskrawej żółci. Owoce – różowawe rozdęte torebki. Również ciekawe ulistnienie- liście złożone, listki podzielone w różny sposób, zmienność ubarwienia w ciągu sezonu od jaskrawoczerwonych po żółte jesienią.
 
 
-![OSOBLIWOŚĆ DENDROLOGICZNA W PARKU PRZY WOLBROMSKIEJ](/assets/images/news/operat_wolbromska_zarzadzenie4_ikropka.jpg)
+![OSOBLIWOŚĆ DENDROLOGICZNA W PARKU PRZY WOLBROMSKIEJ](/assets/images/operat_wolbromska_zarzadzenie4_ikropka.jpg)
 
 *Mydleniec wiechowaty w parku przy ul. Wolbromskiej*
 

@@ -5,7 +5,7 @@ date: '2026-07-16'
 description: Zakończyliśmy projekt wykonawczy zieleni dla Business Garden Wrocław.
   Poznaj zastosowane rozwiązania i efekty realizacji inwestycji.
 header:
-  image: /assets/images/news/BGW_relizacja_zdj1.jpg
+  image: /assets/images/BGW_relizacja_zdj1.jpg
   teaser: /assets/images/news/BGW_relizacja_zdj1.jpg
 layout: single
 tags:
