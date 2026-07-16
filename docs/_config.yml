@@ -25,8 +25,8 @@ author:
       icon: "fas fa-fw fa-phone"
       url: "tel:+48662670776"
 
-# Theme Settings - Minimal Mistakes
-theme: minimal-mistakes-jekyll
+# Theme Settings - Minimal Mistakes (using remote_theme for GitHub Pages)
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Reading Files
@@ -94,6 +94,7 @@ timezone: Europe/Warsaw
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
