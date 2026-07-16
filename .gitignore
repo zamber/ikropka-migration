@@ -1,0 +1,23 @@
+# Jekyll build output
+site/_site/
+site/.jekyll-cache/
+site/.jekyll-metadata
+site/.sass-cache/
+
+# Bundler
+site/.bundle/
+site/vendor/
+
+# Image Processing - Intermediate Files
+scraped-content/images/original/
+scraped-content/images/deduplicated/
+scraped-content/temp-html/
+
+# Keep only optimized output in site/assets/images/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
