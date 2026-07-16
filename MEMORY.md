@@ -996,3 +996,66 @@ Tested with Playwright browser automation:
 - All inline images display properly
 - No console errors (except minor 404s for missing images in some old posts)
 
+
+---
+
+## Image Asset Fixes - 2026-07-16 19:02
+
+**Status:** ✅ COMPLETE - All missing images identified and fixed
+
+### Issues Found
+
+1. **Missing Service Feature Images (Homepage Cards)**
+   - Index page feature cards referenced 4 non-existent images
+   - Theme (Minimal Mistakes splash layout) auto-generates cards from `_services` collection
+   - Expected image naming: `services-{service_type}.jpg`
+
+2. **Missing SEO/Meta Images**
+   - Open Graph fallback image: `hero-placeholder.jpg`
+   - Configured og_image: `og-image-ikropka.jpg`
+   - Organization schema logo: `logo.png`
+
+3. **Incomplete Jekyll Build Asset Copy**
+   - Source: 1345 files in `docs/assets/images/`
+   - Built output: Only 17 files in `docs/_site/assets/images/`
+   - Jekyll build didn't copy all optimized images to output
+
+### Solutions Applied
+
+**Created Missing Service Images:**
+```bash
+cp 2020_MSM-Energetyk_lipa-ekspertyza-scaled.jpg → services-dendrology.jpg
+cp Park-Centralny-proj-zamienne1.jpg → services-design.jpg
+cp Kępa-River-Point-budowa-zdj1.jpg → services-supervision.jpg
+cp IKROPKA_Park_Uśmiechu_2021.jpg → stats.jpg
+```
+
+**Created Missing SEO Images:**
+```bash
+cp layout_slider_do-500KB_www1.jpg → hero-placeholder.jpg
+cp layout_slider_do-500KB_www1.jpg → og-image-ikropka.jpg
+cp logo180x180.jpg → logo.png
+```
+
+**Copied All Assets to Build Output:**
+```bash
+cp -r docs/assets/images/* docs/_site/assets/images/
+```
+
+### Final Image Count
+
+- ✅ 354 JPEG files
+- ✅ 348 WebP files
+- ✅ 4 service card images
+- ✅ 3 SEO/meta images
+- ✅ 7 logo variants (all sizes)
+
+**Total:** 716 image files now in `_site/assets/images/`
+
+### Notes
+
+- Service image naming convention inferred from theme behavior (not documented)
+- Future Jekyll builds will need manual copy step OR include rule in `_config.yml`
+- All images verified present in HTTP preview server (port 8765)
+- SEO optimization from Milestone 7 confirmed working (schemas, og:image, etc.)
+
