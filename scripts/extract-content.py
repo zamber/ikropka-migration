@@ -18,7 +18,7 @@ from pathlib import Path
 
 # OpenRouter API configuration
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "kimi/k2.5"  # Kimi K2.5 model
+MODEL = "moonshotai/kimi-k2.7-code"  # Kimi K2.7 Code model (latest available)
 
 # Prompt templates directory
 SCRIPT_DIR = Path(__file__).parent

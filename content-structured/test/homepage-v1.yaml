@@ -1,0 +1,109 @@
+---
+layout: home
+title: "Pracownia architektury krajobrazu - IKROPKA"
+description: "Ikropka – pracownia projektowania zieleni i krajobrazu. Tworzymy ogrody, parki i przestrzenie publiczne z dbałością o naturę i estetykę."
+permalink: /
+
+hero:
+  slides:
+    - image: /assets/images/2023/04/layout_slider_do-500KB_www1.jpg
+      alt: ""
+      caption: "Twój partner w zielonych inwestycjach"
+    - image: /assets/images/2018/03/2.-budowa-Z-TERENÓW-DSC04016-1.jpg
+      alt: ""
+      caption: "Działamy już od ponad 15 lat"
+    - image: /assets/images/2018/03/3.-mierzenie-drzewa-Z-TERENÓW-DSC03679-1.jpg
+      alt: ""
+      caption: "Doświadczenie Profesjonalizm Terminowość"
+
+sections:
+  - type: intro
+    heading: "Pracownia Architektury Krajobrazu IKROPKA"
+    content: |
+      Powstała w 2007 roku Pracownia Architektury Krajobrazu IKROPKA na przestrzeni lat zyskała renomę profesjonalnego, rzetelnego i terminowego wykonawcy. Swoją ofertę kieruje zarówno do osób prywatnych, jak i architektów, inwestorów, samorządów. Klient może liczyć na profesjonalną obsługę i fachowe doradztwo. Każdy projekt wykonany zostanie z szacunkiem do środowiska naturalnego.
+
+  - type: three_pillars
+    heading: "Trzy filary działalności"
+    items:
+      - icon: "design"
+        title: "Projektowanie"
+        description: "IKROPKA tworzy projekty dopasowane do potrzeb Klientów. Może pochwalić się również bogatym doświadczeniem w pracy w przestrzeniach objętych ochroną konserwatorską."
+        link: "/oferta/"
+      - icon: "dendrology"
+        title: "Dendrologia"
+        description: "Zespół zajmujący się opracowaniami dendrologicznymi opracowuje inwentaryzacje zieleni, operaty dendrologiczne, a w przypadkach większej szczegółowości opinie i ekspertyzy dendrologiczne poprzedzone badaniami drzew."
+        link: "/oferta/"
+      - icon: "supervision"
+        title: "Nadzór"
+        description: "IKROPKA od lat świadczy usługi nadzoru dendrologicznego - Inspektor Nadzoru Terenów Zieleni oraz Inspektor Nadzoru Dendrologicznego w Procesie Inwestycyjnym."
+        link: "/oferta/"
+
+  - type: content
+    heading: "Holistyczne podejście"
+    content: |
+      Pracownia Architektury Krajobrazu IKROPKA pomaga swoim Klientom w czynnościach formalnoprawnych związanych z uzyskaniem niezbędnych pozwołem w tym na wycinkę drzew. W oparciu o obowiązujące podstawy prawne, w przypadku Wrocławia Zarządzenie Nr 1217/19 Prezydenta Wrocławia z dnia 28 czerwca 2019 r. w sprawie ochrony drzew i rozwoju terenów zieleni Wrocławia opracowujemy dane dotyczące drzew celem wprowadzenia do Systemu Informacji Przestrzennej Wrocławia (SIP). Dużą wagę przykładamy do ochrony drzew w procesie inwestycyjnym przygotowując opracowania takie jak projekt ochrony drzew na placu budowy. Wspieramy zarządców nieruchomości oraz jednostki samorządowe, gminy (w tym placówki oświatowe) wykonując przeglądy drzewostanu pod kątem bezpieczeństwa dla ludzi i mienia. Prowadzimy także szkolenia poświęcone zagadnieniom dendrologicznym na każdym etapie realizowania inwestycji. Zapraszamy do współpracy!
+
+  - type: strengths
+    heading: "Nasze atuty"
+    items:
+      - icon: "challenge"
+        title: "Podejmuje każde wyzwanie"
+        description: ""
+      - icon: "nature"
+        title: "Projekty funkcjonalne i oparte na przyrodzie (NBS)"
+        description: ""
+      - icon: "clock"
+        title: "Terminowość przede wszystkim"
+        description: ""
+      - icon: "experience"
+        title: "Wieloletnie doświadczenie od 2003 roku"
+        description: ""
+      - icon: "team"
+        title: "Zespół profesjonalistów"
+        description: ""
+      - icon: "investment"
+        title: "Dbamy o Twoją inwestycję"
+        description: ""
+
+  - type: featured_projects
+    heading: "Wybrane projekty"
+    items:
+      - slug: "projekt-krajobrazowy-dla-inwestycji-deweloperskiej-pn-nowa-stawowa"
+        title: "PROJEKT KRAJOBRAZOWY DLA INWESTYCJI DEWELOPERSKIEJ PN. NOWA STAWOWA"
+        thumbnail: "/assets/images/2026/05/kafelek-3.png"
+      - slug: "projekt-zieleni-dla-budynku-mieszkalno-uslugowego-przy-ul-kosciuszki"
+        title: "PROJEKT KRAJOBRAZOWY DLA INWESTYCJI DEWELOPERSKIEJ PN. OGRODY STAROMIEJSKIE"
+        thumbnail: "/assets/images/2026/05/kafelek-4.png"
+      - slug: "rewaloryzacja-zabytkowej-alei-projekt-poprawy-warunkow-siedliskowych-przy-al-paderewskiego"
+        title: "REWALORYZACJA ZABYTKOWEJ ALEI – PROJEKT POPRAWY WARUNKÓW SIEDLISKOWYCH PRZY AL. PADEREWSKIEGO"
+        thumbnail: "/assets/images/2026/03/layout_kafelek_ok150KB-1-1.jpg"
+
+  - type: testimonials
+    heading: "Referencje"
+    items:
+      - author: ""
+        organization: "JSK"
+        year: "2019"
+        content: "Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni"
+      - author: ""
+        organization: "Muzeum Okręgowe Ziemi Kaliskiej"
+        year: "2017"
+        content: "Dokumentacja została sporządzona fachowo, zgodnie z zasadami wiedzy technicznej, obowiązującym prawem i specyfiką w zakresie zabytkowych założeń parkowych, w terminach określonych umową."
+      - author: ""
+        organization: "Zespół Szkół Ogólnokształcących nr 3 LO IX we Wrocławiu"
+        year: "2017"
+        content: "Polecamy Pracownię Architektury Krajobrazu IKROPKA jako fachowego i doświadczonego partnera, służącego wiedzą i wsparciem dla jednostek edukacji publicznej i niepublicznej w zakresie zarządzania zielenią na swoich obiektach."
+      - author: ""
+        organization: "Wrocławska Rewitalizacja"
+        year: "2016"
+        content: "Ekspertyza została wykonana zgodnie z najlepszymi standardami, terminowo i wypełniając należycie wszystkie wymagania zawarte w umowie."
+      - author: ""
+        organization: "Budimex Parking Wrocław"
+        year: "2013"
+        content: "Pani inspektor nadzoru terenów zieleni Dominika Krop – Andrzejczuk wykonała prace należycie, bez zastrzeżeń, zgodnie z umową, ustalonym harmonogramem terminowym. Polecamy Pracownię Architektury Krajobrazu „IKROPKA” jako solidnego i godnego zaufania kontrahenta w procesie inwestycyjnym i budowlanym."
+
+  - type: contact_cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pytania dotyczące projektu lub współpracy? Napisz do nas lub zadzwoń. Biuro we Wrocławiu, tel. 600 181 389, e-mail: biuro@ikropka.eu"
+    note: "Contact form deferred to Phase 2/3"
+---

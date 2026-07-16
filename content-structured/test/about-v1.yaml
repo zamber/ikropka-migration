@@ -1,0 +1,179 @@
+---
+layout: page
+title: "O nas"
+description: "Poznaj zespół IKROPKA i nasze doświadczenie w architekturze krajobrazu, dendrologii oraz ochronie zieleni. Sprawdź, dlaczego warto nam zaufać."
+permalink: /o-nas/
+
+sections:
+  - type: hero
+    heading: "O nas"
+    image: /assets/images/about/o-nas-IKROPKA.jpg
+    alt: ""
+
+  - type: intro
+    heading: "O nas"
+    content: |
+      Pracujemy dynamicznie, działamy aktywnie. Nasza siła to zgrany Zespół wzajemnie napędzający się do działania. IKROPKA to specjaliści z dziedziny architektury krajobrazu, dendrologii, nadzoru terenów zieleni, gospodarki przestrzennej i urbanistyki.
+
+  - type: about
+    heading: "O pracowni"
+    content: |
+      Pracownia Architektury Krajobrazu IKROPKA funkcjonuje stale na ogólnopolskim rynku od 2007 r.
+
+      Firma opiera się o trzy główne filary działalności – projektowy, dendrologiczny i nadzorczy. Zajmujemy się zarówno projektami w przestrzeni prywatnej (ogrody przydomowe, siedziby firm), przestrzeni publicznej (parki, tereny osiedlowe), jak również specjalizujemy się w opracowaniach dendrologicznych (inwentaryzacje, projekty gospodarki drzewostanem, opinie i ekspertyzy) oraz świadczymy nadzór dendrologiczny Inspektora Nadzoru Terenów Zieleni.
+
+      Posiadamy cenne doświadczenie w prowadzeniu projektów na terenach miejskich oraz objętych ochroną konserwatorską. Prowadzimy procesy formalnoprawne związane z uzyskaniem uzgodnień i pozwoleń.
+
+      Współpracujemy z architektami, konstruktorami, inżynierami drogowymi i mostowymi, geodetami, specjalistami nauk przyrodniczych (biolog, ornitolog, entomolog, mykolog, chiropterolog itp.). Dzięki pracy w interdyscyplinarnym zespole jesteśmy w stanie zapewnić szybkie i profesjonalne wykonanie powierzonych nam zadań.
+
+  - type: founder
+    heading: "Liderka pracowni"
+    name: "Dominika Krop – Andrzejczuk"
+    credentials:
+      - "Mgr inż. architekt krajobrazu"
+      - "Inspektor nadzoru terenów zieleni"
+    bio: |
+      Założycielką firmy jest Dominika Krop – Andrzejczuk, architekt krajobrazu, inspektor nadzoru terenów zieleni.
+
+      Mgr inż. architekt krajobrazu Dominika Krop – Andrzejczuk spełnia wymogi wobec osoby kierującej pracami przy zabytkach będących zorganizowaną zielenią wpisaną do rejestru zabytków – zgodnie z USTAWĄ z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami oraz posiada bogate doświadczenie w pełnieniu funkcji kierownika robót ds. zieleni zabytkowej, inspektora nadzoru dendrologicznego oraz inspektora nadzoru terenów zieleni, w tym na obiektach zabytkowych.
+
+      Podstawa prawna: Dz. U. 2003 Nr 162 poz. 1568, USTAWA z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, Art. 37 b.
+
+      Wymogi wobec osoby kierującej pracami przy zabytkach będących zorganizowaną zielenią wpisaną do rejestru określa Art. 37b USTAWY z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami:
+
+      1. Pracami konserwatorskimi oraz pracami restauratorskimi, prowadzonymi przy zabytkach będących parkami wpisanymi do rejestru albo innego rodzaju zorganizowaną zielenią wpisaną do rejestru kieruje osoba, która ukończyła studia drugiego stopnia lub jednolite studia magisterskie, których program obejmuje zajęcia lub grupy zajęć umożliwiające nabycie wiedzy i umiejętności w tym zakresie, oraz która po rozpoczęciu studiów drugiego stopnia lub po zaliczeniu szóstego semestru jednolitych studiów magisterskich, przez co najmniej 9 miesięcy brała udział w pracach konserwatorskich lub pracach restauratorskich prowadzonych przy tego rodzaju zabytkach wpisanych do rejestru, lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.
+
+      2. Przepis ust. 1 stosuje się do osób, które samodzielnie wykonują prace konserwatorskie oraz prace restauratorskie, prowadzone przy zabytkach będących parkami wpisanymi do rejestru albo innego rodzaju zorganizowaną zielenią wpisaną do rejestru.
+
+      3. Prace o charakterze technicznym w zakresie, o którym mowa w ust. 1, samodzielnie wykonuje osoba, która posiada świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie lub średnie branżowe i dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodach związanych z pielęgnacją zieleni, albo przez co najmniej 9 miesięcy brała udział w tego rodzaju pracach prowadzonych przy zabytkach wpisanych do rejestru lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.
+
+  - type: three_pillars
+    heading: "Trzy filary działalności"
+    items:
+      - title: "Projektowy"
+        description: "Projekty w przestrzeni prywatnej (ogrody przydomowe, siedziby firm) oraz publicznej (parki, tereny osiedlowe)."
+      - title: "Dendrologiczny"
+        description: "Opracowania dendrologiczne: inwentaryzacje, projekty gospodarki drzewostanem, opinie i ekspertyzy."
+      - title: "Nadzorczy"
+        description: "Nadzór dendrologiczny oraz nadzór terenów zieleni – w tym na obiektach zabytkowych."
+
+  - type: expertise
+    heading: "Nasza filozofia"
+    content: |
+      Misją IKROPKI jest wypracowywanie dla każdego zlecenia złotego środka, który zapewnia najlepszą jakość inwestycji przy jednoczesnym poszanowaniu środowiska przyrodniczego. W swoich projektach i działaniach stawiamy na najlepsze rozwiązania projektowe i budowlane przyjazne drzewom.
+
+      Oferujemy usługi przydatne na każdym etapie prowadzonej inwestycji. Wspieramy Państwa kompleksowo, ponieważ wierzymy, że kluczem do sukcesu jest spójna, ciągła współpraca od początku do końca. Nasi specjaliści skutecznie dopilnowują jakości prowadzonych prac, od projektu, przez nadzór nad wykonawstwem, po monitoring. Dzięki obecności na każdym etapie inwestycji mamy realny wpływ na uzyskanie wzorcowego efektu finalnego.
+
+      Ponadto zajmujemy się prowadzeniem i organizacją szkoleń, konferencji m.in. z zakresu prawidłowego postępowania z drzewami na każdym etapie inwestycyjnym.
+
+      Zawsze stawiamy na najlepsze praktyki i kreujemy trendy wysokiej jakości dla branży architektury krajobrazu. Od lat lobbujemy współpracę inwestora – architekta – architekta krajobrazu – architekta wnętrz, ponieważ wierzymy, że tylko dobre praktyki we współpracy są w stanie budować lepsze jutro.
+
+  - type: gallery
+    heading: "Galeria"
+    images:
+      - image: /assets/images/about/1-4.jpg
+        alt: ""
+      - image: /assets/images/about/2-4.jpg
+        alt: ""
+      - image: /assets/images/about/3-4.jpg
+        alt: ""
+      - image: /assets/images/about/4-5.jpg
+        alt: ""
+      - image: /assets/images/about/5-6.jpg
+        alt: ""
+      - image: /assets/images/about/6-5.jpg
+        alt: ""
+
+  - type: infographic
+    heading: "Działamy kompleksowo"
+    image: /assets/images/about/ikropka_infografika-01.png
+    alt: ""
+    button_text: "Poznaj naszą ofertę"
+    button_url: /oferty
+
+  - type: stats
+    heading: "Mamy wiedzę i doświadczenie"
+    items:
+      - number: "1110"
+        label: "Zadowolonych klientów"
+      - number: "125"
+        label: "Świadczonych nadzorów"
+      - number: "352"
+        label: "Zrealizowanych projektów"
+      - number: "110 350"
+        label: "Zinwentaryzowanych drzew"
+
+  - type: credentials_gallery
+    heading: "Certyfikaty i kwalifikacje"
+    images:
+      - image: /assets/images/credentials/2026/06/Skan_20260624.png
+        alt: "Skan 20260624"
+      - image: /assets/images/credentials/2026/03/CamScanner-13.03.2026-16.29.jpg
+        alt: "CamScanner 13.03.2026 16.29"
+      - image: /assets/images/credentials/2020/09/Zaświadczenie-SAK_Miejsca-zabaw_Dominika-Krop-Andrzejczuk.jpg
+        alt: "Zaświadczenie SAK Miejsca zabaw Dominika Krop Andrzejczuk"
+      - image: /assets/images/credentials/2020/09/ZAŚWIADCZENIa-zielona-retencja.jpg
+        alt: "Zaświadczenie zielona retencja"
+      - image: /assets/images/credentials/2020/09/ZAŚWIADCZENIa-zielona-retencja-K.M.jpg
+        alt: "Zaświadczenie zielona retencja K.M"
+      - image: /assets/images/credentials/2018/07/1-Zaświadczenie_OSTO_INTZ.jpg
+        alt: "Zaświadczenie OSTO INTZ"
+      - image: /assets/images/credentials/2019/07/Zaświadczenie-Kongres-Drzew-PA-1.jpg
+        alt: "Zaświadczenie Kongres Drzew PA"
+      - image: /assets/images/credentials/2019/02/Inspektor-Nadzoru-Dendrologicznego-w-procesie-inwestycyjnym-PA.jpg
+        alt: "Inspektor Nadzoru Dendrologicznego w procesie inwestycyjnym PA"
+      - image: /assets/images/credentials/2018/07/2-zaświadczenie_DENDROD_drzewa-na-placu-budowy.jpg
+        alt: "Zaświadczenie DENDROD drzewa na placu budowy"
+      - image: /assets/images/credentials/2019/07/Zaświadczenie-Dendros-Konferencja-ZZM-DKA.jpg
+        alt: "Zaświadczenie Dendros Konferencja ZZM DKA"
+      - image: /assets/images/credentials/2018/07/3-Zaświadczenie_DENDROS_Identyfikacja-drzew-zagrażających-bezpieczeństwu.jpg
+        alt: "Zaświadczenie DENDROS Identyfikacja drzew zagrażających bezpieczeństwu"
+      - image: /assets/images/credentials/2018/07/4-zaświadzenie_ID_Kurs-Certyfikowanego-Inspektora-Drzew.jpg
+        alt: "Zaświadczenie ID Kurs Certyfikowanego Inspektora Drzew"
+      - image: /assets/images/credentials/2018/08/Zaświadczenie_INSTYTUT-DRZEWA_Kongres-Diagnostyki-Drzewa.jpg
+        alt: "Zaświadczenie INSTYTUT DRZEWA Kongres Diagnostyki Drzewa"
+      - image: /assets/images/credentials/2019/10/Zaświadczenie-SAK_WAK3-DKA.jpg
+        alt: "Zaświadczenie SAK WAK3 DKA"
+      - image: /assets/images/credentials/2019/10/Zaświadczenie-SAK_WAK-DKA.jpg
+        alt: "Zaświadczenie SAK WAK DKA"
+      - image: /assets/images/credentials/2019/10/Zaświadczenie-SAK_WAK-KM.jpg
+        alt: "Zaświadczenie SAK WAK KM"
+      - image: /assets/images/credentials/2018/07/5-2011_PTD_członkostwo.jpg
+        alt: "2011 PTD członkostwo"
+      - image: /assets/images/credentials/2017/06/SAK_ikropka-certyfikat-001.jpg
+        alt: "SAK ikropka certyfikat 001"
+      - image: /assets/images/credentials/2017/06/GCL_zielone_dachy.jpg
+        alt: "GCL zielone dachy"
+      - image: /assets/images/credentials/2018/08/Dyplom_GCL_zielone-dachy.jpg
+        alt: "Dyplom GCL zielone dachy"
+      - image: /assets/images/credentials/2017/06/certyfikat_autodesk_3ds.jpg
+        alt: "Certyfikat Autodesk 3ds"
+      - image: /assets/images/credentials/2017/06/certyfikat_pcc_3ds.jpg
+        alt: "Certyfikat PCC 3ds"
+      - image: /assets/images/credentials/2017/06/certyfikat.png
+        alt: "Certyfikat"
+      - image: /assets/images/credentials/2017/06/InfoInwest_akademia_dachu.jpg
+        alt: "InfoInwest akademia dachu"
+      - image: /assets/images/credentials/2017/06/InfoInwest_galeria_wnetrz.jpg
+        alt: "InfoInwest galeria wnętrz"
+      - image: /assets/images/credentials/2017/06/InfoInwest_01_08.jpg
+        alt: "InfoInwest 01 08"
+      - image: /assets/images/credentials/2017/06/InfoInwest_02_07.jpg
+        alt: "InfoInwest 02 07"
+      - image: /assets/images/credentials/2017/06/InfoInwest_10_06.jpg
+        alt: "InfoInwest 10 06"
+      - image: /assets/images/credentials/2017/06/InfoInwest_02_06.jpg
+        alt: "InfoInwest 02 06"
+      - image: /assets/images/credentials/2019/03/Zaświadczenie-Natura-2000-DKA-m.jpg
+        alt: "Zaświadczenie Natura 2000 DKA"
+      - image: /assets/images/credentials/2019/03/Zaświadczenie-Natura-2000-NB-m.jpg
+        alt: "Zaświadczenie Natura 2000 NB"
+
+  - type: partnerships
+    heading: "Współpracujemy"
+    content: |
+      Przez lata działalności Firmy wypracowaliśmy profesjonalne relacje z Kooperantami. Dzięki tej współpracy jesteśmy na bieżąco z najnowszymi i sprawdzonymi produktami, rozwiązaniami, technologiami, wiedzą, a nasze usługi spełniają wymogi najbardziej wymagających Klientów.
+
+      Nasi partnerzy: GCL, VF PFLANZEN, TEURGIUM, GARDEN STONES, ERBIS, MMCITE, DASAG, SIK-HOLZ, FUNDACJA EKOROZWOJU, ARCHGOODS, KOMPAN, ZANO, MMCITE, PUCZYŃSKI.
+    logos: []
+---
