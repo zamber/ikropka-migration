@@ -960,3 +960,39 @@ Tested with Playwright browser automation:
 
 **Next Priority:** Navigation structure and footer implementation
 
+
+---
+
+## Post Content Fix - 2026-07-16
+
+**Problem Diagnosed:**
+- Blog posts had only frontmatter, no content or images
+- Posts displayed as empty articles with titles only
+- Root cause: `convert-yaml-to-jekyll.py` only handled 'intro' and 'content' section types
+- YAML source files used 'body' and 'image' section types which were ignored
+
+**Fix Applied:**
+- Added 'body' section handler to convert_post() function (same logic as intro/content)
+- Added 'image' section handler:
+  - Converts to markdown format: `![alt](url)`
+  - Includes caption as italic text below image
+  - Extracts alt text from 'alt' or 'caption' fields
+- Re-converted all 64 blog posts with updated script
+
+**Results:**
+- All 64 blog posts now have full text content
+- Images render correctly inline in post content
+- Featured images display in post headers
+- Blog listing shows proper excerpts with featured images
+
+**Files Changed:**
+- `scripts/convert-yaml-to-jekyll.py` - added body/image section handlers
+- `docs/_posts/*.md` - all 64 posts re-generated with content
+- `docs/_pages/index.md` - fixed portfolio-grid.html include (replaced with inline code)
+
+**Testing:**
+- Verified with Playwright browser automation
+- All post content renders correctly
+- All inline images display properly
+- No console errors (except minor 404s for missing images in some old posts)
+
