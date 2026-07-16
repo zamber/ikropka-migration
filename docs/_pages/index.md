@@ -52,7 +52,7 @@ Zapoznaj się z naszymi najnowszymi realizacjami:
   <div class="featured-item">
     <a href="{{ project.url | relative_url }}">
       {% if project.featured_image %}
-        <img src="{{ site.baseurl }}{{ project.featured_image }}" alt="{{ project.title }}" loading="lazy">
+        <img src="{{ site.baseurl }}{{ project.featured_image }}" alt="{{ project.title | xml_escape }}" loading="lazy">
       {% endif %}
       <h4>{{ project.title }}</h4>
     </a>

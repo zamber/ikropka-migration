@@ -25,7 +25,7 @@ Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobra
   <div class="portfolio-item" data-category="{{ project.category }}">
     <a href="{{ project.url | relative_url }}">
       {% if project.featured_image %}
-        <img src="{{ site.baseurl }}{{ project.featured_image }}" alt="{{ project.title }}" loading="lazy">
+        <img src="{{ site.baseurl }}{{ project.featured_image }}" alt="{{ project.title | xml_escape }}" loading="lazy">
       {% endif %}
       <h3>{{ project.title }}</h3>
       {% if project.description %}
