@@ -10,6 +10,13 @@ sidebar:
 
 Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobrazu.
 
+### Wyszukaj projekt
+
+<div class="portfolio-search">
+  <input type="text" id="search-input" placeholder="Szukaj projektu po nazwie, lokalizacji lub opisie..." />
+  <button id="clear-search" style="display: none;">Wyczyść</button>
+</div>
+
 ### Filtruj według kategorii
 
 <div class="portfolio-filters">
@@ -40,6 +47,42 @@ Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobra
 </div>
 
 <style>
+.portfolio-search {
+  margin: 2rem 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.portfolio-search input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 2px solid #52adc8;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.portfolio-search input:focus {
+  outline: none;
+  border-color: #3a8ba0;
+}
+
+.portfolio-search button {
+  padding: 0.75rem 1.5rem;
+  background: #52adc8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.portfolio-search button:hover {
+  background: #3a8ba0;
+}
+
 .portfolio-filters {
   margin: 2rem 0;
   text-align: center;
@@ -114,11 +157,32 @@ Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobra
 }
 </style>
 
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const filterBtns = document.querySelectorAll('.filter-btn');
   const portfolioItems = document.querySelectorAll('.portfolio-item');
+  const searchInput = document.getElementById('search-input');
+  const clearBtn = document.getElementById('clear-search');
 
+  // Build search index from portfolio items
+  const searchData = Array.from(portfolioItems).map(item => ({
+    element: item,
+    title: item.querySelector('h3')?.textContent || '',
+    description: item.querySelector('.excerpt')?.textContent || '',
+    category: item.dataset.category || ''
+  }));
+
+  // Initialize Fuse.js
+  const fuse = new Fuse(searchData, {
+    keys: ['title', 'description', 'category'],
+    threshold: 0.3,
+    includeScore: true
+  });
+
+  let currentFilter = 'all';
+
+  // Category filtering
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -127,17 +191,62 @@ document.addEventListener('DOMContentLoaded', function() {
       filterBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
 
-      // Filter items
-      const filter = this.dataset.filter;
+      // Store current filter
+      currentFilter = this.dataset.filter;
 
+      // Apply filter
+      applyFilters();
+    });
+  });
+
+  // Search functionality
+  searchInput.addEventListener('input', function() {
+    const query = this.value.trim();
+
+    if (query.length > 0) {
+      clearBtn.style.display = 'block';
+    } else {
+      clearBtn.style.display = 'none';
+    }
+
+    applyFilters();
+  });
+
+  // Clear search
+  clearBtn.addEventListener('click', function() {
+    searchInput.value = '';
+    clearBtn.style.display = 'none';
+    applyFilters();
+  });
+
+  function applyFilters() {
+    const query = searchInput.value.trim();
+
+    if (query.length === 0) {
+      // No search - just apply category filter
       portfolioItems.forEach(item => {
-        if (filter === 'all' || item.dataset.category === filter) {
+        if (currentFilter === 'all' || item.dataset.category === currentFilter) {
           item.classList.remove('hidden');
         } else {
           item.classList.add('hidden');
         }
       });
-    });
-  });
+    } else {
+      // Search + category filter
+      const results = fuse.search(query);
+      const matchedElements = new Set(results.map(r => r.item.element));
+
+      portfolioItems.forEach(item => {
+        const matchesSearch = matchedElements.has(item);
+        const matchesCategory = currentFilter === 'all' || item.dataset.category === currentFilter;
+
+        if (matchesSearch && matchesCategory) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+    }
+  }
 });
 </script>
