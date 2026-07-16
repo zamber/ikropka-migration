@@ -117,7 +117,7 @@ Tworzymy projekty zieleni dopasowane do Twoich potrzeb:
 <a name="other"></a>
 ### Inne Usługi
 
-{% assign other_services = site.services | where_exp: "service", "service.service_type != 'dendrology' and service.service_type != 'design'" %}
+{% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}
 <ul>
 {% for service in other_services %}
