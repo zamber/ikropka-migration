@@ -5,19 +5,19 @@ description: Projekt Kieszonkowego Parku Uśmiechu tworzy przyjazną przestrzeń
 featured_image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-slider.jpg
 gallery:
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj1.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj1.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj2.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj2.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj3.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj3.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj4.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj4.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj5.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj5.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj6.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj6.jpg
 - alt: Wizualizacja Parku Uśmiechu
-  image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj7.jpg
+  image_path: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-zdj7.jpg
 layout: single
 permalink: /portfolio/kieszonkowy-park-usmiechu/
 project:

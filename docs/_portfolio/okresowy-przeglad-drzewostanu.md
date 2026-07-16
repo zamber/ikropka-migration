@@ -5,13 +5,13 @@ description: Okresowy przegląd drzewostanu na terenie Zespołu Szkół Nr 3 we 
 featured_image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-slajder-b.jpg
 gallery:
 - alt: Teren szkoły
-  image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-1.jpg
+  image_path: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-1.jpg
 - alt: Drzewostan szkolny
-  image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-2.jpg
+  image_path: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-2.jpg
 - alt: Zieleń na terenie szkoły
-  image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-3.jpg
+  image_path: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-3.jpg
 - alt: Otoczenie boisk szkolnych
-  image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-4.jpg
+  image_path: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-zdj-4.jpg
 layout: single
 permalink: /portfolio/okresowy-przeglad-drzewostanu/
 project:

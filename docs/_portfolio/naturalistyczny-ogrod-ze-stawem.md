@@ -6,19 +6,19 @@ featured_image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jp
 gallery:
 - alt: Widok ogrodu naturalistycznego ze stawem
   caption: ''
-  image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo1.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo1.jpg
 - alt: Kompozycja roślinna w ogrodzie
   caption: ''
-  image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo2.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo2.jpg
 - alt: Staw z wyspą w ogrodzie
   caption: ''
-  image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo3.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo3.jpg
 - alt: Rabaty bylin i traw ozdobnych
   caption: ''
-  image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo4.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo4.jpg
 - alt: Naturalistyczne wnętrze ogrodowe
   caption: ''
-  image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo5.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo5.jpg
 layout: single
 permalink: /portfolio/naturalistyczny-ogrod-ze-stawem/
 project:

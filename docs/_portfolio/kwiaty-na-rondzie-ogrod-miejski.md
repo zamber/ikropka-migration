@@ -5,45 +5,45 @@ description: Projekt ogrodu miejskiego na rondzie – sezonowe i wieloletnie nas
 featured_image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/slider-1.jpg
 gallery:
 - alt: Wizualizacja ogrodu miejskiego na Rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY2-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY2-min.jpg
 - alt: Widok na zagospodarowanie ronda
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-3-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-3-min.jpg
 - alt: Projekt zieleni na rondzie Powstańców Śląskich
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich3.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich3.jpg
 - alt: Wizualizacja ronda Powstańców Śląskich
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich1.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich1.jpg
 - alt: Projekt rabat kwiatowych na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-2-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-2-min.jpg
 - alt: Widok ogrodu miejskiego
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-9-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-9-min.jpg
 - alt: Zagospodarowanie zielenią ronda
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-5-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-5-min.jpg
 - alt: Koncepcja ogrodu miejskiego
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-1-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-1-min.jpg
 - alt: Projekt nasadzeń kwiatowych
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-4-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-4-min.jpg
 - alt: Wizualizacja podstawowa ogrodu na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY-min.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY-min.jpg
 - alt: Zdjęcie projektu Kwiaty na Rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj1.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj1.jpg
 - alt: Widok zieleni na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj10.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj10.jpg
 - alt: Nasadzenia kwiatowe na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj30.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj30.jpg
 - alt: Szczegóły projektu zieleni
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj40.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj40.jpg
 - alt: Rabatki kwiatowe w centrum miasta
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj50.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj50.jpg
 - alt: Ukwiecona przestrzeń miejska
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj61.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj61.jpg
 - alt: Ogród miejski na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj70.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj70.jpg
 - alt: Widok ogrodu miejskiego
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj80.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj80.jpg
 - alt: Realizacja zieleni na rondzie
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj90.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj90.jpg
 - alt: Projekt zagospodarowania terenu
-  image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj91.jpg
+  image_path: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj91.jpg
 layout: single
 permalink: /portfolio/kwiaty-na-rondzie-ogrod-miejski/
 project:

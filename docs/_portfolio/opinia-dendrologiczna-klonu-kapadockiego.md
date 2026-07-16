@@ -5,21 +5,21 @@ description: Opinia dendrologiczna klonu kapadockiego obejmuje ocenę jego stanu
 featured_image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-1.3-1.jpg
 gallery:
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-1-1.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-2.1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-2.1.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-2.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-2.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-3.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-3.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-4.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-4.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-5.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-5.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-6.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-6.jpg
 - alt: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-7.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-7.jpg
 layout: single
 permalink: /portfolio/opinia-dendrologiczna-klonu-kapadockiego/
 project:

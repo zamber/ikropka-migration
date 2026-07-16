@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Bia�
 gallery:
 - alt: Widok zabytkowego parku w Białkowie
   caption: ''
-  image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-1.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-1.jpg
 - alt: Drzewostan zabytkowego założenia parkowego
   caption: ''
-  image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-2.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-2.jpg
 - alt: Inwentaryzacja dendrologiczna w Białkowie
   caption: ''
-  image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-4.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-4.jpg
 - alt: Zabytkowe drzewa w parku pałacowym
   caption: ''
-  image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-5.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-5.jpg
 layout: single
 permalink: /portfolio/operat-zabytkowym-bialkowie/
 project:

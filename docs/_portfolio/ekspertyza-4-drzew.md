@@ -6,13 +6,13 @@ featured_image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-s
 gallery:
 - alt: Ekspertyza 4 drzew – zdjęcie 1
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-1-1.jpg
 - alt: Ekspertyza 4 drzew – zdjęcie 2
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-2.jpg
+  image_path: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-2.jpg
 - alt: Ekspertyza 4 drzew – zdjęcie 3
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-3.jpg
+  image_path: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-3.jpg
 layout: single
 permalink: /portfolio/ekspertyza-4-drzew/
 project:

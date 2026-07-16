@@ -6,13 +6,13 @@ featured_image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-slider1.jpg
 gallery:
 - alt: Wizualizacja bulwaru
   caption: ''
-  image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-2.jpg
+  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-2.jpg
 - alt: Wizualizacja bulwaru
   caption: ''
-  image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-6.jpg
+  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-6.jpg
 - alt: Wizualizacja bulwaru
   caption: ''
-  image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-1.jpg
+  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-1.jpg
 layout: single
 permalink: /portfolio/nadodrzanski-bulwar/
 project:

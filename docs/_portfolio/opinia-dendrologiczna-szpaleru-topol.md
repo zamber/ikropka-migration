@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Op
 gallery:
 - alt: Szpaler topól – zdjęcie 1
   caption: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-2.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-2.jpg
 - alt: Szpaler topól – zdjęcie 2
   caption: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-5.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-5.jpg
 - alt: Szpaler topól – zdjęcie 3
   caption: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-3.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-3.jpg
 - alt: Szpaler topól – zdjęcie 4
   caption: ''
-  image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-4.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-zdj-4.jpg
 layout: single
 permalink: /portfolio/opinia-dendrologiczna-szpaleru-topol/
 project:

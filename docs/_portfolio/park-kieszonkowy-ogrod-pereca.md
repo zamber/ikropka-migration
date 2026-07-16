@@ -5,47 +5,47 @@ description: Park kieszonkowy „Ogród Pereca” we Wrocławiu – projekt ziel
 featured_image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-1.jpg
 gallery:
 - alt: Wizualizacja parku kieszonkowego Ogród Pereca
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-2.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-2.jpg
 - alt: Wizualizacja koncepcji zagospodarowania
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-3.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-3.jpg
 - alt: Wizualizacja zieleni i małej architektury
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca3-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca3-min.jpg
 - alt: Wizualizacja układu centralnego placu
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca1-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca1-min.jpg
 - alt: Wizualizacja alejki parkowej
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca2-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca2-min.jpg
 - alt: Wizualizacja nasadzeń krzewów
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca6-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca6-min.jpg
 - alt: Wizualizacja kompozycji zieleni
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca7-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca7-min.jpg
 - alt: Wizualizacja parku Ogród Pereca
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca9-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca9-min.jpg
 - alt: Wizualizacja zagospodarowania placu
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca10-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca10-min.jpg
 - alt: Wizualizacja projektu
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca12-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca12-min.jpg
 - alt: Wizualizacja parku
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca11-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca11-min.jpg
 - alt: Wizualizacja zieleni
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca8-min_optimized.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca8-min_optimized.jpg
 - alt: Wizualizacja detali
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca5-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca5-min.jpg
 - alt: Wizualizacja układu przestrzennego
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca4-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca4-min.jpg
 - alt: Realizacja parku kieszonkowego Ogród Pereca
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja-min_optimized.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja-min_optimized.jpg
 - alt: Realizacja placu z ławkami
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja2-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja2-min.jpg
 - alt: Realizacja nasadzeń w parku
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja3-min_optimized.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja3-min_optimized.jpg
 - alt: Fotografia realizacji
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-8.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-8.jpg
 - alt: Fotografia parku po realizacji
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-5.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-5.jpg
 - alt: Fotografia zieleni w parku
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-9-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-9-min.jpg
 - alt: Fotografia ostatecznego zagospodarowania
-  image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-10.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-10.jpg
 layout: single
 permalink: /portfolio/park-kieszonkowy-ogrod-pereca/
 project:

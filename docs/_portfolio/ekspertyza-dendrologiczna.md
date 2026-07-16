@@ -5,11 +5,11 @@ description: Ekspertyza dendrologiczna pozwala ocenić stan drzew i określić z
 featured_image: /assets/images/portfolio/ekspertyza-dendrologiczna/slider-1.jpg
 gallery:
 - alt: ''
-  image: /assets/images/portfolio/ekspertyza-dendrologiczna/Rozyckiego_IKROPKA_ekspertyza.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/Rozyckiego_IKROPKA_ekspertyza.jpg
 - alt: ''
-  image: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego-podstawowy.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego-podstawowy.jpg
 - alt: ''
-  image: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego_przesadzenia-podstawowy.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego_przesadzenia-podstawowy.jpg
 layout: single
 permalink: /portfolio/ekspertyza-dendrologiczna/
 project:

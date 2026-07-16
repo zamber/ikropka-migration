@@ -6,40 +6,40 @@ featured_image: /assets/images/portfolio/park-w-bialaczowie/main.jpg
 gallery:
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-1-1.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-2.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-2.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-3.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-3.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-4.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-4.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-5.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-5.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-6.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-6.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-7.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-7.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-8.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-8.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-9.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-9.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-10.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-10.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-11.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-11.jpg
 - alt: Wizualizacja parku w Białaczowie
   caption: ''
-  image: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-12.jpg
+  image_path: /assets/images/portfolio/park-w-bialaczowie/Bialaczow-zdj-12.jpg
 layout: single
 permalink: /portfolio/park-w-bialaczowie/
 project:

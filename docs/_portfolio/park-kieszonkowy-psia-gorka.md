@@ -6,43 +6,43 @@ featured_image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Grabskiego-
 gallery:
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj1.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj1.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka2-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka2-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka3-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka3-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka4-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka4-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka7-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka7-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka9-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka9-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka5-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka5-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka10-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka10-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka11-min.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/ikropka-park-kieszonkowy-psia-górka11-min.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj4-1.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj4-1.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj6-1.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj6-1.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj7.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Parki-kieszonkowe-Grabskiego-zdj7.jpg
 layout: single
 permalink: /portfolio/park-kieszonkowy-psia-gorka/
 project:

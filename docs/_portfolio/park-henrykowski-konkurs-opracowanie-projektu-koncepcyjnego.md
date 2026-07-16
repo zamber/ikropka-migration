@@ -6,52 +6,52 @@ featured_image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-pr
 gallery:
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza10-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza10-min.jpg
 - alt: Wizualizacja Parku Henrykowskiego
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza1-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza1-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza2-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza2-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza3-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza3-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza4-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza4-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza5-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza5-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza8-min_optimized-min_optimized.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza8-min_optimized-min_optimized.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza6-min-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza6-min-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza7-min-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza7-min-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza13-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza13-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza14-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza14-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza-11-min_optimized-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza-11-min_optimized-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza12-min_optimized.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza12-min_optimized.jpg
 - alt: Wizualizacja Parku Henrykowskiego
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs3-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs3-min.jpg
 - alt: Plansza konkursowa Park Henrykowski
   caption: ''
-  image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza9-min.jpg
+  image_path: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-konkurs-plansza9-min.jpg
 layout: single
 permalink: /portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/
 project:

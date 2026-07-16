@@ -5,13 +5,13 @@ description: Szkolenie „Drogi dla Natury” w Nowych Skalmierzycach – IKROPK
 featured_image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/main.jpg
 gallery:
 - alt: Uczestnicy szkolenia „Drogi dla Natury” w Nowych Skalmierzycach
-  image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-1-1.jpg
 - alt: Praktyczne zajęcia z diagnostyki drzew
-  image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-2.jpg
+  image_path: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-2.jpg
 - alt: Pielęgnacja drzew metodą alpinistyczną
-  image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-3.jpg
+  image_path: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-3.jpg
 - alt: Inwentaryzacja pomnikowego drzewa
-  image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-4.jpg
+  image_path: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-4.jpg
 layout: single
 permalink: /portfolio/ochrona-zarzadzanie-drzewostanem/
 project:

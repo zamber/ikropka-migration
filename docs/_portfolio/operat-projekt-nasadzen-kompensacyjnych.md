@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych
 gallery:
 - alt: Widok terenu inwestycji w Wojkowicach
   caption: ''
-  image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo1.jpg
+  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo1.jpg
 - alt: Dokumentacja projektowa nasadzeń kompensacyjnych
   caption: ''
-  image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo2.jpg
+  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo2.jpg
 - alt: Projekt szpaleru drzew wzdłuż granicy działki
   caption: ''
-  image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo3.jpg
+  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo3.jpg
 - alt: Szczegóły projektu nasadzeń zastępczych
   caption: ''
-  image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo4.jpg
+  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo4.jpg
 layout: single
 permalink: /portfolio/operat-projekt-nasadzen-kompensacyjnych/
 project:

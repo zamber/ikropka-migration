@@ -6,15 +6,15 @@ description: Nasadzenia kompensacyjne pomagają zrekompensować usunięcie drzew
 featured_image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-slider11.jpg
 gallery:
 - alt: Nasadzenia kompensacyjne na terenie Borek
-  image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-1.jpg
+  image_path: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-1.jpg
 - alt: Nasadzenia kompensacyjne na terenie Borek
-  image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-2-1.jpg
+  image_path: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-2-1.jpg
 - alt: Nasadzenia kompensacyjne na terenie Borek
-  image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-3.jpg
+  image_path: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-3.jpg
 - alt: Nasadzenia kompensacyjne na terenie Borek
-  image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-4.jpg
+  image_path: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-4.jpg
 - alt: Nasadzenia kompensacyjne na terenie Borek
-  image: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-5.jpg
+  image_path: /assets/images/portfolio/nasadzenia-kompensacyjne/Nasadzenia-kompensacyjne-Borek-zdj-5.jpg
 layout: single
 permalink: /portfolio/nasadzenia-kompensacyjne/
 project:

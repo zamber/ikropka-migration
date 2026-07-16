@@ -5,27 +5,27 @@ description: Projekt Alejowego Arboretum łączy edukację przyrodniczą z ochro
 featured_image: /assets/images/portfolio/alejowe-arboretum/slider-11.jpg
 gallery:
 - alt: Alejowe Arboretum - zdjęcie 1
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-1.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-1.jpg
 - alt: Alejowe Arboretum - zdjęcie 2
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-2.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-2.jpg
 - alt: Alejowe Arboretum - zdjęcie 3
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-3.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-3.jpg
 - alt: Alejowe Arboretum - zdjęcie 4
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-4.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-4.jpg
 - alt: Alejowe Arboretum - zdjęcie 5
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-5.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-5.jpg
 - alt: Alejowe Arboretum - zdjęcie 6
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-6.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-6.jpg
 - alt: Alejowe Arboretum - zdjęcie 7
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-7.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-7.jpg
 - alt: Alejowe Arboretum - zdjęcie 8
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-8.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-8.jpg
 - alt: Alejowe Arboretum - zdjęcie 9
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-9.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-9.jpg
 - alt: Alejowe Arboretum - zdjęcie 10
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-10.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-10.jpg
 - alt: Alejowe Arboretum - zdjęcie 11
-  image: /assets/images/portfolio/alejowe-arboretum/zdj-11.jpg
+  image_path: /assets/images/portfolio/alejowe-arboretum/zdj-11.jpg
 layout: single
 permalink: /portfolio/alejowe-arboretum/
 project:

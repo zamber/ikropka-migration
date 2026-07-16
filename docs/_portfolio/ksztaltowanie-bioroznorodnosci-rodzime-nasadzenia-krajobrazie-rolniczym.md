@@ -5,19 +5,19 @@ description: Projekt kształtowania bioróżnorodności poprzez rodzime nasadzen
 featured_image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-6.jpg
 gallery:
 - alt: Wizualizacja projektu nasadzeń rodzimych w krajobrazie rolniczym powiatu głubczyckiego
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/GLUBCZYCE-DO-PORTFOLIO-2-scaled.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/GLUBCZYCE-DO-PORTFOLIO-2-scaled.jpg
 - alt: Plan koncepcyjny siedlisk pomostowych dla dzierzby gąsiorka
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/GLUBCZYCE-DO-PORTFOLIO-1-scaled.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/GLUBCZYCE-DO-PORTFOLIO-1-scaled.jpg
 - alt: Schemat korytarzy ekologicznych i nasadzeń w krajobrazie rolniczym
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/2.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/2.jpg
 - alt: Widok ogólny projektu zieleni w powiecie głubczyckim
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1.jpg
 - alt: Detal nasadzeń tworzących siedliska dla ptaków
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-3.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-3.jpg
 - alt: Wizualizacja remiz i przydrożnych pasów zieleni
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-4.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-4.jpg
 - alt: Plan projektu nasadzeń rodzimych w krajobrazie rolniczym
-  image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/1.jpg
+  image_path: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/1.jpg
 layout: single
 permalink: /portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/
 project:

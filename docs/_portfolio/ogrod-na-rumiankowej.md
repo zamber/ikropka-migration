@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankow
 gallery:
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-1-1.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-2.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-2.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-3.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-3.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-4.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-4.jpg
 layout: single
 permalink: /portfolio/ogrod-na-rumiankowej/
 project:

@@ -6,40 +6,40 @@ featured_image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/
 gallery:
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo1.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo1.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo2.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo2.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo3.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo3.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo4.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo4.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo5.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo5.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo6.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo6.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo7.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo7.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo8.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo8.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo9.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo9.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo10.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo10.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo11.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo11.jpg
 - alt: Nadzór przyrodniczy w Parku Szczytnickim
   caption: ''
-  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo12.jpg
+  image_path: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo12.jpg
 layout: single
 permalink: /portfolio/nadzor-przyrodniczy-parku-szczytnickim/
 project:

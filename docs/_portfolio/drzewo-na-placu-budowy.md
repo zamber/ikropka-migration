@@ -5,11 +5,11 @@ description: Ochrona drzew na placu budowy pozwala ograniczyć ryzyko uszkodzeń
 featured_image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-slider.jpg
 gallery:
 - alt: Drzewo na placu budowy - zdjęcie 1
-  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-1-1.jpg
 - alt: Drzewo na placu budowy - zdjęcie 3
-  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-3.jpg
+  image_path: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-3.jpg
 - alt: Drzewo na placu budowy - zdjęcie 2
-  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-2.jpg
+  image_path: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-2.jpg
 layout: single
 permalink: /portfolio/drzewo-na-placu-budowy/
 project:

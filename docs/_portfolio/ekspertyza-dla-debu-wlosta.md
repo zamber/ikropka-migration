@@ -6,13 +6,13 @@ featured_image: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/main.jpg
 gallery:
 - alt: Dąb Włosta
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-1.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-1.jpg
 - alt: Dąb Włosta
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-2.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-2.jpg
 - alt: Dąb Włosta
   caption: ''
-  image: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-3.jpg
+  image_path: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/zdj-3.jpg
 layout: single
 permalink: /portfolio/ekspertyza-dla-debu-wlosta/
 project:

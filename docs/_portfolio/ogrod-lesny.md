@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-slider1.jpg
 gallery:
 - alt: Widok na ogród leśny
   caption: ''
-  image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-1.jpg
+  image_path: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-1.jpg
 - alt: Ogród leśny
   caption: ''
-  image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-2.jpg
+  image_path: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-2.jpg
 - alt: Ogród leśny
   caption: ''
-  image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-3.jpg
+  image_path: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-3.jpg
 - alt: Ogród leśny
   caption: ''
-  image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-4.jpg
+  image_path: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-zdj-4.jpg
 layout: single
 permalink: /portfolio/ogrod-lesny/
 project:

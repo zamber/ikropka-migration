@@ -7,16 +7,16 @@ featured_image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-s
 gallery:
 - alt: Widok ogrodu w Krzykowie
   caption: ''
-  image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-1-1.jpg
 - alt: Aranżacja roślinna ogrodu
   caption: ''
-  image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-2.jpg
+  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-2.jpg
 - alt: Kompozycje roślinne w ogrodzie
   caption: ''
-  image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-3.jpg
+  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-3.jpg
 - alt: Szczegóły ogrodu przydomowego
   caption: ''
-  image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-4.jpg
+  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-4.jpg
 layout: single
 permalink: /portfolio/niewymagajacy-ogrod-krzykowie/
 project:

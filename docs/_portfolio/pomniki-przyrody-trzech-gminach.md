@@ -5,17 +5,17 @@ description: Inwentaryzacja dendrologiczna 250 drzew i 16 alej pomnikowych na te
 featured_image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-slider11.jpg
 gallery:
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-1-1.jpg
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-2.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-2.jpg
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-3.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-3.jpg
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-4.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-4.jpg
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-5.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-5.jpg
 - alt: Zdjęcie z inwentaryzacji pomników przyrody
-  image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-6.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-6.jpg
 layout: single
 permalink: /portfolio/pomniki-przyrody-trzech-gminach/
 project:

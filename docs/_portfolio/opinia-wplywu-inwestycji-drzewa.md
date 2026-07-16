@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-
 gallery:
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj1.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj1.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj2.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj2.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj3.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj3.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj4.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj4.jpg
 layout: single
 permalink: /portfolio/opinia-wplywu-inwestycji-drzewa/
 project:

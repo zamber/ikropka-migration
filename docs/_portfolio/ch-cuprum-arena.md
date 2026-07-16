@@ -6,34 +6,34 @@ featured_image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-slider1.jpg
 gallery:
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-1-1.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-2.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-2.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-3.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-3.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-4.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-4.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-5.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-5.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-6.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-6.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-7.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-7.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-8.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-8.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-9.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-9.jpg
 - alt: Wizualizacja zagospodarowania terenu CH Cuprum Arena
   caption: ''
-  image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-10.jpg
+  image_path: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-zdj-10.jpg
 layout: single
 permalink: /portfolio/ch-cuprum-arena/
 project:

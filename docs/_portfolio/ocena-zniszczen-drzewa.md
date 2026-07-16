@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/ocena-zniszczen-drzewa/main.jpg
 gallery:
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 1
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj1.jpg
+  image_path: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj1.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 2
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj2.jpg
+  image_path: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj2.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 3
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj3.jpg
+  image_path: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj3.jpg
 - alt: Ekspertyza dendrologiczna jarzębu – zdjęcie 4
   caption: ''
-  image: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj4.jpg
+  image_path: /assets/images/portfolio/ocena-zniszczen-drzewa/zdj4.jpg
 layout: single
 permalink: /portfolio/ocena-zniszczen-drzewa/
 project:

@@ -5,13 +5,13 @@ description: Ekspertyza z próbą obciążeniową drzewa pozwala ocenić jego st
 featured_image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/slider-expertyza-lipa_ikropka.jpg
 gallery:
 - alt: Ekspertyza dendrologiczna lipy drobnolistnej
-  image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj-2_ikropka.jpg
+  image_path: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj-2_ikropka.jpg
 - alt: Badanie stabilności drzewa metodą elasto-inclino
-  image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj1_ikropka.jpg
+  image_path: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj1_ikropka.jpg
 - alt: Dokumentacja fotograficzna ekspertyzy
-  image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/ekspertyza-lipa-zdj3_ikropka.jpg
+  image_path: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/ekspertyza-lipa-zdj3_ikropka.jpg
 - alt: Przygotowanie do badań obciążeniowych drzewa
-  image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/przygotowanie-do-badan-ekspertyza-lipa_ikropka.jpg
+  image_path: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/przygotowanie-do-badan-ekspertyza-lipa_ikropka.jpg
 layout: single
 permalink: /portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/
 project:

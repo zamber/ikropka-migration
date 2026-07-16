@@ -6,16 +6,16 @@ featured_image: /assets/images/portfolio/fajne-podworko/Norwida-slider1.jpg
 gallery:
 - alt: Wizualizacja projektu zieleni w podwórzu we Wrocławiu
   caption: ''
-  image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/fajne-podworko/Norwida-zdj-1-1.jpg
 - alt: Projekt nasadzeń zamiennych w wnętrzu podwórzowym
   caption: ''
-  image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-2.jpg
+  image_path: /assets/images/portfolio/fajne-podworko/Norwida-zdj-2.jpg
 - alt: Zagospodarowanie zielenią podwórka we Wrocławiu
   caption: ''
-  image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-3.jpg
+  image_path: /assets/images/portfolio/fajne-podworko/Norwida-zdj-3.jpg
 - alt: Kompozycja roślinna w projekcie podwórza
   caption: ''
-  image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-4.jpg
+  image_path: /assets/images/portfolio/fajne-podworko/Norwida-zdj-4.jpg
 layout: single
 permalink: /portfolio/fajne-podworko/
 project:

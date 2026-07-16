@@ -5,17 +5,17 @@ description: Projekt zagospodarowania terenów zieleni na Zakrzówku – tworzen
 featured_image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-slider-1.jpg
 gallery:
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj1-1.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj1-1.jpg
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj2.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj2.jpg
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj3.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj3.jpg
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj4.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj4.jpg
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj5.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj5.jpg
 - alt: ''
-  image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj6.jpg
+  image_path: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj6.jpg
 layout: single
 permalink: /portfolio/nasz-zakrzowek/
 project:

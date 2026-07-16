@@ -5,17 +5,17 @@ description: Koncepcja programowo-przestrzenna rewitalizacji zabytkowego Parku M
 featured_image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-slider-1.jpg
 gallery:
 - alt: Wizualizacja koncepcji Parku Młodzieżowego w Świdnicy
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj.jpg
 - alt: Koncepcja zagospodarowania Parku Młodzieżowego
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj4-1.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj4-1.jpg
 - alt: Projekt przestrzenny parku
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj5-1.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj5-1.jpg
 - alt: Widok na koncepcję parku
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj2-1.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj2-1.jpg
 - alt: Szczegóły projektu parku
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj3-1.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj3-1.jpg
 - alt: Wizualizacja rewitalizacji parku
-  image: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj1-1.jpg
+  image_path: /assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj1-1.jpg
 layout: single
 permalink: /portfolio/park-mlodziezowy-w-swidnicy/
 project:

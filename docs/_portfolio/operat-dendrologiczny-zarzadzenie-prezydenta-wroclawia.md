@@ -5,13 +5,13 @@ description: Operat dendrologiczny dla budowy gazociągu we Wrocławiu zgodny z 
 featured_image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg
 gallery:
 - alt: Operat dendrologiczny – analiza uniknięcia kolizji
-  image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg
 - alt: Inwentaryzacja drzewostanu
-  image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj3_ikropka.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj3_ikropka.jpg
 - alt: Plan operatu dendrologicznego
-  image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj1_ikropka.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj1_ikropka.jpg
 - alt: Strefy ochrony drzew
-  image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj2_ikropka.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj2_ikropka.jpg
 layout: single
 permalink: /portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/
 project:
