@@ -22,3 +22,10 @@ title: Projekt ochrony drzew na placu budowy
 Nasza pracownia wykonuje operaty dendrologiczne rozszerzone o analizę możliwości uniknięcia kolizji z planowaną inwestycją oraz projekt ochrony drzew na placu budowy.
 
 
+Na potrzeby inwestora nasza pracownia wykonuje operaty dendrologiczne rozszerzone o analizę możliwości uniknięcia kolizji z planowaną inwestycją oraz projekt ochrony drzew na placu budowy.
+
+Opracowanie to – oprócz podstawowych informacji na temat składu gatunkowego, parametrów drzew oraz stanu sanitarnego ich zachowania, czy gospodarki drzewostanem zawiera informację czy i w jaki sposób można uniknąć kolizji z drzewostanem na placu budowy. Analiza ta przeprowadzana jest w oparciu o aktualny projekt zagospodarowania terenu, inwentaryzację dendrologiczną oraz wyznaczenie strefy ochrony drzew (SOD). Projekt ochrony drzew na placu budowy zawiera wytyczne dotyczące tego jak postępować w przypadku prac w zasięgu strefy ochrony drzew (SOD), m.in. sposób zabezpieczenia drzew (pni, koron) i krzewów, wykonania drogi tymczasowej dla pojazdów lub pieszych, realizację przecisków, zalecenia dotyczące prowadzenia prac ziemnych oraz prac w koronach drzew.
+
+
+![Projekt ochrony drzew na placu budowy](/assets/images/news/aktualności-ikropka_1.jpg)
+

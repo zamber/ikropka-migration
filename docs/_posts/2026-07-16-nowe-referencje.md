@@ -22,3 +22,10 @@ title: NOWE REFERENCJE
 Zadowoleni Klienci są naszą wyjątkową wizytówką!
 
 
+Miło nam poinformować, że otrzymaliśmy kolejne referencje za wykonane ostatnio zlecenia projektowe z Dolnego Śląska. Za prace dendrologiczno - projektowe w zabytkowym Parku Młodzieżowym o pow. 13 ha oraz za prace projektowe przy realizacji projektu WBO - "Oazy Buczackiej" we Wrocławiu.
+
+
+![NOWE REFERENCJE](/assets/images/news/referencje-zdj1.jpg)
+
+*Kliknij, aby powiększyć*
+

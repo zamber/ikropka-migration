@@ -325,6 +325,21 @@ def convert_post(yaml_file, output_dir):
                 content_parts.append(f"## {section.get('heading', '')}\n\n")
             content_parts.append(f"{section.get('content', '')}\n\n")
 
+        elif section_type == 'body':
+            if section.get('heading'):
+                content_parts.append(f"## {section.get('heading', '')}\n\n")
+            content_parts.append(f"{section.get('content', '')}\n\n")
+
+        elif section_type == 'image':
+            image_url = section.get('image', '')
+            alt_text = section.get('alt', section.get('caption', ''))
+            caption = section.get('caption', '')
+
+            if image_url:
+                content_parts.append(f"![{alt_text}]({image_url})\n\n")
+                if caption and caption != alt_text:
+                    content_parts.append(f"*{caption}*\n\n")
+
     # Write file
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("---\n")

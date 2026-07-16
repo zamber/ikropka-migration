@@ -23,3 +23,6 @@ Zawsze chętnie korzystamy z możliwości poszerzania swojej wiedzy, horyzontów
 W ubiegłym tygodniu wzięliśmy udział w dwudniowym Forum Przyjaciół Drzew.
 
 
+IKROPKA od lat projektuje w sposób przyjazny drzewom, w naszych projektach ze szczególną starannością zalecamy rozwiązania najkorzystniejsze dla drzew. Jako architekci krajobrazu wiemy, że warto. Cieszymy się, że mogliśmy po raz kolejny uczestniczyć w Forum, dowiedzieć się czegoś nowego, poznać ciekawych ludzi. Dobrze jest wymieniać się poglądami i doświadczeniami, zarówno międzymiastowo, jak i międzynarodowo.
+
+

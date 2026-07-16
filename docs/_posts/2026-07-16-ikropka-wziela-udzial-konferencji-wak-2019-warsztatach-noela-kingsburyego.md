@@ -23,3 +23,8 @@ title: IKROPKA WZIĘŁA UDZIAŁ W KONFERENCJI WAK 2019 I WARSZTATACH NOELA KINGS
 Podczas dwudniowej konferencji "Współczesna Architektura Krajobrazu 2019", organizowanej przez Stowarzyszenie Architektury Krajobrazu, mieliśmy okazję wysłuchać wykładów słynnych, europejskich architektów krajobrazu tj.: Jo Thompson, Noel Kingsbury, Marc Weißhaar, Peter Berg. Wzięliśmy też udział w warsztatach szkoleniowych prowadzonych przez brytyjskiego ogrodnika i projektanta zieleni Noel'a Kingsbury'ego.
 
 
+Udział w konferencji i warsztatach to kolejny krok do stałego poszerzania horyzontów i rozwoju zawodowego. Kontakt z zagranicznymi projektantami przyniósł szereg inspiracji i wiedzy na temat najnowszych trendów i filozofii projektowania zieleni, a także przybliżył aktualne problemy i pomysły na ich rozwiązanie.
+
+Podczas warsztatów szkoleniowych Noel Kingsbury opowiedział o metodach projektowania rabat w nurcie naturalistycznym, gdzie podstawą jest zrozumienie biologii roślin, ich funkcjonowania i zdolności do naturalnej sukcesji. Poznaliśmy też różnice pomiędzy innymi podejściami do projektowania rabat jak np. sposób kompozycji Pieta Oudolf'a.
+
+

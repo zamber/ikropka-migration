@@ -20,3 +20,6 @@ title: IKROPKA członkiem Polskiego Stowarzyszenia Budownictwa Ekologicznego (PL
 Z dumą informujemy, że pracownia IKROPKA oficjalnie dołączyła do grona członków Polskiego Stowarzyszenia Budownictwa Ekologicznego - Polish Green Building Council (PLGBC).
 
 
+Z dumą informujemy, że pracownia IKROPKA oficjalnie dołączyła do grona członków Polskiego Stowarzyszenia Budownictwa Ekologicznego - Polish Green Building Council (PLGBC).
+
+

@@ -22,3 +22,6 @@ Nowa pracownia IKROPKI urządzona!
 Przestronnie, zielono, z pracownikami otwartymi na nowe wyzwania, nowe projekty, nowe tereny, nowe opracowania dendrologiczne! Gotowi na wszystko, zapraszamy do współpracy.
 
 
+Pracownia to miejsce, w którym tworzymy Zespół. Zespół zgranych, zdolnych i ambitnych ludzi, o podobnych poglądach, poczuciu humoru i gotowości na wyzwania. Łączy nas podobne zrozumienie czym jest dobra architektura krajobrazu, planowanie przestrzenne, ochrona historycznych założeń, dendrologia z prawdziwego zdarzenia.
+
+

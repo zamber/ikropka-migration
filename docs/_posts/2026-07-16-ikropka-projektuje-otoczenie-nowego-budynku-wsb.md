@@ -20,3 +20,8 @@ title: IKROPKA projektuje otoczenie nowego budynku WSB
 IKROPKA nawiązała współpracę dotyczącą zagospodarowania otoczenia nowego budynku Wrocławskiej Szkoły Bankowej.
 
 
+Przestrzeń przy nowej siedzibie WSB ma odpowiadać wysokim standardom nowoczesnej architektury krajobrazu. Inspiracje do powstania pierwszych pomysłów powstały we współpracy z architektami, którzy stawiają na unikatowość i zróżnicowanie poziomów terenu. Zagospodarowanie i zieleń powstaną w odniesieniu do form architektury budynku.
+
+Zostaną wykonane wariantowe koncepcje projektowe, na podstawie których wypracujemy projekt wykonawczy.
+
+

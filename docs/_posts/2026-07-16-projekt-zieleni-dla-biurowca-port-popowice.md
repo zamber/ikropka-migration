@@ -20,3 +20,10 @@ title: PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE
 We Wrocławiu na terenie dawnego portu rzecznego powstaje nowoczesne osiedle w charakterze proekologicznym - Port Popowice. To właśnie tutaj IKROPKA zaprojektuje zieleń w otoczeniu biurowca.
 
 
+Projekt osiedla nawiązuje do industrialnej przeszłości miejsca. Ważnym aspektem budowy budynku biurowca są wymagania certyfikatu LEED GOLD, określonymi przez Polskie Stowarzyszenie Budownictwa Ekologicznego, które zakładają wykorzystanie technologii proekologicznych. Projekt zieleni wykonany przez naszą Pracownię we współpracy z renomowaną Pracownią Architektoniczną WXCA, wpisze się w ten charakter i specyfikę, dzięki wykorzystaniu gatunków roślin o odpowiednich wymaganiach, a jednocześnie wysokich walorach estetycznych. Już opracowano wstępną koncepcję projektową zieleni.
+
+Żródło zdjęć: wxca.pl
+
+
+![PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE](/assets/images/news/projekt_biurowca_Port_Popowice_WXCA-1024x512.jpg)
+
