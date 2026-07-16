@@ -16,7 +16,7 @@ Poznaj nasze najnowsze projekty, realizacje i aktualności ze świata architektu
   <article class="blog-item">
     <a href="{{ post.url | relative_url }}">
       {% if post.header.image %}
-        <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+        <img src="{{ site.baseurl }}{{ post.header.image }}" alt="{{ post.title }}" loading="lazy">
       {% endif %}
       <div class="blog-content">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
