@@ -1,0 +1,97 @@
+Both --no-clobber and --convert-links were specified, only --convert-links will be used.
+--2026-07-16 09:33:07--  https://ikropka.eu/
+Resolving ikropka.eu (ikropka.eu)... 195.78.66.236
+Connecting to ikropka.eu (ikropka.eu)|195.78.66.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51414 (50K) [text/html]
+Saving to: 'ikropka.eu/index.html.tmp.html'
+
+     0K .......... .......... .......... .......... .......... 99% 1.88M 0s
+    50K                                                       100%  399G=0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2026-07-16 09:33:08 (1.88 MB/s) - 'ikropka.eu/index.html.tmp.html' saved [51414/51414]
+
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Loading robots.txt; please ignore errors.
+--2026-07-16 09:33:08--  https://ikropka.eu/robots.txt
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111 [text/plain]
+Saving to: 'ikropka.eu/robots.txt.tmp'
+
+     0K                                                       100%  163M=0s
+
+2026-07-16 09:33:08 (163 MB/s) - 'ikropka.eu/robots.txt.tmp' saved [111/111]
+
+Removing ikropka.eu/robots.txt.tmp.
+Removing ikropka.eu/index.html.tmp.html since it should be rejected.
+
+--2026-07-16 09:33:09--  https://ikropka.eu/feed/
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/rss+xml]
+Saving to: 'ikropka.eu/feed/index.html.tmp'
+
+     0K .......... ..                                          5.63M=0.002s
+
+2026-07-16 09:33:09 (5.63 MB/s) - 'ikropka.eu/feed/index.html.tmp' saved [12629]
+
+Removing ikropka.eu/feed/index.html.tmp since it should be rejected.
+
+--2026-07-16 09:33:10--  https://ikropka.eu/wp-content/uploads/2023/01/logo180x180.png
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8546 (8.3K) [image/png]
+Saving to: 'ikropka.eu/wp-content/uploads/2023/01/logo180x180.png'
+
+     0K ........                                              100% 3.70M=0.002s
+
+2026-07-16 09:33:10 (3.70 MB/s) - 'ikropka.eu/wp-content/uploads/2023/01/logo180x180.png' saved [8546/8546]
+
+--2026-07-16 09:33:10--  https://ikropka.eu/wp-content/uploads/2023/01/logo32x32.png
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 791 [image/png]
+Saving to: 'ikropka.eu/wp-content/uploads/2023/01/logo32x32.png'
+
+     0K                                                       100% 13.8M=0s
+
+2026-07-16 09:33:10 (13.8 MB/s) - 'ikropka.eu/wp-content/uploads/2023/01/logo32x32.png' saved [791/791]
+
+--2026-07-16 09:33:11--  https://ikropka.eu/wp-content/uploads/2023/01/logo16x16.png
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 436 [image/png]
+Saving to: 'ikropka.eu/wp-content/uploads/2023/01/logo16x16.png'
+
+     0K                                                       100% 6.53M=0s
+
+2026-07-16 09:33:11 (6.53 MB/s) - 'ikropka.eu/wp-content/uploads/2023/01/logo16x16.png' saved [436/436]
+
+--2026-07-16 09:33:11--  https://ikropka.eu/logosvg.svg
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137728 (134K) [image/svg+xml]
+Saving to: 'ikropka.eu/logosvg.svg'
+
+     0K .......... .......... .......... .......... .......... 37% 3.95M 0s
+    50K .......... .......... .......... .......... .......... 74% 4.00M 0s
+   100K .......... .......... .......... ....                 100% 5.33M=0.03s
+
+2026-07-16 09:33:11 (4.25 MB/s) - 'ikropka.eu/logosvg.svg' saved [137728/137728]
+
+--2026-07-16 09:33:12--  https://ikropka.eu/wp-json/
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: 'ikropka.eu/wp-json/index.html.tmp'
+
+     0K .......... .......... .......... .......... .......... 12.5M
+    50K .......... .......... .......... .......... .......... 10.3M
+   100K .......... .

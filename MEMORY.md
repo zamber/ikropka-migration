@@ -537,3 +537,54 @@ If blocked or need to change approach: ASK, don't assume deferral is OK.
 
 **Next:** Milestone 3 — Image Migration & Optimization
 
+
+---
+
+## Milestone 3 Progress - 2026-07-16
+
+**Status:** 🔄 IN PROGRESS
+
+### Scripts Created:
+
+1. **`scripts/extract-image-urls-from-html.sh`** ✅
+   - Extracts image URLs from downloaded HTML files
+   - Handles relative and absolute URLs
+   - Converts all to absolute https://ikropka.eu/ format
+
+2. **`scripts/scrape-images-from-live-site.sh`** ✅
+   - Uses wget to download HTML pages (level 3 recursion)
+   - Extracted 26 image URLs from homepage initially
+
+3. **`scripts/download-all-images-direct.sh`** ✅ (RUNNING)
+   - Full site mirror with wget (downloads ALL images)
+   - Accepts: jpg, jpeg, png, gif, webp, svg
+   - Waits between requests (polite scraping)
+   - Flattens directory structure after download
+   - Currently running in background...
+
+4. **`scripts/deduplicate-wp-thumbnails.js`** ✅
+   - Node.js script to deduplicate WordPress thumbnails
+   - Groups by base filename
+   - Keeps largest version only
+   - Ready to run after download completes
+
+5. **`scripts/optimize-images.sh`** ✅
+   - ImageMagick + cwebp for optimization
+   - Converts to WebP (85% quality)
+   - Creates JPEG fallback (85% quality)
+   - Max width: 1600px
+   - Strips metadata
+   - Ready to run after deduplication
+
+### Tools Installed:
+- ImageMagick 6.9.11-60 ✅
+- WebP tools (cwebp) ✅
+- wget (already available) ✅
+
+### Current Status:
+- Downloading all images from ikropka.eu with wget mirror (background task)
+- Expected: 600+ images based on analysis
+- Next: Deduplication → Optimization → Commit
+
+**Next:** Wait for download to complete, then run deduplication and optimization pipeline.
+

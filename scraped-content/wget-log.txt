@@ -1,0 +1,98 @@
+--2026-07-16 09:31:21--  https://ikropka.eu/
+Resolving ikropka.eu (ikropka.eu)... 195.78.66.236
+Connecting to ikropka.eu (ikropka.eu)|195.78.66.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'ikropka.eu/index.html'
+
+     0K .......... .......... .......... .......... .......... 1.64M
+    50K                                                         399G=0.03s
+
+2026-07-16 09:31:21 (1.65 MB/s) - 'ikropka.eu/index.html' saved [51414]
+
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Incomplete or invalid multibyte sequence encountered
+Loading robots.txt; please ignore errors.
+--2026-07-16 09:31:23--  https://ikropka.eu/robots.txt
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111 [text/plain]
+Saving to: 'ikropka.eu/robots.txt'
+
+     0K                                                       100%  221M=0s
+
+2026-07-16 09:31:23 (221 MB/s) - 'ikropka.eu/robots.txt' saved [111/111]
+
+--2026-07-16 09:31:24--  https://ikropka.eu/wp-content/themes/ik/assets/css/style.css?v=2
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78775 (77K) [text/css]
+Saving to: 'ikropka.eu/wp-content/themes/ik/assets/css/style.css?v=2.css'
+
+     0K .......... .......... .......... .......... .......... 64% 3.28M 0s
+    50K .......... .......... ......                          100% 6.42M=0.02s
+
+2026-07-16 09:31:24 (3.96 MB/s) - 'ikropka.eu/wp-content/themes/ik/assets/css/style.css?v=2.css' saved [78775/78775]
+
+--2026-07-16 09:31:25--  https://ikropka.eu/wp-content/themes/ik/assets/css/font-awesome.min.css
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35128 (34K) [text/css]
+Saving to: 'ikropka.eu/wp-content/themes/ik/assets/css/font-awesome.min.css'
+
+     0K .......... .......... .......... ....                 100% 7.79M=0.004s
+
+2026-07-16 09:31:25 (7.79 MB/s) - 'ikropka.eu/wp-content/themes/ik/assets/css/font-awesome.min.css' saved [35128/35128]
+
+--2026-07-16 09:31:26--  https://ikropka.eu/feed/
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/rss+xml]
+Saving to: 'ikropka.eu/feed/index.html'
+
+     0K .......... ..                                          6.59M=0.002s
+
+2026-07-16 09:31:27 (6.59 MB/s) - 'ikropka.eu/feed/index.html' saved [12629]
+
+--2026-07-16 09:31:28--  https://ikropka.eu/wp-content/themes/ik/assets/favicons/manifest.json
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 403 [application/json]
+Saving to: 'ikropka.eu/wp-content/themes/ik/assets/favicons/manifest.json'
+
+     0K                                                       100% 9.71M=0s
+
+2026-07-16 09:31:28 (9.71 MB/s) - 'ikropka.eu/wp-content/themes/ik/assets/favicons/manifest.json' saved [403/403]
+
+--2026-07-16 09:31:29--  https://ikropka.eu/wp-includes/css/classic-themes.min.css?ver=1
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 217 [text/css]
+Saving to: 'ikropka.eu/wp-includes/css/classic-themes.min.css?ver=1.css'
+
+     0K                                                       100% 6.31M=0s
+
+2026-07-16 09:31:29 (6.31 MB/s) - 'ikropka.eu/wp-includes/css/classic-themes.min.css?ver=1.css' saved [217/217]
+
+--2026-07-16 09:31:29--  https://ikropka.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1746 (1.7K) [text/css]
+Saving to: 'ikropka.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7.css'
+
+     0K .                                                     100% 25.1M=0s
+
+2026-07-16 09:31:29 (25.1 MB/s) - 'ikropka.eu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7.css' saved [1746/1746]
+
+--2026-07-16 09:31:31--  https://ikropka.eu/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15
+Reusing existing connection to ikropka.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1463 (1.4K) [text/css]
+Saving to: 'ikropka.eu/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15.css'
+
+     0K .                                                     100% 15.1M=0s
+
