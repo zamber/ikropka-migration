@@ -1,0 +1,26 @@
+{% if page.collection == 'portfolio' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncate: 300 }}",
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  {% if page.featured_image %}
+  "image": "{{ site.url }}{{ site.baseurl }}{{ page.featured_image }}",
+  {% endif %}
+  {% if page.date %}
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "IKROPKA"
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "IKROPKA — Pracownia Architektury Krajobrazu"
+  },
+  "inLanguage": "pl-PL"
+}
+</script>
+{% endif %}

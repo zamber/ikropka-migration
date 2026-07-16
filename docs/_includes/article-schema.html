@@ -1,0 +1,35 @@
+{% if page.layout == 'single' and page.collection == nil %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncate: 300 }}",
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  {% if page.header.image %}
+  "image": "{{ site.url }}{{ site.baseurl }}{{ page.header.image }}",
+  {% endif %}
+  {% if page.date %}
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  {% endif %}
+  "author": {
+    "@type": "Organization",
+    "name": "IKROPKA"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "IKROPKA — Pracownia Architektury Krajobrazu",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}/assets/images/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "inLanguage": "pl-PL"
+}
+</script>
+{% endif %}

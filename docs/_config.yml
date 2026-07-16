@@ -25,6 +25,18 @@ author:
       icon: "fas fa-fw fa-phone"
       url: "tel:+48662670776"
 
+# SEO Settings
+social:
+  type: Organization
+  name: IKROPKA
+  links:
+    - "https://ikropka.eu"
+
+# Open Graph / Twitter Card defaults
+og_image: /assets/images/og-image-ikropka.jpg
+twitter:
+  card: summary_large_image
+
 # Theme Settings - Minimal Mistakes (using remote_theme for GitHub Pages)
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -147,6 +159,9 @@ defaults:
       share: false
       related: true
       show_date: true
+      toc: false
+      seo:
+        type: BlogPosting
   # _pages
   - scope:
       path: "_pages"
@@ -165,6 +180,8 @@ defaults:
       comments: false
       sidebar:
         nav: "portfolio"
+      seo:
+        type: CreativeWork
   # _services
   - scope:
       path: ""
@@ -176,13 +193,8 @@ defaults:
       comments: false
       sidebar:
         nav: "services"
-
-# SEO Related (jekyll-seo-tag)
-social:
-  type: Organization
-  name: IKROPKA Pracownia Architektury Krajobrazu
-  links:
-    - "https://ikropka.eu"
+      seo:
+        type: Service
 
 # Google Analytics (optional, add later)
 # analytics:

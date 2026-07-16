@@ -1,0 +1,28 @@
+{% if page.collection == 'services' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncate: 300 }}",
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "IKROPKA — Pracownia Architektury Krajobrazu",
+    "url": "{{ site.url }}{{ site.baseurl }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Wrocław",
+      "addressCountry": "PL"
+    },
+    "telephone": "+48-600-181-389",
+    "email": "biuro@ikropka.eu"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Polska"
+  },
+  "availableLanguage": "pl-PL"
+}
+</script>
+{% endif %}
