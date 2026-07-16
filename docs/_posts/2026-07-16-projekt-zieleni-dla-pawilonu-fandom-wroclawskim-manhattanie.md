@@ -35,7 +35,7 @@ Oprócz tego dbamy o to aby projektowana zieleń była:
 - bioróżnorodna.
 
 
-![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/20221212-2029-WRO-FANDOM-PB-WIZ-1-scaled.jpg)
+![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie]({{ site.baseurl }}/assets/images/20221212-2029-WRO-FANDOM-PB-WIZ-1-scaled.jpg)
 
-![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie](/assets/images/rzut_kolor_fandom_kadr_rabata2_2_logo.jpg)
+![Projekt zieleni dla pawilonu "Fandom" na wrocławskim Manhattanie]({{ site.baseurl }}/assets/images/rzut_kolor_fandom_kadr_rabata2_2_logo.jpg)
 

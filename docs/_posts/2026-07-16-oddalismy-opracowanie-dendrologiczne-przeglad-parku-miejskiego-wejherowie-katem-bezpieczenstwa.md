@@ -26,7 +26,7 @@ Park Miejski im. A. Majkowskiego położony obok wejherowskiego rynku jest jedn�
 Prace nad przeglądem dendrologicznym rozpoczęto od przeprowadzenia wizji terenowej, co trwało łącznie prawie 2-tygodnie, następnie zebrane dane dendrometryczne, opisane zalecenia, stany sanitarne itp. przeniesiono na wersję cyfrową. Wykonane rysunki oraz wykaz zinwentaryzowanych drzew i krzewów podsumowano w części opisowej zawierającej zestawienia tabelaryczne.
 
 
-![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/wejherowo_oddanie2_ikropka.jpg)
+![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA]({{ site.baseurl }}/assets/images/wejherowo_oddanie2_ikropka.jpg)
 
-![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA](/assets/images/wejherowo_oddanie3_ikropka.jpg)
+![ODDALIŚMY OPRACOWANIE DENDROLOGICZNE – PRZEGLĄD PARKU MIEJSKIEGO W WEJHEROWIE POD KĄTEM BEZPIECZEŃSTWA]({{ site.baseurl }}/assets/images/wejherowo_oddanie3_ikropka.jpg)
 

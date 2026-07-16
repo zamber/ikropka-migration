@@ -30,31 +30,31 @@ Zespół projektowy PAK IKROPKA, KMP Poniewierka oraz z AIS Śliwa Dobosz kierow
 - utworzenie nowych połączeń komunikacyjnych pieszo-rowerowych, wykorzystując naturalne ukształtowanie terenu i prowadząc je po śladach byłych torowisk, nasypów i wąwozów, akcentując kolejowy charakter parku.
 
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza10-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza10-min.jpg)
 
 *Plansza konkursowa*
 
-![Wizualizacja konkursowa Park Henrykowski](/assets/images/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg)
+![Wizualizacja konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/IKROPKA-PARK-HENRYKOWSKI-konkurs2-min.jpg)
 
 *Wizualizacja projektu*
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza1-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza1-min.jpg)
 
 *Plansza konkursowa*
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza2-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza2-min.jpg)
 
 *Plansza konkursowa*
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza3-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza3-min.jpg)
 
 *Plansza konkursowa*
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza4-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza4-min.jpg)
 
 *Plansza konkursowa*
 
-![Plansza konkursowa Park Henrykowski](/assets/images/ikropka-park-henrykowski-konkurs-plansza5-min.jpg)
+![Plansza konkursowa Park Henrykowski]({{ site.baseurl }}/assets/images/ikropka-park-henrykowski-konkurs-plansza5-min.jpg)
 
 *Plansza konkursowa*
 

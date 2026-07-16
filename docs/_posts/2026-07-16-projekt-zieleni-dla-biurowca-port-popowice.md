@@ -25,5 +25,5 @@ Projekt osiedla nawiązuje do industrialnej przeszłości miejsca. Ważnym aspek
 Żródło zdjęć: wxca.pl
 
 
-![PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE](/assets/images/projekt_biurowca_Port_Popowice_WXCA-1024x512.jpg)
+![PROJEKT ZIELENI DLA BIUROWCA PORT POPOWICE]({{ site.baseurl }}/assets/images/projekt_biurowca_Port_Popowice_WXCA-1024x512.jpg)
 

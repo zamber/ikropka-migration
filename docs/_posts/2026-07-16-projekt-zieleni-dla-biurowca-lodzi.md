@@ -20,7 +20,7 @@ title: PROJEKT ZIELENI DLA BIUROWCA W ŁODZI
 Zieleń w otoczeniu budynku biurowo-usługowego, zieleń na dachu.
 
 
-![PROJEKT ZIELENI DLA BIUROWCA W ŁODZI](/assets/images/news/biurowiec-lodz-ikropka.jpg)
+![PROJEKT ZIELENI DLA BIUROWCA W ŁODZI]({{ site.baseurl }}/assets/images/news/biurowiec-lodz-ikropka.jpg)
 
 Rozpoczęliśmy prace projektowe nad koncepcją zieleni w zagospodarowaniu terenu nowo powstającego budynku biurowo-usługowego w Łodzi. Projekt zieleni w większości skupia się na terenie stropodachu garażu podziemnego.
 

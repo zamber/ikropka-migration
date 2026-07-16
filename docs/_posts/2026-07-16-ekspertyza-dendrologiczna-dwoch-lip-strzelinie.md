@@ -23,11 +23,11 @@ Po raz kolejny mieliśmy przyjemność pracować dla Urzędu Miasta i Gminy w St
 Przedmiotowe lipy są częścią atrakcyjnego założenia szpalerowego wzdłuż drogi wylotowej ze Strzelina. Ekspertyzę przeprowadziliśmy z wykorzystaniem specjalistycznego sprzętu – tomografu sonicznego (dźwiękowego). Drzewa zbadaliśmy na dwóch i trzech wysokościach, dzięki czemu uzyskaliśmy przestrzenny obraz stanu wnętrza pnia. Dokonaliśmy oględzin, szczegółowych pomiarów dendrometrycznych i ostatecznie wnikliwie oceniliśmy stan sanitarny drzew.
 
 
-![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE](/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-2.jpg)
+![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE]({{ site.baseurl }}/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-2.jpg)
 
-![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE](/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-3.jpg)
+![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE]({{ site.baseurl }}/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-3.jpg)
 
-![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE](/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-4.jpg)
+![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE]({{ site.baseurl }}/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-4.jpg)
 
-![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE](/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-5.jpg)
+![EKSPERTYZA DENDROLOGICZNA DWÓCH LIP W STRZELINIE]({{ site.baseurl }}/assets/images/news/ekspertyza-dendrologiczna-dwoch-lip-strzelinie-zdj-5.jpg)
 

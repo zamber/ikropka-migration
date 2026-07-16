@@ -45,7 +45,7 @@ Masz już doświadczenie w pracy projektowej oraz opracowaniach dendrologicznych
 - dobrej komunikacji z innymi.
 
 
-![Praca w PAK IKROPKA](/assets/images/IKROPKA_Oferta-pracy.jpg)
+![Praca w PAK IKROPKA]({{ site.baseurl }}/assets/images/IKROPKA_Oferta-pracy.jpg)
 
 *Oferta pracy w PAK IKROPKA*
 

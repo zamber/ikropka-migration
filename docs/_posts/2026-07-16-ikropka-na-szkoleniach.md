@@ -26,9 +26,9 @@ Dzisiaj nasz nowy pracownik bierze udział w dwudniowym szkoleniu Fundacji EkoRo
 A za tydzień weźmiemy udział w Sympozjum Zielony Wrocław „Projektowanie zintegrowane. Zielone i efektywne energetycznie budynki.", którego organizatorami są Departament Zrównoważonego Rozwoju Urzędu Miejskiego i Muzeum Architektury we Wrocławiu!
 
 
-![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj-3.jpg)
+![IKROPKA NA SZKOLENIACH]({{ site.baseurl }}/assets/images/szkolenia-zdj-3.jpg)
 
-![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj-1.jpg)
+![IKROPKA NA SZKOLENIACH]({{ site.baseurl }}/assets/images/szkolenia-zdj-1.jpg)
 
-![IKROPKA NA SZKOLENIACH](/assets/images/szkolenia-zdj4.jpg)
+![IKROPKA NA SZKOLENIACH]({{ site.baseurl }}/assets/images/szkolenia-zdj4.jpg)
 

@@ -32,7 +32,7 @@ Koncepcja projektowa zakłada:
 – założenie na terenie opracowania oświetlenia,roślinność wprowadzająca klimat „tajemniczego ogrodu”, piętrowe kompozycje roślinne dostosowane do siedlisk.
 
 
-![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/Koncepcja_ParkWolbromska_ikropka.jpg)
+![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU]({{ site.baseurl }}/assets/images/Koncepcja_ParkWolbromska_ikropka.jpg)
 
-![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU](/assets/images/Koncepcja_ParkWolbromska3_ikropka.jpg)
+![KONCEPCJA ZAGOSPODAROWANIA PARKU PRZY WOLBROMSKIEJ WE WROCŁAWIU]({{ site.baseurl }}/assets/images/Koncepcja_ParkWolbromska3_ikropka.jpg)
 

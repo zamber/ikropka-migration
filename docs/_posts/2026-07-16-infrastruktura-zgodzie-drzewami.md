@@ -28,7 +28,7 @@ Publikacja wydana przez Fundację Dom Pokoju powstała we współpracy z partner
 Udziałem IKROPKI jest artykuł "Jak zrealizować dużą inwestycję oraz ochronić drzewa – z praktyki inspektora nadzoru dendrologicznego", w którym mgr inż. arch. kraj. Dominika Krop-Andrzejczuk opisuje swoje doświadczenia z nadzoru dendrologicznego nad budową nowej siedziby Izby Skarbowej we Wrocławiu, którego głównym celem była ochrona cennego drzewa – platana klonolistnego o obwodzie: 475 cm, średnicy korony: 22,5 × 20,0 m, wysokości: 24,0 m. W jego najbliższym otoczeniu tuż poza rzutem korony z trzech stron powstawał głęboki wykop pod 11-kondygnacyjny budynek, garaż podziemny oraz wjazd do garażu.
 
 
-![Infrastruktura w zgodzie z drzewami](/assets/images/publikacja-infrastruktura-drzewa3_ikropka.jpg)
+![Infrastruktura w zgodzie z drzewami]({{ site.baseurl }}/assets/images/publikacja-infrastruktura-drzewa3_ikropka.jpg)
 
 *Kliknij, aby powiększyć*
 

@@ -61,7 +61,7 @@ Szkolenie prowadziła: Krystyna Ładyżyńska-Adamowicz – Konserwator ds. Zaby
 Opracowanie programu szkolenia i nadzór merytoryczny – dr inż. Marzena Suchocka
 
 
-![Inspektor Nadzoru Dendrologicznego w procesie inwestycyjnym – certyfikat](/assets/images/news/Certyfikat-ukonczenia-kursu-Inspektor-Nadzoru-Dendrologicznego-w-procesie-inwestycyjnych-str-1-i-2-Dominika-Krop-Andrzejczuk.pdf)
+![Inspektor Nadzoru Dendrologicznego w procesie inwestycyjnym – certyfikat]({{ site.baseurl }}/assets/images/news/Certyfikat-ukonczenia-kursu-Inspektor-Nadzoru-Dendrologicznego-w-procesie-inwestycyjnych-str-1-i-2-Dominika-Krop-Andrzejczuk.pdf)
 
 *Certyfikat ukończenia kursu Inspektora Nadzoru Dendrologicznego*
 

@@ -27,13 +27,13 @@ W trakcie prac terenowych wykonano podstawowe pomiary dendrometryczne i szczegó
 W kilku przypadkach zbadano grubość ścianki pnia przy użyciu rezystografu lub tomografu radarowego tzw. tri-radaru. Dla drzew zostały opracowane szczegółowe zalecenia pielęgnacyjne t.j. obniżenie korony drzewa, założenie wiązania, montaż podpór.
 
 
-![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW](/assets/images/news/Wlosi-ekspertyzy-zdj-2.jpg)
+![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW]({{ site.baseurl }}/assets/images/news/Wlosi-ekspertyzy-zdj-2.jpg)
 
-![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW](/assets/images/news/Wlosi-ekspertyzy-zdj-3.jpg)
+![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW]({{ site.baseurl }}/assets/images/news/Wlosi-ekspertyzy-zdj-3.jpg)
 
-![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW](/assets/images/news/Wlosi-ekspertyzy-zdj-4.jpg)
+![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW]({{ site.baseurl }}/assets/images/news/Wlosi-ekspertyzy-zdj-4.jpg)
 
-![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW](/assets/images/news/Wlosi-ekspertyzy-zdj-5.jpg)
+![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW]({{ site.baseurl }}/assets/images/news/Wlosi-ekspertyzy-zdj-5.jpg)
 
-![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW](/assets/images/news/Wlosi-ekspertyzy-zdj-6.jpg)
+![NADZORUJEMY EKSPERTYZY 10 CENNYCH DRZEW]({{ site.baseurl }}/assets/images/news/Wlosi-ekspertyzy-zdj-6.jpg)
 

@@ -26,9 +26,9 @@ Zachęcamy do zapoznania się z artykułem, znajdującym się pod linkiem:
 https://wroclife.pl/czas-wolny/park-usmiechu-nagrodzony/?fbclid=IwAR2NLad7kftMTAuGUzB7MeeTp-hCAkMU5jBK3UjaWiKWhTtqHJXfIJpUJ-0
 
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL]({{ site.baseurl }}/assets/images/IKROPKA_Park_Uśmiechu_2021.jpg)
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021_2.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL]({{ site.baseurl }}/assets/images/IKROPKA_Park_Uśmiechu_2021_2.jpg)
 
-![Plebiscyt Polski Krajobraz 2020 XXL](/assets/images/IKROPKA_Park_Uśmiechu_2021_3.jpg)
+![Plebiscyt Polski Krajobraz 2020 XXL]({{ site.baseurl }}/assets/images/IKROPKA_Park_Uśmiechu_2021_3.jpg)
 

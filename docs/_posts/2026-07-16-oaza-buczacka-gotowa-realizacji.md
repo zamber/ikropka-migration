@@ -26,7 +26,7 @@ Skwer będący do tej pory nieużytkiem zostanie przekształcony w teren wypoczy
 Po więcej obrazków i szczegółów zapraszamy do portfolio: [kliknij tutaj](/projekt/projekt-skweru-ogrodem-deszczowym/).
 
 
-![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/proj-Oaza-Buczacka-zdj2.jpg)
+![OAZA BUCZACKA GOTOWA DO REALIZACJI]({{ site.baseurl }}/assets/images/proj-Oaza-Buczacka-zdj2.jpg)
 
-![OAZA BUCZACKA GOTOWA DO REALIZACJI](/assets/images/proj-Oaza-Buczacka-zdj3.jpg)
+![OAZA BUCZACKA GOTOWA DO REALIZACJI]({{ site.baseurl }}/assets/images/proj-Oaza-Buczacka-zdj3.jpg)
 

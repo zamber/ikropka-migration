@@ -78,7 +78,7 @@ Zaprojektowane grupy roślinności będą pełniły funkcję tzw. zielonej gąbk
 Naszym celem jest stworzenie odpornej i przyjaznej mieszkańcom przestrzeni, która będzie służyć zarówno obecnym, jak i przyszłym pokoleniom Warszawiaków.
 
 
-![Zarząd Dróg Miejskich o zielonych zmianach na ul. Okrzei](/assets/images/news/Okrzei_grafika-do-galerii_wyzszy_przekroj.jpg)
+![Zarząd Dróg Miejskich o zielonych zmianach na ul. Okrzei]({{ site.baseurl }}/assets/images/news/Okrzei_grafika-do-galerii_wyzszy_przekroj.jpg)
 
-![Zarząd Dróg Miejskich o zielonych zmianach na ul. Okrzei](/assets/images/news/Okrzei_grafika-do-galerii_wyzszy_gabka.jpg)
+![Zarząd Dróg Miejskich o zielonych zmianach na ul. Okrzei]({{ site.baseurl }}/assets/images/news/Okrzei_grafika-do-galerii_wyzszy_gabka.jpg)
 

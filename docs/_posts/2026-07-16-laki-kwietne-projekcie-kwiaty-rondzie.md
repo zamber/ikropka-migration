@@ -28,7 +28,7 @@ Ponieważ rondo jest gęsto obsadzone wysokim drzewostanem oraz licznymi krzewam
 Ciekawostką jest zastosowana w projekcie *łąka antysmogowa*. Mieszanka, powstała w wyniku kilkuletnich badań nad pochłanianiem pyłów tworzących smog przez rośliny łąkowe, które przeprowadzili specjaliści ze Szkoły Głównej Gospodarstwa Wiejskiego w Warszawie. Tzw. „Smogówka” była już testowana w Krakowie, teraz pora na Wrocław! Będzie cieszyć oczy przejeżdżających rondem pasażerów tramwajów oraz wpływać miejscowo na polepszenie warunków klimatycznych.
 
 
-![ŁĄKI KWIETNE W PROJEKCIE "KWIATY NA RONDZIE"](/assets/images/news/kwiaty-na-rondzie_laka2_ikropka.jpg)
+![ŁĄKI KWIETNE W PROJEKCIE "KWIATY NA RONDZIE"]({{ site.baseurl }}/assets/images/news/kwiaty-na-rondzie_laka2_ikropka.jpg)
 
-![ŁĄKI KWIETNE W PROJEKCIE "KWIATY NA RONDZIE"](/assets/images/news/kwiaty-na-rondzie_laka_ikropka.jpg)
+![ŁĄKI KWIETNE W PROJEKCIE "KWIATY NA RONDZIE"]({{ site.baseurl }}/assets/images/news/kwiaty-na-rondzie_laka_ikropka.jpg)
 

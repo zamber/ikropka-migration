@@ -13,7 +13,7 @@ Szybko i sprawnie doradzamy, pomagamy podjąć najlepsze decyzje i kroki zmierza
 
 ## Doradztwo
 
-![](/assets/images/2017/09/ikona-doradztwo.png)
+![]({{ site.baseurl }}/assets/images/2017/09/ikona-doradztwo.png)
 
 Doradzamy osobom prywatnym i firmom na różnych etapach: planowania, projektowym, realizacyjnym, powykonawczym.
 

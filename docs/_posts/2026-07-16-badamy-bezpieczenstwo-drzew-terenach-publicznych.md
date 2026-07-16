@@ -26,7 +26,7 @@ Cieszymy się z podjętej współpracy – świadczy ona o rosnącej świadomoś
 Przeglądy drzew pod kątem bezpieczeństwa to konieczność i obowiązek każdego zarządcy terenu. Od dawna obserwujemy nasilenie się wypadków z udziałem drzew, które dowodzą, że na terenach zurbanizowanych brakuje stałego monitoringu stanu sanitarnego drzew. Suche konary grożące upadkiem, wypróchniałe u podstawy pnie, drzewa nieprawidłowo pielęgnowane, a także osłabione w zasięgu bryły korzeniowej nienależycie wykonanymi pracami ziemnymi mogą stanowić śmiertelne niebezpieczeństwo dla ludzi i mienia.
 
 
-![BADAMY BEZPIECZEŃSTWO DRZEW NA TERENACH PUBLICZNYCH](/assets/images/zdj2.jpg)
+![BADAMY BEZPIECZEŃSTWO DRZEW NA TERENACH PUBLICZNYCH]({{ site.baseurl }}/assets/images/zdj2.jpg)
 
-![BADAMY BEZPIECZEŃSTWO DRZEW NA TERENACH PUBLICZNYCH](/assets/images/zdj3.jpg)
+![BADAMY BEZPIECZEŃSTWO DRZEW NA TERENACH PUBLICZNYCH]({{ site.baseurl }}/assets/images/zdj3.jpg)
 

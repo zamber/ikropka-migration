@@ -27,7 +27,7 @@ Planowane jest stworzenie tematycznej łąki kwietnej, która będzie miejscem p
 Dzielimy się początkami prac koncepcyjnych, za nami już inwentaryzacja dendrologiczna, analizy studialno-terenowe, operat dendrologiczny. Wkrótce pokażemy więcej!
 
 
-![NOWE ZLECENIE PROJEKTOWE](/assets/images/news/aktualnosci-zdj-2.jpg)
+![NOWE ZLECENIE PROJEKTOWE]({{ site.baseurl }}/assets/images/news/aktualnosci-zdj-2.jpg)
 
-![NOWE ZLECENIE PROJEKTOWE](/assets/images/news/aktualnosci-zdj-3.jpg)
+![NOWE ZLECENIE PROJEKTOWE]({{ site.baseurl }}/assets/images/news/aktualnosci-zdj-3.jpg)
 

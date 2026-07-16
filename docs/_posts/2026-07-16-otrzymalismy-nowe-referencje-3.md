@@ -22,7 +22,7 @@ title: Otrzymaliśmy nowe referencje
 Otrzymaliśmy referencje od spółki Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością z siedzibą we Wrocławiu za prowadzony [nadzór dendrologiczny](/oferta/nadzory/) w zabytkowym parku we Wrocławiu – Park Południowy.
 
 
-![Otrzymaliśmy nowe referencje](/assets/images/aktualnosci-spartanikropka-kopia.jpg)
+![Otrzymaliśmy nowe referencje]({{ site.baseurl }}/assets/images/aktualnosci-spartanikropka-kopia.jpg)
 
 *Referencje od Wrocławskiego Centrum Treningowego SPARTAN*
 

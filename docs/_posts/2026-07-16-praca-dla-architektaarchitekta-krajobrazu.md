@@ -24,7 +24,7 @@ UWAGA, UWAGA, IKROPKA poszukuje nowego pracownika! Zainteresowanych współprac�
 Nowe wyzwania, przyjazna atmosfera, praca w zgranym Zespole, zapraszamy do współpracy!
 
 
-![PRACA DLA ARCHITEKTA/ARCHITEKTA KRAJOBRAZU](/assets/images/news/praca-zdj.-1.jpg)
+![PRACA DLA ARCHITEKTA/ARCHITEKTA KRAJOBRAZU]({{ site.baseurl }}/assets/images/news/praca-zdj.-1.jpg)
 
 *Oferta pracy dla architekta / architekta krajobrazu*
 

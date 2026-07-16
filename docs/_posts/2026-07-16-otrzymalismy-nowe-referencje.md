@@ -19,7 +19,7 @@ title: Otrzymaliśmy nowe referencje
 Referencje dot. zadania związanego z przeglądem drzewostanu parkowego w Wejherowie.
 
 
-![Otrzymaliśmy nowe referencje](/assets/images/ikropka_referencje-Wejherowo.jpg)
+![Otrzymaliśmy nowe referencje]({{ site.baseurl }}/assets/images/ikropka_referencje-Wejherowo.jpg)
 
 Celem opracowania było wykonanie przeglądu drzew pod kątem bezpieczeństwa ludzi i mienia. Każde z drzew i krzewów zostało zinwentaryzowane, opisane i ocenione pod względem stanu sanitarnego, następnie w projekcie gospodarki dokonano kwalifikacji do adaptacji, pielęgnacji lub wycinki sanitarnej.
 

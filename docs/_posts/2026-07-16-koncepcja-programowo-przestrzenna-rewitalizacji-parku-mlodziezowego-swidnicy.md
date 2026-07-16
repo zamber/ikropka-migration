@@ -26,9 +26,9 @@ Za nami praca nad projektem zabytkowego parku. W naszym zakresie prac znalazło 
 Wśród zinwentaryzowanych drzew znalazły się historyczne perełki rzadko spotykanych odmian… Więcej wkrótce w naszym portfolio!
 
 
-![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY](/assets/images/news/Park-Mlodziezowy-w-Swidnicy-2.1.jpg)
+![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY]({{ site.baseurl }}/assets/images/news/Park-Mlodziezowy-w-Swidnicy-2.1.jpg)
 
-![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY](/assets/images/news/Park-Mlodziezowy-w-Swidnicy-3.1.jpg)
+![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY]({{ site.baseurl }}/assets/images/news/Park-Mlodziezowy-w-Swidnicy-3.1.jpg)
 
-![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY](/assets/images/news/Park-Mlodziezowy-w-Swidnicy-4.1.jpg)
+![KONCEPCJA PROGRAMOWO-PRZESTRZENNA REWITALIZACJI PARKU MŁODZIEŻOWEGO W ŚWIDNICY]({{ site.baseurl }}/assets/images/news/Park-Mlodziezowy-w-Swidnicy-4.1.jpg)
 

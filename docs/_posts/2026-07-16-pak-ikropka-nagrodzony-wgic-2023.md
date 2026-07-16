@@ -22,7 +22,7 @@ title: PAK IKROPKA nagrodzony podczas WGIC 2023!
 Z radością informujemy, że projekt naturalistycznego parku przy ul. Idzikowskiego autorstwa PAK IKROPKA otrzymał wyróżnienie w ramach konkursu dot. najlepszego projektu z zakresu zielonej infrastruktury w kategorii przestrzeń miejska podczas Światowego Kongresu Zielonej Infrastruktury (WGIC)!
 
 
-![PAK IKROPKA nagrodzony podczas WGIC 2023!](/assets/images/news/wgic.png)
+![PAK IKROPKA nagrodzony podczas WGIC 2023!]({{ site.baseurl }}/assets/images/news/wgic.png)
 
 *Kliknij, aby powiększyć*
 
