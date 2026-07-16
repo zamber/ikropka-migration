@@ -1,0 +1,68 @@
+---
+category: projekty
+description: Nadzór przyrodniczy w Parku Szczytnickim zapewnił ochronę cennej zieleni
+  podczas prowadzonych prac inwestycyjnych.
+featured_image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/main.jpg
+gallery:
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo1.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo2.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo3.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo4.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo5.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo6.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo7.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo8.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo9.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo10.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo11.jpg
+- alt: Nadzór przyrodniczy w Parku Szczytnickim
+  caption: ''
+  image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo12.jpg
+layout: single
+permalink: /portfolio/nadzor-przyrodniczy-parku-szczytnickim/
+project:
+  client: Park M
+  location: Wrocław, dolnośląskie
+  scope: Nadzór przyrodniczy - dendrologiczny i entomologiczny
+  status: Zrealizowany
+  year: '2017'
+title: Nadzór przyrodniczy w Parku Szczytnickim
+---
+
+{% include gallery %}
+
+Ostatnio realizowaliśmy nadzór przyrodniczy – dendrologiczny i entomologiczny nad wycinką drzewa (lipa srebrzysta), rosnącego na terenie Parku Szczytnickiego we Wrocławiu. Wycinka drzewa była konieczna ze względów bezpieczeństwa. W tym przypadku zgoda na wycinkę została wydana przez Miejskiego Konserwatora Zabytków (teren wpisany do rejestrów zabytków). Ze względu na fakt, że drzewo było zasiedlone przez chronione gatunki owadów: pachnicę dębową i kwietnicę okazałą, została pozyskana również odpowiednia decyzja Regionalnej Dyrekcji Ochrony Środowiska we Wrocławiu na zniszczenie siedliska chronionych gatunków i stosowne odstępstwa od zakazów wynikające z ustawy o ochronie przyrody. Warunki decyzji RDOŚ obligowały do przeprowadzenia wycinki pod nadzorem entomologicznym.
+
+
+## Drzewo zasiedlone przez gatunki chronione
+
+Wykonawca prac zaprosił do działań nadzorczych naszą firmę. Prace prowadzone były pod kierownictwem inspektora nadzoru dendrologicznego mgr inż. arch. kraj. Dominiki Krop-Andrzejczuk we współpracy z inspektorem nadzoru przyrodniczego, entomologiem dr. inż. Marcinem Kadejem. Drzewo wycinał doświadczony zespół arborystów – sekcyjnie. Każdy fragment grubizny został szczegółowo sprawdzony pod kątem zasiedlenia przez chronione owady. Larwy pachnicy dębowej i kwietnicy okazałej zostały wybrane i przeniesione w miejsce umożliwiające im dalszy rozwój. Próchnowisko zostało należycie zabezpieczone i przewiezione wraz z częścią drzewa w uzgodnione z zarządcą terenu miejsce – obszar Natura 2000, umożliwiające zakończenie rozwoju postaci rozwojowych gatunków chronionych owadów. Ufamy, że misja zakończy się pełnym sukcesem, dając przyrodzie w niedalekiej przyszłości kolejne pokolenie dorosłych postaci zdolnych do podjęcia rozrodu. Akcja skomplikowana, ale bardzo satysfakcjonująca.
+
+
+## Podsumowanie
+
+Zapraszamy wszelkich inwestorów, zarządców, wykonawców do współpracy przy podobnych nadzorach przyrodniczych. Zastosowana minimalizacja straty w odniesieniu do gatunku jest zawsze lepsza niż rezygnacja z tego rodzaju działań ratunkowych. Należy jednak pamiętać, że jest to środek ostateczny i powinien być stosowany tylko w uzasadnionych przypadkach. Bo zawsze lepiej chronić niż likwidować.
+
+

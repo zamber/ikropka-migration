@@ -1,0 +1,86 @@
+---
+category: zabytkowe
+description: Projekt budowlany i techniczny Parku Przygody w Parku Andersa obejmuje
+  zagospodarowanie terenu z poszanowaniem istniejącej zieleni.
+featured_image: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_slider_Andersa_do-500KB.jpg
+gallery:
+- alt: Widok na huśtawki w Parku Andersa
+  caption: Strefa rekreacyjna z huśtawkami widokowymi
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-hustawki-podsatawowy_Ikropka.png
+- alt: Plac zabaw i tor przygód
+  caption: Tor przygód zucha z urządzeniami zabawowymi
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-przygoda-podstawowy_Ikropka.png
+- alt: Strefa sportowa i siłownia zewnętrzna
+  caption: Tor przeszkód tropiciela i siłownia plenerowa
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-sport-podstawowy_Ikropka.png
+- alt: Tor zdrowia i pętla fitness
+  caption: Pętla zdrowia z urządzeniami do fitnessu
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-zdrowie-podstawowy_Ikropka.png
+- alt: Wyższy rzut projektu zagospodarowania
+  caption: Rzut projektu zagospodarowania terenu
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_wyzszy_rzut.jpg
+- alt: Rzut projektu zagospodarowania terenu
+  caption: Layout projektu zagospodarowania
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_podstawowy_miski-scaled.jpg
+- alt: Zestawienie roślinności
+  caption: Zestawienie roślinności projektowanej
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa.jpg
+- alt: Zestawienie roślinności - część 2
+  caption: Szczegółowe zestawienie roślinności
+  image: /assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa_2.jpg
+layout: single
+permalink: /portfolio/park-przygody-w-parku-andersa/
+project:
+  area: 10 133 m²
+  client: Gmina Wrocław
+  location: Wrocław, Dolnośląskie
+  scope: Inwentaryzacja dendrologiczna z projektem gospodarki drzewostanem, inwentaryzacja
+    architektoniczna, inwentaryzacja infrastruktury, analizy przedprojektowe, projekt
+    budowlany, projekt techniczny, projekt wykonawczy zieleni, kosztorys, przedmiar,
+    projekt tablic informacyjnych, identyfikacja wizualna, wizualizacje projektowe,
+    prowadzenie procedur administracyjnych.
+  status: Zrealizowany
+  year: 2021-2022
+title: „Park Przygody w Parku Andersa”
+---
+
+{% include gallery %}
+
+Projekt powstał na podstawie koncepcji oraz programu funkcjonalno-przestrzennego opracowanego w pierwszym etapie prac przez PAK IKROPKA. Opracowanie obejmuje centralny fragment Parku Andersa we Wrocławiu o pow. 10 133 m², dla którego wypracowaliśmy szczegółowy projekt budowlany i techniczny z uwzględnieniem czterech głównych stref aktywności.
+
+
+## Opis projektu
+
+Projekt zakłada rozbudowę i przebudowę fragmentu terenów rekreacyjnych w Parku Andersa. Tereny rekreacyjne zostały podzielone na cztery strefy funkcjonalne: plac zabaw z torem przygód w zachodniej części parku, siłownię zewnętrzną będącą częścią toru wyczynowego we wschodniej jego części oraz w centralnym pasie: polanę rekreacyjną z huśtawkami widokowymi i polanę rodziną z boiskiem do gry w bule oraz stołami piknikowymi. Plac zabaw dla dzieci został utworzony w miejscu już istniejącego placu zabaw: teren został uporządkowany, zinwentaryzowano i usunięto zabawki, które nie nadawały się już do użytku i zaprojektowano nowe. Obszar placu zabaw został urozmaicony żwirową ścieżką z ławkami i obrzeżami z naturalnych materiałów – kamieni polnych, robiniowych kłód, pni – oraz nasadzeniami: leśnymi bylinami i krzewami. Ławki i kosze zostały wymienione na nowe, a także dodano stojaki rowerowe przy ławkach piknikowych oraz torze wyczynowym. Tablice informacyjne i słupki informacyjne są elementem identyfikacji parku zawartej w koncepcji projektowej. Umieszczone w nich treści stanowią grę terenową, której trasa biegnie przez ujęty w projekcie fragment parku. Słupki nawigacyjne określają kierunek poruszania się po danej trasie, co zostanie opracowane na dalszych etapach realizacji parku. Nasadzenia drzew są uzupełnieniem istniejących alei, podkreślają również geometryczne zagospodarowanie pasa rekreacyjnego. Uzupełnieniem zagospodarowania są liczne rabaty bylinowe.
+
+Zakres opracowania obejmuje następujące prace:
+- Demontaż obiektów małej architektury i elementów zagospodarowania terenu.
+- Remont układu komunikacyjnego i utwardzenie terenu.
+- Sytuowanie obiektów małej architektury.
+- Urządzenie zieleni.
+
+Celem projektu jest nadanie parkowi **narracyjnego charakteru** odwołującego się do patrona parku – Generała Władysława Andersa. Planowane jest zachowanie leśnego „klimatu” parku i utrzymanie miejsc aktywności w prostym, drewnianym stylu, nawiązującym do pionierki obozowej. Inspiracją do stworzenia parkowego bohatera stał się **miś Wojtek** – niedźwiedź przysposobiony przez żołnierzy 22 Kompanii Zaopatrywania Artylerii w 2 Korpusie Polskim dowodzonym przez gen. Władysława Andersa. Niedźwiedź brał udział w bitwie o Monte Cassino i otrzymał nawet stopień kaprala. W parku upamiętniony został pomnikiem z krasnalem, natomiast w koncepcji „Parku Przygody w Parku Andersa” otrzymał miano narratora, który oprowadza użytkowników po całym terenie parku wplątując ich w różne zagadki i zadania do wykonania. Dzięki Wojtkowi, każda wizyta w parku stanie się prawdziwą przygodą!
+
+Program Parku Andersa nawiązuje do metody skautowej i harcerskiej, która łączy grę i zabawę, zapewniającą wszechstronny rozwój i kształtowanie charakteru poprzez stawianie wyzwań. Podzielony został na 4 ścieżki tematyczne, nazwanymi torami:
+
+- **Tor zabaw malucha** – ogrodzony plac zabaw dla najmłodszych z wytyczoną za pomocą naturalnych elementów (głazy, kamienie pniaki, kłody) ścieżką do swobodnej zabawy. Wokół ścieżki usytuowane zostały urządzenia zabawowe dostosowane do grupy wiekowej (huśtawki, bujaki i karuzela, drewniana platforma oraz siedzisko). Zabawę urozmaicać będą gry i ciekawostki zamieszczone na niedźwiedzich tablicach.
+
+- **Tor przygód zucha** – na placu zabaw umieszczone zostały urządzenia obrotowe oraz do skakania, karuzela z zawieszonymi siedziskami, trenująca mięśnie użytkowników. W centralnej części postanowiono pozostawić istniejącą zjeżdżalnię oraz huśtawkę, nie zapomniano również o najcenniejszej podwórkowej atrakcji – trzepaku, w formie drążków gimnastycznych (potrójnej przeplotni). Drugą cześć toru zucha stanowi park linowy wraz z częścią inkluzywną – dostosowaną do potrzeb dzieci z niepełnosprawnościami – w której umieszczono potrójną huśtawkę integracyjną. Urządzenia na placu zabaw zostały umieszczone w formie torów, co ma zachęcić dzieci do eksploracji większej części parku. Drogowskazami tej parkowej przygody będą niedźwiedzie tablice z umieszczonymi zadaniami i grami. Dla zmęczonych zuchów zaprojektowano hamaki pośród drzew, siedziska i platformy.
+
+- **Tor przeszkód tropiciela (wyczynowy)** – dla ambitnych sportowców i zwolenników kalisteniki zaprojektowany został tor przeszkód. Zawiera on wysoką równoważnie skośną, siatkę „motyl”, 3-metrową drabinkę oraz rampę do wspinaczki. Wybrane urządzenia przeznaczone są dla zaawansowanych użytkowników, którzy chcą poprawić swoją sprawność i koordynację ruchową.
+
+- **Tor zdrowia** – na pętlę zdrowia składają się dwa miejsca aktywności z urządzeniami do fitnessu zachęcające do spacerów po całej pętli w parku. Pierwsze miejsce zlokalizowane jest w południowej części parku i zostało wzbogacone o ścieżkę rehabilitacyjną z poręczami gimnastycznymi pod którymi proponuje się ułożenie sensorycznej nawierzchni. Drugie znajduje się w zachodniej części parku, pomiędzy historycznymi alejkami. Umieszczone w pętlach urządzenia oferują prosty, ogólnorozwojowy trening.
+
+Ponadto zaprojektowano **polanę sąsiedzką** (rekreacyjną), która stanie się idealnym miejscem do wspólnego, rodzinnego spędzania czasu. Postanowiono pozostawić wolną polanę trawiastą (pow. 1626,15 m²) umieszczając na niej dwie widokowe, duże huśtawki ustawione na osi terenu opracowania. Dodatkową przestrzeń wspólną stanowi **plac rodzinny**, wyposażony w stoły piknikowe oraz tor do gry w bule.
+
+
+## Wyzwania
+
+Specyfika projektu wymagała licznych uzgodnień, w tym z Miejskim Konserwatorem Zabytków, Wojewódzkim Urzędem Ochrony Zabytków, Biurem Zrównoważonej Mobilności, a także gestorami sieci infrastruktury podziemnej – przez park przebiega m. in. linia kablowa wysokiego napięcia.
+
+
+## Zieleń w Parku Andersa
+
+W projekcie zieleni dla przedmiotowego zadania dominują gatunki rodzime, dostosowane do stanowiska. Całość założenia zieleni tworzy mocno naturalistyczną kompozycję opartą na obłych, miękkich liniach, skupiskach krzewów. Wśród projektowanych drzew możemy wyróżnić klon zwyczajny, jesion wyniosły, morwę białą oraz lipę drobnolistną. Wśród warstwy krzewów na uwagę zasługują: bez czarny, kalina koralowa czy jaśminowiec wonny. Podszyt stanowi bogate runo oparte na roślinach okrywowych, trawach oraz bylinach. Należy wyróżnić przede wszystkim bodziszka, runiankę, rodgersję kasztanowcolistną, tiarellę sercolistną, kosmatkę śnieżną czy nerecznicę samczą.
+
+

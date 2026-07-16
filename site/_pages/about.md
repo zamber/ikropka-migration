@@ -1,19 +1,13 @@
 ---
+description: Poznaj zespół IKROPKA i nasze doświadczenie w architekturze krajobrazu,
+  dendrologii oraz ochronie zieleni. Sprawdź, dlaczego warto nam zaufać.
 layout: single
-title: "O nas"
 permalink: /o-nas/
+title: O nas
 ---
 
-## IKROPKA — Pracownia Architektury Krajobrazu
+## O nas
 
-Placeholder content - będzie wypełniony treścią z ikropka.eu podczas migracji contentu.
+Pracujemy dynamicznie, działamy aktywnie. Nasza siła to zgrany Zespół wzajemnie napędzający się do działania. IKROPKA to specjaliści z dziedziny architektury krajobrazu, dendrologii, nadzoru terenów zieleni, gospodarki przestrzennej i urbanistyki.
 
-### Historia
 
-Od 2007 roku...
-
-### Zespół
-
-### Certyfikaty i uprawnienia
-
-### Nasi partnerzy

@@ -1,0 +1,52 @@
+---
+category: projekty
+description: Ochrona drzew na placu budowy pozwala ograniczyć ryzyko uszkodzeń podczas
+  inwestycji. Zobacz, jak skutecznie zabezpieczyć zieleń.
+featured_image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-slider.jpg
+gallery:
+- alt: Drzewo na placu budowy - zdjęcie 1
+  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-1-1.jpg
+- alt: Drzewo na placu budowy - zdjęcie 3
+  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-3.jpg
+- alt: Drzewo na placu budowy - zdjęcie 2
+  image: /assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-2.jpg
+layout: single
+permalink: /portfolio/drzewo-na-placu-budowy/
+project:
+  client: Spółdzielnia Mieszkaniowa Kamieniec
+  location: Wrocław, dolnośląskie
+  scope: Ekspertyza dendrologiczna, plan ochrony drzewa
+  status: Zrealizowany
+  year: '2016'
+title: DRZEWO NA PLACU BUDOWY
+---
+
+{% include gallery %}
+
+W ramach opracowania dokonano szczegółowych oględzin dendrologicznych przedmiotowego drzewa, wykonano podstawowe pomiary dendrometryczne (obwód pnia, dokładna średnica korony, wysokość) oraz szczegółowo opisano stan zdrowotny; za pomocą dalmierza laserowego dokładnie zmierzono średnicę rzutu korony.
+
+
+## Opis projektu
+
+Realizacja inwestycji drogowej, prac ziemnych w bliskim sąsiedztwie drzewa (w zakresie systemu korzeniowego obejmującego zasięg rzutu korony i ok. 1,5 m więcej) ma zwykle negatywne oddziaływanie na drzewo, co obserwuje się najczęściej po około 3 latach od zakończenia inwestycji.
+
+
+## Wyzwania
+
+Jesion wyniosły posiada największy zasięg korzeni bocznych spośród wszystkich rodzimych europejskich drzew (sięgają zwykle kilka – kilkanaście metrów dalej poza rzut korony). Korzenie silne, dobrze znoszą przesadzanie, są wrażliwe na mocno zbitą glebę.
+
+Stan pnia zdiagnozowano szczególnie w dolnej części, przy użyciu młotka gumowego. Sprawdzono także drzewo pod kątem zasiedlenia przez gatunki chronionych roślin, zwierząt i grzybów. Wykonano dokumentację fotograficzną.
+
+Dokonano dokładnej analizy otoczenia drzewa w kontekście planowanej inwestycji. Prace ziemne prowadzone po stronie zachodniej drzewa – głęboki wykop i związane z nimi redukcje i uszkodzenia systemu korzeniowego nie dają drzewu najlepszych rokowań.
+
+
+## Rozwiązania
+
+Sformułowano wnioski i zalecenia do zmiany projektu inwestycji m.in. zalecenie zastosowania ekranu przeciwkorzeniowego oraz cofnięcie planowanego wykopu i przeprojektowanie ściany rampy, co pozwoli na oszczędzenie części systemu korzeniowego. Sporządzono wytyczne dla ochrony drzewa na placu budowy oraz szczegółowe zalecenia pielęgnacyjne w obrębie korony i systemu korzeniowego poprzez zastosowania specjalistycznych zabiegów arborystycznych przy drzewie.
+
+
+## Efekty
+
+Podjęcie działań zaradczych może w znacznym stopniu wzmocnić drzewo i dać mu większe szanse na przeżycie przy zachowaniu bezpieczeństwa.
+
+

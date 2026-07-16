@@ -1,29 +1,13 @@
 ---
+description: Skontaktuj się z Pracownią Architektury Krajobrazu IKROPKA. Doradzimy,
+  przygotujemy ofertę i pomożemy zrealizować Twoją inwestycję.
 layout: single
-title: "Kontakt"
 permalink: /kontakt/
+title: Kontakt
 ---
 
-## Skontaktuj się z nami
+## Skontaktuj się
 
-**IKROPKA — Pracownia Architektury Krajobrazu**
+Zapraszamy do kontaktu, każdy Klient jest dla nas ważny, każdy problem do rozwiązania! Zlecone nam zadania wykonujemy profesjonalnie, skutecznie i na czas.
 
-**Adres:**
-ul. Sudecka 74 lok. 2
-53-129 Wrocław
 
-**Telefon:**
-600 181 389
-662 670 776
-
-**Email:**
-[biuro@ikropka.eu](mailto:biuro@ikropka.eu)
-
-**NIP:** [do uzupełnienia]
-**REGON:** [do uzupełnienia]
-
----
-
-**Formularz kontaktowy będzie dostępny w późniejszej fazie projektu.**
-
-Na razie zapraszamy do kontaktu telefonicznego lub mailowego.
