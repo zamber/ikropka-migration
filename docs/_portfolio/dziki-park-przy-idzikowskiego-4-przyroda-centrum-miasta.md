@@ -2,83 +2,83 @@
 category: projekty
 description: Naturalistyczny projekt zagospodarowania terenu parku przy ul. Idzikowskiego
   we Wrocławiu, oparty na idei czwartej przyrody, bioróżnorodności i sukcesji naturalnej.
-featured_image: /assets/images/portfolio/dziki-park/IKROPKA_Idzikowskiego_layout_slider-1.jpg
+featured_image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_Idzikowskiego_layout_slider-1.jpg
 gallery:
 - alt: Górka ruderalna w parku przy Idzikowskiego
   caption: Górka ruderalna
-  image: /assets/images/portfolio/dziki-park/gorka-ruderalna_wyzszy_do-400KB.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/gorka-ruderalna_wyzszy_do-400KB.jpg
 - alt: Polana w parku przy Idzikowskiego
   caption: Polana
-  image: /assets/images/portfolio/dziki-park/polana_wyzszy_IKROPKA_Idzikowskiego-do-400KB.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/polana_wyzszy_IKROPKA_Idzikowskiego-do-400KB.jpg
 - alt: Plac spotkań w parku przy Idzikowskiego
   caption: Plac spotkań
-  image: /assets/images/portfolio/dziki-park/plac-spotkan-IKROPKA_Idzikowskiego_wyzszy.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/plac-spotkan-IKROPKA_Idzikowskiego_wyzszy.jpg
 - alt: Sala ruderalna w parku przy Idzikowskiego
   caption: Sala ruderalna
-  image: /assets/images/portfolio/dziki-park/sala-ruderalna-IKROPKA_Idzikowskiego_wyzszy.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/sala-ruderalna-IKROPKA_Idzikowskiego_wyzszy.jpg
 - alt: Inspiracje do projektu parku przy Idzikowskiego
   caption: Inspiracje projektowe
-  image: /assets/images/portfolio/dziki-park/IKROPKA_podstawowy_do-400KB_inspiracje-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_podstawowy_do-400KB_inspiracje-1.jpg
 - alt: Analiza terenu parku przy Idzikowskiego
   caption: Analiza terenu
-  image: /assets/images/portfolio/dziki-park/IKROPKA_podstawowy_do-400KB_TEREN-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_podstawowy_do-400KB_TEREN-1.jpg
 - alt: Dobór roślin do parku przy Idzikowskiego
   caption: Dobór roślin
-  image: /assets/images/portfolio/dziki-park/IKROPKA_podstawowy_do-400KB_DOBOR-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_podstawowy_do-400KB_DOBOR-1.jpg
 - alt: Plac budowy w parku przy Idzikowskiego
   caption: Plac budowy
-  image: /assets/images/portfolio/dziki-park/layout_grafika-do-galerii_podstawowy_do-400KB_plac-budowy-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/layout_grafika-do-galerii_podstawowy_do-400KB_plac-budowy-1.jpg
 - alt: Identyfikacja wizualna parku przy Idzikowskiego
   caption: Identyfikacja wizualna
-  image: /assets/images/portfolio/dziki-park/identyfikacja_V2_.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/identyfikacja_V2_.jpg
 - alt: Mapa projektu parku przy Idzikowskiego
   caption: Mapa projektu
-  image: /assets/images/portfolio/dziki-park/layout_grafika-do-galerii_podstawowy_do-400KB_mapa.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/layout_grafika-do-galerii_podstawowy_do-400KB_mapa.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_2.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_2.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_3.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_3.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_4.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_4.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_5.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_5.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_6.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_6.jpg
 - alt: Grafika projektowa parku przy Idzikowskiego
   caption: Grafika projektowa
-  image: /assets/images/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_8.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_8.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_9.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_9.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_12-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_12-1.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_13.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_13.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_14.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_14.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_15.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_15.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_16-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_16-1.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_18.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_18.jpg
 - alt: Tablica edukacyjna w parku przy Idzikowskiego
   caption: Tablica edukacyjna
-  image: /assets/images/portfolio/dziki-park/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_19-1.jpg
+  image: /assets/images/portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/IKROPKA_tablica-edukacyjna_grafika-do-galerii_podstawowy_19-1.jpg
 layout: single
 permalink: /portfolio/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/
 project:

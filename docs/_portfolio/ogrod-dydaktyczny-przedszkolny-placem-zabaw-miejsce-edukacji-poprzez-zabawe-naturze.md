@@ -2,16 +2,16 @@
 category: projekty
 description: Ogród dydaktyczny z placem zabaw wspiera edukację przez kontakt z naturą
   i rozwija dzieci poprzez aktywną zabawę. Poznaj założenia projektu.
-featured_image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny/Projekt-bez-nazwy-31.png
+featured_image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/Projekt-bez-nazwy-31.png
 gallery:
 - alt: Wizualizacja ogrodu dydaktycznego przedszkolnego
-  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny/Projekt-bez-nazwy-34.png
+  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/Projekt-bez-nazwy-34.png
 - alt: Layout graficzny projektu ogrodu przy ul. Rajskiej
-  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny/layout_grafika-do-galerii_podstawowy_do-400KB_Rajska_06.png
+  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/layout_grafika-do-galerii_podstawowy_do-400KB_Rajska_06.png
 - alt: Wizualizacja stref edukacyjnych w ogrodzie przedszkolnym
-  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny/Projekt-bez-nazwy-35.png
+  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/Projekt-bez-nazwy-35.png
 - alt: Wizualizacja placu zabaw zintegrowanego z zielenią
-  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny/Projekt-bez-nazwy-36.png
+  image: /assets/images/portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/Projekt-bez-nazwy-36.png
 layout: single
 permalink: /portfolio/ogrod-dydaktyczny-przedszkolny-placem-zabaw-miejsce-edukacji-poprzez-zabawe-naturze/
 project:

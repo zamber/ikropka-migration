@@ -2,7 +2,7 @@
 category: projekty
 description: Naturalistyczny ogród ze stawem łączy różnorodne nasadzenia, wodę i lokalną
   przyrodę, tworząc harmonijną przestrzeń do wypoczynku.
-featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
+featured_image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jpg
 gallery:
 - alt: Widok ogrodu naturalistycznego ze stawem
   caption: ''

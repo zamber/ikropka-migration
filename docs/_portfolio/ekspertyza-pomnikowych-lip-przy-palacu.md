@@ -2,7 +2,7 @@
 category: zabytkowe
 description: Ekspertyza pomnikowych lip przy pałacu w Starościnie – badanie tomografem
   sonicznym trzech zabytkowych drzew pod kątem bezpieczeństwa.
-featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
+featured_image: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/main.jpg
 gallery:
 - alt: Pomnikowe lipy przy pałacu w Starościnie
   image: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj2.1.jpg

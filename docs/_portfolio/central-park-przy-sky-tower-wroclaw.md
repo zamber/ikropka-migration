@@ -2,26 +2,26 @@
 category: projekty
 description: Projekt Central Park przy Sky Tower we Wrocławiu łączy nowoczesną architekturę
   z funkcjonalną zielenią miejską.
-featured_image: /assets/images/portfolio/central-park/Central-Park-slider1.jpg
+featured_image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-slider1.jpg
 gallery:
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj1-1.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj1-1.jpg
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj2.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj2.jpg
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj3.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj3.jpg
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj4.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj4.jpg
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj5.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj5.jpg
 - alt: Wizualizacja Central Park przy Sky Tower
   caption: ''
-  image: /assets/images/portfolio/central-park/Central-Park-zdj6.jpg
+  image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-zdj6.jpg
 layout: single
 permalink: /portfolio/central-park-przy-sky-tower-wroclaw/
 project:

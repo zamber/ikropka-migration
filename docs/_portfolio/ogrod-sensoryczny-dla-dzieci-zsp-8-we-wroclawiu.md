@@ -2,59 +2,59 @@
 category: projekty
 description: Projekt ogrodu sensorycznego dla dzieci przy ZSP nr 8 we Wrocławiu –
   przestrzeń stymulująca zmysły, wspierająca rozwój i integrację sensoryczną.
-featured_image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_slider.jpg
+featured_image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_slider.jpg
 gallery:
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.2.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.2.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst..jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst..jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.3.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.3.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.4.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.4.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_wyższy.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_wyższy.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.6.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.6.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.7.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.7.jpg
 - alt: Wizualizacja ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/IKROPKA_Składowa_podst.5.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/IKROPKA_Składowa_podst.5.jpg
 - alt: Layout graficzny ogrodu sensorycznego
   caption: ''
-  image: /assets/images/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/layout_grafika-do-galerii_podstawowy_do-400KB.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-3.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-3.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-1.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-1.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-2.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-2.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-7.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-7.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-8.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-8.jpg
 - alt: Zdjęcie ogrodu sensorycznego ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-5.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_zdj-5.jpg
 - alt: Miejsce na smutki i złości w ogrodzie sensorycznym
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/Ikropka-zsp-miejsce-na-smutki-i-zlosci.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ikropka-zsp-miejsce-na-smutki-i-zlosci.jpg
 - alt: Roślinność w ogrodzie sensorycznym ZSP 8
   caption: ''
-  image: /assets/images/portfolio/ogrod-sensoryczny-zsp8/ikropka-ZSP-ROŚLINNOŚĆ.jpg
+  image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/ikropka-ZSP-ROŚLINNOŚĆ.jpg
 layout: single
 permalink: /portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/
 project:

@@ -2,7 +2,7 @@
 category: szkolenia
 description: Udział IKROPKA w konferencji w Otrębusach to wymiana wiedzy i doświadczeń
   z zakresu dendrologii oraz architektury krajobrazu.
-featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
+featured_image: /assets/images/portfolio/konferencja-w-otrebusach/main.jpg
 gallery:
 - alt: Konferencja w Otrębusach - zdjęcie 1
   image: /assets/images/portfolio/konferencja-w-otrebusach/zdj-1.jpg

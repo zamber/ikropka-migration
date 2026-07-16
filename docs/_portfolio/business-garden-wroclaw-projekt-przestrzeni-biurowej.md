@@ -3,89 +3,89 @@ category: projekty
 description: Projekt zieleni, nawierzchni mineralnych i systemów zielonego dachu dla
   kompleksu biurowego Business Garden we Wrocławiu. Starannie zaprojektowana roślinność
   i mała architektura w otoczeniu reprezentacyjnych przestrzeni biurowych.
-featured_image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj_slider_ikropka.jpg
+featured_image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj_slider_ikropka.jpg
 gallery:
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław6.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław6.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław3.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław3.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj4_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj4_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław2.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław2.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław8.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław8.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław7.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław7.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław10.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław10.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław9.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław9.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław4.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław4.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/ikropka-businessGarden-Wrocław5.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/ikropka-businessGarden-Wrocław5.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj1_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj1_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj2_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj2_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj6_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj6_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj9_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj9_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj12_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj12_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj8_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj8_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj5_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj5_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj3a_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj3a_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj7_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj7_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/portfolio/business-garden-wroclaw/BGW_zdj10_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj10_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj13_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj13_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj17_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj17_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj18_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj18_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj14_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj14_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj16_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj16_ikropka.jpg
 - alt: ''
   caption: ''
-  image: /assets/images/BGW_zdj15_ikropka.jpg
+  image: /assets/images/portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/BGW_zdj15_ikropka.jpg
 layout: single
 permalink: /portfolio/business-garden-wroclaw-projekt-przestrzeni-biurowej/
 project:

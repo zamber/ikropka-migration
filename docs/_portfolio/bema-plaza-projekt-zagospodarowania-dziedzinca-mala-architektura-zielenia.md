@@ -2,38 +2,38 @@
 category: projekty
 description: Projekt zagospodarowania dziedzińca Bema Plaza – mała architektura, zieleń
   i przestrzeń wspólna tworząca reprezentacyjne otoczenie centrum handlowego.
-featured_image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_SLIDER_ikropka.jpg
+featured_image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_SLIDER_ikropka.jpg
 gallery:
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_13_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_13_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_11_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_11_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_10_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_10_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_12_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_12_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_15_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_15_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_17_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_17_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_16_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_16_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_14_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_14_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_5_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_5_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_6_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_6_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_-GALERIA_2_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_-GALERIA_2_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_-GALERIA_1_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_-GALERIA_1_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_9_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_9_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_7_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_7_ikropka.jpg
 - alt: Wizualizacja dziedzińca Bema Plaza z małą architekturą i zielenią
-  image: /assets/images/portfolio/bema-plaza/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_8_ikropka.jpg
+  image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_GALERIA_8_ikropka.jpg
 layout: single
 permalink: /portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/
 project:

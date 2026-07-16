@@ -2,7 +2,7 @@
 category: projekty
 description: Operat i projekt nasadzeń kompensacyjnych – kompleksowa dokumentacja
   wymagana przy wycince drzew, zgodna z przepisami i lokalnymi warunkami siedliskowymi.
-featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
+featured_image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/main.jpg
 gallery:
 - alt: Widok terenu inwestycji w Wojkowicach
   caption: ''
