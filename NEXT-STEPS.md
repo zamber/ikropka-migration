@@ -49,7 +49,7 @@
 
 ### Tasks Remaining
 
-1. **Create portfolio index page** (`site/_pages/portfolio.md`)
+1. **Create portfolio index page** (`docs/_pages/portfolio.md`)
    - List all 72 projects
    - Add category filter buttons (Projekty, Zabytkowe, Szkolenia)
    - Implement fuzzy search with fuse.js
@@ -64,7 +64,7 @@
    - Or `loading="lazy"` attribute (simpler)
 
 4. **Create portfolio layout template**
-   - `site/_layouts/portfolio_single.html`
+   - `docs/_layouts/portfolio_single.html`
    - Include gallery support
    - Project metadata display
 

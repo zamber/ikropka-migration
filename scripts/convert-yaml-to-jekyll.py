@@ -18,7 +18,7 @@ import re
 # Paths
 PROJECT_ROOT = Path(__file__).parent.parent
 STRUCTURED_DIR = PROJECT_ROOT / "content-structured"
-JEKYLL_SITE_DIR = PROJECT_ROOT / "site"
+JEKYLL_SITE_DIR = PROJECT_ROOT / "docs"
 
 # Output directories
 PAGES_DIR = JEKYLL_SITE_DIR / "_pages"

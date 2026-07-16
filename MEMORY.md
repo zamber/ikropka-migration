@@ -406,7 +406,7 @@ See `ROADMAP.md` for full details.
    - Compress to 80-85% quality
    - Fallback JPEG for compatibility
    - Max width: ~1200-1600px (sufficient for modern displays)
-4. **Store in repo** (`site/assets/images/`)
+4. **Store in repo** (`docs/assets/images/`)
    - Start simple — everything in Git
    - If repo size >500MB, migrate to CDN in Phase 2/3
 
@@ -418,7 +418,7 @@ See `ROADMAP.md` for full details.
 **Technical Implementation:**
 - Script: `/home/luna/ikropka-migration/scripts/download-and-optimize-images.sh`
 - Tools: `wget`/`curl` for download, `cwebp` for WebP conversion, `imagemagick`/`sharp` for optimization
-- Output: `scraped-content/images/` (originals) → `site/assets/images/` (optimized)
+- Output: `scraped-content/images/` (originals) → `docs/assets/images/` (optimized)
 
 **Impact:**
 - Significantly reduces repo size by deduplicating WP thumbnails
@@ -764,10 +764,10 @@ All remaining pages extracted using parallel processing (`scripts/batch-extract-
 
 | Category | Files | Output Directory |
 |----------|-------|------------------|
-| Static Pages | 3 | `site/_pages/` |
-| Service Pages | 13 | `site/_services/` |
-| Portfolio Projects | 72 | `site/_portfolio/` |
-| Blog Posts | 64 | `site/_posts/` |
+| Static Pages | 3 | `docs/_pages/` |
+| Service Pages | 13 | `docs/_services/` |
+| Portfolio Projects | 72 | `docs/_portfolio/` |
+| Blog Posts | 64 | `docs/_posts/` |
 | **TOTAL** | **152** | **All ready for Jekyll** |
 
 ### Technical Implementation
@@ -788,12 +788,12 @@ All remaining pages extracted using parallel processing (`scripts/batch-extract-
 
 ### Files Modified
 
-- `site/_pages/index.md` - Homepage with sections converted to markdown
-- `site/_pages/about.md` - About page
-- `site/_pages/contact.md` - Contact page
-- `site/_services/*.md` - 13 service collection pages
-- `site/_portfolio/*.md` - 72 portfolio collection pages
-- `site/_posts/*.md` - 64 blog posts with proper dates
+- `docs/_pages/index.md` - Homepage with sections converted to markdown
+- `docs/_pages/about.md` - About page
+- `docs/_pages/contact.md` - Contact page
+- `docs/_services/*.md` - 13 service collection pages
+- `docs/_portfolio/*.md` - 72 portfolio collection pages
+- `docs/_posts/*.md` - 64 blog posts with proper dates
 
 **Next:** Milestone 6 - Portfolio features (lazy loading, fuzzy search, category filtering)
 
