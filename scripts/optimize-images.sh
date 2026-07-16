@@ -1,95 +1,48 @@
 #!/bin/bash
-# Optimize images: convert to WebP + create JPEG fallback
-# Input: scraped-content/images/deduplicated/
-# Output: site/assets/images/
-
 set -e
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
-INPUT_DIR="$PROJECT_DIR/scraped-content/images/deduplicated"
-OUTPUT_DIR="$PROJECT_DIR/site/assets/images"
+PROJECT_DIR="/home/luna/ikropka-migration"
+DOCS_DIR="$PROJECT_DIR/docs"
+PORTFOLIO_DIR="$DOCS_DIR/assets/images/portfolio"
 
-QUALITY=85
-MAX_WIDTH=1600
-
-echo "Image Optimization"
-echo "=================="
-echo "Input:  $INPUT_DIR"
-echo "Output: $OUTPUT_DIR"
-echo "Quality: $QUALITY%"
-echo "Max width: ${MAX_WIDTH}px"
+echo "Optimizing portfolio images..."
+echo "==============================="
 echo ""
 
-# Check if input directory exists
-if [ ! -d "$INPUT_DIR" ]; then
-    echo "ERROR: Input directory not found: $INPUT_DIR"
-    echo "Run deduplication script first!"
-    exit 1
-fi
+# Counter
+optimized=0
+converted=0
+skipped=0
 
-# Create output directory
-mkdir -p "$OUTPUT_DIR"
+# Find all JPG/PNG images in portfolio
+find "$PORTFOLIO_DIR" -type f \( -name "*.jpg" -o -name "*.png" \) | head -10 | while read -r img; do
+    filename=$(basename "$img")
+    dirname=$(dirname "$img")
 
-# Count files
-TOTAL=$(find "$INPUT_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | wc -l)
-echo "Found $TOTAL images to optimize"
-echo ""
+    # Get size
+    size=$(stat -c%s "$img" 2>/dev/null || stat -f%z "$img" 2>/dev/null || echo 0)
 
-PROCESSED=0
-ERRORS=0
-
-# Process each image
-find "$INPUT_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) | while read -r img; do
-    BASENAME=$(basename "$img")
-    FILENAME="${BASENAME%.*}"
-    EXTENSION="${BASENAME##*.}"
-
-    PROCESSED=$((PROCESSED + 1))
-
-    # Progress indicator
-    if [ $((PROCESSED % 10)) -eq 0 ]; then
-        echo "Progress: $PROCESSED/$TOTAL"
+    if [ $size -lt 10240 ]; then
+        echo "⊘ Skipping $filename (already tiny: $(($size/1024))KB)"
+        continue
     fi
 
-    # Resize and optimize JPEG/PNG (fallback)
-    JPEG_OUT="$OUTPUT_DIR/${FILENAME}.jpg"
-    convert "$img" \
-        -resize "${MAX_WIDTH}x${MAX_WIDTH}>" \
-        -quality $QUALITY \
-        -strip \
-        "$JPEG_OUT" 2>/dev/null || {
-        echo "WARNING: Failed to convert $BASENAME to JPEG"
-        ERRORS=$((ERRORS + 1))
-        continue
-    }
+    echo "Processing: $filename ($(($size/1024))KB)"
 
-    # Convert to WebP
-    WEBP_OUT="$OUTPUT_DIR/${FILENAME}.webp"
-    cwebp -q $QUALITY "$JPEG_OUT" -o "$WEBP_OUT" >/dev/null 2>&1 || {
-        echo "WARNING: Failed to convert $BASENAME to WebP"
-        ERRORS=$((ERRORS + 1))
-    }
+    # Create WebP version if doesn't exist
+    webp_path="${img%.*}.webp"
+    if [ ! -f "$webp_path" ]; then
+        cwebp -q 85 "$img" -o "$webp_path" 2>/dev/null || true
+        if [ -f "$webp_path" ]; then
+            webp_size=$(stat -c%s "$webp_path" 2>/dev/null || stat -f%z "$webp_path" 2>/dev/null || echo 0)
+            echo "  ✓ Created WebP: $(basename "$webp_path") ($(($webp_size/1024))KB)"
+        fi
+    else
+        echo "  ⊘ WebP already exists"
+    fi
 
+    echo ""
 done
 
-echo ""
-echo "=================="
-echo "Optimization Complete"
-echo "=================="
-echo "Processed: $TOTAL images"
-echo "Errors: $ERRORS"
-echo "Output directory: $OUTPUT_DIR"
-echo ""
-
-# Calculate size savings
-ORIGINAL_SIZE=$(du -sb "$INPUT_DIR" | cut -f1)
-OUTPUT_SIZE=$(du -sb "$OUTPUT_DIR" | cut -f1)
-SAVED=$((ORIGINAL_SIZE - OUTPUT_SIZE))
-SAVED_MB=$((SAVED / 1024 / 1024))
-PERCENT=$((SAVED * 100 / ORIGINAL_SIZE))
-
-echo "Size comparison:"
-echo "  Original: $((ORIGINAL_SIZE / 1024 / 1024)) MB"
-echo "  Optimized: $((OUTPUT_SIZE / 1024 / 1024)) MB"
-echo "  Saved: ${SAVED_MB} MB (${PERCENT}%)"
+echo "==============================="
+echo "Optimization complete!"
