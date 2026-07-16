@@ -8,11 +8,36 @@ header:
 layout: splash
 permalink: /
 title: IKROPKA — Pracownia Architektury Krajobrazu
+
+feature_row:
+  - image_path: /assets/images/services-dendrology.jpg
+    alt: "Usługi dendrologiczne"
+    title: "Usługi Dendrologiczne"
+    excerpt: "Inwentaryzacje, operaty, ekspertyzy, przeglądy drzew i pogotowie dendrologiczne."
+    url: "/oferta/#dendrology"
+    btn_label: "Dowiedz się więcej"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/services-design.jpg
+    alt: "Usługi projektowe"
+    title: "Usługi Projektowe"
+    excerpt: "Projekty zagospodarowania terenu, projekty zieleni, ogrody prywatne, parki."
+    url: "/oferta/#design"
+    btn_label: "Dowiedz się więcej"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/services-supervision.jpg
+    alt: "Nadzory"
+    title: "Nadzory i Obsługa Inwestycji"
+    excerpt: "Inspektor nadzoru dendrologicznego i nadzór terenów zieleni w procesie inwestycyjnym."
+    url: "/oferta/#supervision"
+    btn_label: "Dowiedz się więcej"
+    btn_class: "btn--primary"
 ---
 
-## 
+##
 
 Powstała w 2007 roku Pracownia Architektury Krajobrazu IKROPKA na przestrzeni lat zyskała renomę profesjonalnego, rzetelnego i terminowego wykonawcy. Swoją ofertę kieruje zarówno do osób prywatnych, jak i architektów, inwestorów, samorządów. Klient może liczyć na profesjonalną obsługę i fachowe doradztwo. Każdy projekt wykonany zostanie z szacunkiem do środowiska naturalnego.
+
+{% include feature_row %}
 
 ## Trzy filary działalności
 
