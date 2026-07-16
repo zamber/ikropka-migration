@@ -14,6 +14,7 @@ import os
 import sys
 import re
 import requests
+import time
 from pathlib import Path
 
 # OpenRouter API configuration
@@ -57,11 +58,14 @@ def load_prompt_template(page_type: str) -> str:
 def fetch_html_from_url(url: str) -> str:
     """Fetch HTML content from a URL."""
     print(f"Fetching HTML from: {url}")
+    start = time.time()
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; IKROPKA-Migration/1.0)"
     }
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
+    elapsed = time.time() - start
+    print(f"⏱️  HTML fetch took: {elapsed:.2f}s")
     return response.text
 
 
@@ -88,13 +92,16 @@ def extract_content_with_ai(html: str, page_type: str, api_key: str) -> str:
     """
     Send HTML to OpenRouter API (Kimi K2.5) and get YAML output.
     """
+    load_start = time.time()
     prompt_template = load_prompt_template(page_type)
 
     # Replace placeholder with actual HTML
     prompt = prompt_template.replace("{HTML_CONTENT_HERE}", html)
+    load_elapsed = time.time() - load_start
 
     print(f"Sending request to OpenRouter API (model: {MODEL})...")
     print(f"HTML size: {len(html)} chars, Prompt size: {len(prompt)} chars")
+    print(f"⏱️  Prompt prep took: {load_elapsed:.2f}s")
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -134,9 +141,13 @@ CRITICAL RULES:
         "max_tokens": 16000,  # Kimi K2.5 has high context, allow long outputs
     }
 
+    api_start = time.time()
     response = requests.post(OPENROUTER_API_URL, json=payload, headers=headers, timeout=120)
     response.raise_for_status()
+    api_elapsed = time.time() - api_start
+    print(f"⏱️  API call took: {api_elapsed:.2f}s")
 
+    parse_start = time.time()
     result = response.json()
 
     if "choices" not in result or len(result["choices"]) == 0:
@@ -147,6 +158,9 @@ CRITICAL RULES:
     # Remove markdown code blocks if AI added them (sometimes models do this)
     yaml_output = re.sub(r"^```ya?ml\n", "", yaml_output, flags=re.MULTILINE)
     yaml_output = re.sub(r"\n```$", "", yaml_output, flags=re.MULTILINE)
+
+    parse_elapsed = time.time() - parse_start
+    print(f"⏱️  Response parsing took: {parse_elapsed:.2f}s")
 
     return yaml_output
 
@@ -186,6 +200,8 @@ def main():
         sys.exit(1)
 
     try:
+        total_start = time.time()
+
         # Load HTML
         if args.url:
             html = fetch_html_from_url(args.url)
@@ -193,14 +209,23 @@ def main():
             html = load_html_from_file(args.html)
 
         # Clean HTML
+        clean_start = time.time()
         html = clean_html(html)
+        clean_elapsed = time.time() - clean_start
         print(f"Cleaned HTML size: {len(html)} chars")
+        print(f"⏱️  HTML cleaning took: {clean_elapsed:.2f}s")
 
         # Extract content with AI
         yaml_content = extract_content_with_ai(html, args.type, api_key)
 
         # Save output
+        save_start = time.time()
         save_yaml(yaml_content, args.output)
+        save_elapsed = time.time() - save_start
+        print(f"⏱️  File save took: {save_elapsed:.2f}s")
+
+        total_elapsed = time.time() - total_start
+        print(f"\n⏱️  TOTAL TIME: {total_elapsed:.2f}s")
 
         print("\n✅ Extraction complete!")
         print(f"Next steps:")
