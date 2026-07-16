@@ -13,13 +13,11 @@
 3. In the left sidebar, scroll down and click **Pages**
 
 4. Under **"Build and deployment"**, configure:
-   - **Source:** Deploy from a branch
-   - **Branch:** `main`
-   - **Folder:** `/docs`
+   - **Source:** GitHub Actions ⚠️ (NOT "Deploy from a branch")
 
-5. Click **Save**
+5. GitHub will automatically detect the `.github/workflows/jekyll.yml` workflow
 
-6. Wait 2-3 minutes for the first build to complete
+6. Wait 2-3 minutes for the first build to complete (check Actions tab)
 
 ## Step 2: Verify Deployment
 
