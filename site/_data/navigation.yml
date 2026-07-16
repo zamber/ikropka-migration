@@ -1,0 +1,64 @@
+# Main navigation
+main:
+  - title: "O nas"
+    url: /o-nas/
+  - title: "Oferta"
+    url: /oferta/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Referencje"
+    url: /referencje/
+  - title: "Aktualności"
+    url: /aktualnosci/
+  - title: "Kontakt"
+    url: /kontakt/
+
+# Services sidebar navigation
+services:
+  - title: "Usługi Dendrologiczne"
+    children:
+      - title: "Inwentaryzacje dendrologiczne"
+        url: /oferta/inwentaryzacje-dendrologiczne/
+      - title: "Operat dendrologiczny"
+        url: /oferta/operat-dendrologiczny/
+      - title: "Ekspertyzy dendrologiczne"
+        url: /oferta/dendrolog-opinie-ekspertyzy/
+      - title: "Przeglądy drzew"
+        url: /oferta/przeglady-drzew-katem-bezpieczenstwa/
+      - title: "Pogotowie dendrologiczne"
+        url: /oferta/pogotowie-dendrologiczne/
+      - title: "Projekt ochrony drzewa"
+        url: /oferta/projekt-ochrony-drzewa/
+  - title: "Usługi Projektowe"
+    children:
+      - title: "Projekty zagospodarowania terenu"
+        url: /oferta/projekty-zagospodarowania-terenu/
+      - title: "Projekty zieleni"
+        url: /oferta/projekty-zieleni/
+      - title: "Ogrody prywatne"
+        url: /oferta/ogrody-prywatne/
+      - title: "Parki i tereny rekreacyjne"
+        url: /oferta/projekty-parkow-i-terenow-rekreacyjnych/
+  - title: "Inne Usługi"
+    children:
+      - title: "Nadzory realizacji"
+        url: /oferta/nadzory/
+      - title: "Obiekty zabytkowe"
+        url: /oferta/obiekty-zabytkowe/
+      - title: "Doradztwo"
+        url: /oferta/doradztwo/
+      - title: "Szkolenia"
+        url: /oferta/szkolenia/
+
+# Portfolio sidebar navigation
+portfolio:
+  - title: "Kategorie"
+    children:
+      - title: "Wszystkie projekty"
+        url: /portfolio/
+      - title: "Obiekty zabytkowe"
+        url: /portfolio/zabytkowe/
+      - title: "Projekty"
+        url: /portfolio/projekty/
+      - title: "Szkolenia"
+        url: /portfolio/szkolenia/

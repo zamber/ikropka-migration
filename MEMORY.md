@@ -507,3 +507,33 @@ This applies to:
 
 If blocked or need to change approach: ASK, don't assume deferral is OK.
 
+
+---
+
+## Milestone 2 Complete - 2026-07-16
+
+**Status:** ✅ COMPLETE
+
+**Deliverables:**
+- Jekyll 4.4.1 installed (Ruby 3.1.2)
+- Minimal Mistakes 4.28.0 theme configured
+- `_config.yml` configured with IKROPKA details:
+  - Site title, description, locale (pl-PL)
+  - Collections: portfolio, services
+  - Plugins: SEO, sitemap, feed, paginate
+  - Navigation structure
+- Directory structure created: `_pages/`, `_portfolio/`, `_services/`, `_data/`, `assets/`
+- Navigation configured (`_data/navigation.yml`) - main menu + sidebars
+- Placeholder pages created: homepage (splash layout), about, services hub, portfolio, contact
+- Local development server tested: ✅ http://localhost:4000/ikropka-migration/
+- Build successful (warnings are deprecations from Sass, not errors)
+
+**Technical Notes:**
+- baseurl: `/ikropka-migration` (for GitHub Pages)
+- Collections permalink structure:
+  - Portfolio: `/portfolio/:slug/`
+  - Services: `/oferta/:slug/`
+- Sass deprecation warnings are normal (Minimal Mistakes uses older Sass syntax)
+
+**Next:** Milestone 3 — Image Migration & Optimization
+
