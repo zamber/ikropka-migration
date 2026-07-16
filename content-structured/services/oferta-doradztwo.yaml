@@ -1,0 +1,104 @@
+---
+layout: service
+title: "Doradztwo"
+description: "Doradztwo dendrologiczne i projektowe dla firm i osób prywatnych na każdym etapie inwestycji. Pomagamy dobrać technologie, optymalizować koszty."
+permalink: /oferta/doradztwo/
+
+category: services
+service_type: consulting
+
+hero_image: null
+hero_alt: ""
+
+sections:
+  - type: intro
+    content: |
+      Szybko i sprawnie doradzamy, pomagamy podjąć najlepsze decyzje i kroki zmierzające do rozwiązania problemu i powodzenia. Zapraszamy do **[współpracy](/kontakt/)**!
+
+  - type: description
+    heading: "Doradztwo"
+    content: |
+      ![](/assets/images/2017/09/ikona-doradztwo.png)
+
+      Doradzamy osobom prywatnym i firmom na różnych etapach: planowania, projektowym, realizacyjnym, powykonawczym.
+
+      **Wspieramy specjalistów przy doborze odpowiednich [rozwiązań projektowych](/oferta/projekty-zagospodarowania-terenu/), czy realizacyjnych w sąsiedztwie drzew. Jeśli masz wątpliwości dotyczące prawidłowości dobieranych rozwiązań, wykonywanych prac, skontaktuj się z nami. Wybór odpowiednich technologii pozwala na realizację inwestycji najlepszej jakości, bezpiecznej dla ich użytkowników.**
+
+      Pomagamy w optymalizacji **kosztów** dla Inwestorów już na etapie zakupu działki w kontekście istniejącej zieleni.
+
+      Doradzamy również w zakresie wytypowania drzew cennych, wartych szczególnej ochrony w trakcie procesu inwestycyjnego. Dla takich drzew warto wykonać [Projekt Ochrony Drzewostanu](/oferta/projekt-ochrony-drzewa/), ponieważ jego uszkodzenie, lub zniszczenie wiąże się dla Inwestora z ogromnymi kosztami.
+
+      **Oceniamy [zniszczenia zieleni](/oferta/dendrolog-opinie-ekspertyzy/) i wydajemy zalecenia dotyczące sposobu jej odtworzenia.**
+
+      Wykonujemy usługi doradcze również w zakresie przygotowywania zamówienia publicznego, w tym określenia wymagań dla Wykonawcy i szczegółowym opisie przedmiotu zamówienia.
+
+      Możemy kompleksowo poprowadzić skomplikowane procedury administracyjne dotyczące uzyskania pozwoleń i decyzji – również jako pełnomocnik Zamawiającego oraz koordynować prace różnych specjalistów.
+
+      *Jeśli wątpliwa jest jakość i prawidłowość prowadzonego procesu inwestycyjnego, projektowego, realizacyjnego i pojawia się potrzeba doradztwa, z pasją i zaangażowaniem podejmiemy się oceny sytuacji i sformułowania odpowiednich wytycznych do dalszego postępowania.*
+
+  - type: components
+    heading: "Co obejmuje doradztwo?"
+    items:
+      - title: "Doradztwo na każdym etapie inwestycji"
+        description: "Planowanie, etap projektowy, realizacyjny i powykonawczy."
+      - title: "Dobór rozwiązań projektowych i realizacyjnych"
+        description: "Wsparcie specjalistów w sąsiedztwie drzew oraz dobór technologii zapewniających najlepszą jakość i bezpieczeństwo."
+      - title: "Optymalizacja kosztów"
+        description: "Pomoc Inwestorom już na etapie zakupu działki w kontekście istniejącej zieleni."
+      - title: "Ochrona drzew cennych"
+        description: "Wytypowanie drzew wymagających szczególnej ochrony w trakcie procesu inwestycyjnego."
+      - title: "Ocena zniszczeń zieleni"
+        description: "Ocena szkód w zieleni oraz zalecenia dotyczące sposobu jej odtworzenia."
+      - title: "Zamówienia publiczne i procedury administracyjne"
+        description: "Przygotowanie dokumentacji przetargowej, pełnomocnictwo oraz koordynacja prac specjalistów."
+
+  - type: testimonials
+    heading: "Referencje"
+    items:
+      - author: ""
+        organization: "Spartan"
+        year: "2023"
+        content: "Polecamy Panią mgr inż. Dominikę Krop-Andrzejczuk oraz jej Pracownię Architektury Krajobrazu IKROPKA do współpracy już przed etapem planowanej inwestycji jako doradcę, projektanta oraz inspektora nadzoru terenów zieleni, inspektora dendrologicznego z bogatym doświadczeniem."
+      - author: ""
+        organization: "MSM Energetyk"
+        year: "2020"
+        content: "Polecamy współpracę z tą firmą innym zarządcom terenu w zakresie opracowań eksperckich dla drzew, projektów dla terenów zieleni."
+      - author: ""
+        organization: "JSK Architekci"
+        year: "2019"
+        content: "Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni."
+
+  - type: cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pytania lub potrzebujesz wsparcia na każdym etapie inwestycji? Napisz do nas."
+    button_text: "Napisz do nas"
+    button_url: "/kontakt/"
+
+related_services:
+  - slug: "inwentaryzacje-dendrologiczne"
+    title: "Inwentaryzacje zieleni"
+  - slug: "operat-dendrologiczny"
+    title: "Operaty dendrologiczne"
+  - slug: "dendrolog-opinie-ekspertyzy"
+    title: "Opinie i Ekspertyzy"
+  - slug: "przeglady-drzew-katem-bezpieczenstwa"
+    title: "Przeglądy drzew pod kątem bezpieczeństwa"
+  - slug: "pogotowie-dendrologiczne"
+    title: "Pogotowie dendrologiczne"
+  - slug: "projekt-ochrony-drzewa"
+    title: "Projekt ochrony drzewa"
+  - slug: "projekty-zagospodarowania-terenu"
+    title: "Projekty zagospodarowania terenu"
+  - slug: "projekty-zieleni"
+    title: "Projekty zieleni"
+  - slug: "ogrody-prywatne"
+    title: "Ogrody prywatne"
+  - slug: "projekty-parkow-i-terenow-rekreacyjnych"
+    title: "Projekty parków i terenów rekreacyjnych"
+  - slug: "nadzory"
+    title: "Nadzory"
+  - slug: "obiekty-zabytkowe"
+    title: "Obiekty zabytkowe"
+  - slug: "szkolenia"
+    title: "Szkolenia"
+---

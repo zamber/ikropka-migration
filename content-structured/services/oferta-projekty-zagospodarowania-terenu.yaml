@@ -1,0 +1,147 @@
+---
+layout: service
+title: "Projekty zagospodarowania terenu"
+description: "Wykonujemy projekty zagospodarowania terenu – koncepcyjne, budowlane i wykonawcze. Tereny publiczne, prywatne, komercyjne, zabytkowe."
+permalink: /oferta/projekty-zagospodarowania-terenu/
+
+category: services
+service_type: design
+
+hero_image: /assets/images/services/ikona-uslugi-projektowe.png
+hero_alt: "Ikona usług projektowych"
+
+sections:
+  - type: intro
+    content: |
+      Wykonujemy projekty zagospodarowania terenów publicznych, prywatnych, przy obiektach komercyjnych, mieszkaniowych, rekreacyjnych, zabytkowych, na terenach objętych ochroną konserwatorską. Podejmujemy każde wyzwanie, zapraszamy do współpracy!
+
+  - type: description
+    heading: "Projekty zagospodarowania terenu"
+    content: |
+      Wykonujemy projekty zagospodarowania terenu (PZT) koncepcyjne, budowlane i wykonawcze. Projektujemy z pasją i doświadczeniem. Z pomysłem gospodarujemy przestrzenią wychodząc naprzeciw oczekiwaniom Klienta, opracowania wykonujemy rzetelnie i terminowo. Projekt zagospodarowania terenu sporządzony przez doświadczonych architektów krajobrazu wyszkolonych kierunkowo do projektowania przestrzeni spełniającej potrzeby jej użytkowników oraz wszelkie wymogi techniczne, nowoczesne rozwiązania w projektach przestrzeni.
+
+      Dzięki wiedzy i doświadczeniu zdobytym na wszystkich etapach inwestycji, w tym pracy nadzorczej na placu budowy, wiemy jak projektować aby uniknąć dodatkowych kosztów i niepotrzebnych problemów na dalszych etapach realizacji inwestycji!
+
+      Projektujemy przestrzenie na zielonych dachach! Przestrzeń na parkingu podziemnym może pełnić funkcje atrakcyjnego terenu osiedla dla mieszkańców. Dobrze zaprojektowana zieleń i przestrzeń podniesie wartość każdej inwestycji deweloperskiej, biurowej i nie tylko!
+
+      Do każdego projektu podchodzimy indywidualnie, a końcowy skład dokumentacji projektu zagospodarowania terenu PZT uzależniony jest od stopnia skomplikowania i złożoności tematu oraz wymagań Zamawiającego. Powstałe opracowania to międzybranżowe projekty na zagospodarowanie terenu obejmujące wielopoziomowe rozwiązania różnych aspektów.
+
+      Szczególną dziedziną projektów zagospodarowania terenu są projekty na terenach, gdzie występują dojrzałe drzewa, czy cenny starodrzew. Wykorzystujemy w nich wiedzę dendrologiczną i projektujemy rozwiązania wokół drzew przy użyciu nieinwazyjnych, nowoczesnych technologii projektowych i metod prac budowlanych, dzięki którym można uniknąć zniszczeń i zapewnić przeżycie drzewom w dobrym stanie sanitarnym.
+
+      Opracowania projektów zagospodarowania terenu wykonujemy w oprogramowaniu AutoCAD, współpracujemy z Architektami oraz wszystkimi potrzebnymi branżystami, zapewniamy pełen Zespół projektantów niezbędny do sporządzenia projektu zagospodarowania terenu do wszelkich uzgodnień. Prowadzimy procedury administracyjne, uzyskujemy opinie i uzgodnienia, pozwolenia na budowę i zgłoszenia budowy.
+
+      Projektując na wyznaczonej działce zawsze rozpatrujemy powiązania krajobrazowe i przestrzenne, przykładamy starań do jak najlepszej jakości! Projektując w otoczeniu budynków współpracujemy z architektami wnętrz, architektami analizujemy styl budynków, elewacji i wystrój pomieszczeń, rodzaj użytych materiałów. Dzięki temu zyskujemy spójność kompozycyjną i materiałową zewnętrza i wnętrz, otoczenie staje się funkcjonalnym przedłużeniem budynku. Etap projektowy poprzedzamy licznymi analizami przedprojektowymi np. zasobów przyrodniczych w tym drzewostanu (inwentaryzacja dendrologiczna), komunikacyjną, kompozycji przestrzennej, powiązań przestrzennych i krajobrazowych, widokową, historyczną itp.
+
+      Projekty zagospodarowania terenu wykonujemy również przy tematach zabytkowych. Tworzymy projekty rewitalizacji oraz rewaloryzacji. Prace projektowe poprzedzamy wnikliwymi analizami historycznymi, kwerendą. W tej dziedzinie mamy doświadczenie i działamy aktywnie już od 15 lat! Polecamy również swoje pozostałe usługi takie jak projekty zieleni, projekty elementów małej architektury. Dzięki interdyscyplinarnemu zespołowi szybko i kompleksowo obsługujemy każdą inwestycję!
+
+  - type: components
+    heading: "Projekt zagospodarowania terenu zwykle zawiera"
+    items:
+      - title: "Rozwiązania podziału funkcjonalno-przestrzennego"
+        description: "Układ funkcji i przestrzeni na terenie inwestycji."
+      - title: "Układ komunikacyjny"
+        description: "Projekt ścieżek, dróg i parkingów."
+      - title: "Projekt oświetlenia"
+        description: "Rozwiązania oświetleniowe terenu."
+      - title: "Układ i kompozycja zieleni"
+        description: "Zaprojektowanie zieleni w przestrzeni."
+      - title: "Elementy małej architektury"
+        description: "Dobór elementów małej architektury lub ich indywidualny projekt autorski."
+      - title: "Rozwiązania materiałowe"
+        description: "Dobór materiałów nawierzchniowych i wykończeniowych."
+      - title: "Specyfikacja techniczna"
+        description: "Szczegółowa specyfikacja techniczna wykonania i odbioru robót."
+      - title: "Kosztorys"
+        description: "Kosztorys i inne dokumentacje w zależności od projektowanego terenu i oczekiwań Zamawiającego."
+
+  - type: features
+    heading: "Co oferujemy"
+    items:
+      - "Projekty koncepcyjne, budowlane i wykonawcze PZT"
+      - "Projektowanie przestrzeni na zielonych dachach"
+      - "Indywidualne podejście do każdego projektu"
+      - "Współpracę z architektami i branżystami"
+      - "Procedury administracyjne, uzgodnienia, pozwolenia na budowę"
+      - "Projektowanie z uwzględnieniem dojrzałych drzew i starodrzewu"
+      - "Projekty rewitalizacji i rewaloryzacji terenów zabytkowych"
+      - "Analizy przedprojektowe: dendrologiczne, komunikacyjne, widokowe, historyczne"
+
+  - type: projects_carousel
+    heading: "Projekty - wybrane projekty"
+    note: "Wybrane realizacje związane z projektami zagospodarowania terenu"
+    projects:
+      - slug: "wuwa-nowej-odslonie"
+      - slug: "river-point-kepie-mieszczanskiej"
+      - slug: "ch-cuprum-arena"
+      - slug: "rewaloryzacja-parku-sikorskiego"
+      - slug: "projekt-ogrodu-przydomowego-goerlitz"
+      - slug: "ogrod-lesny"
+      - slug: "park-w-bialaczowie"
+      - slug: "tereny-zieleni-przy-nowej-stacji-paliw-2"
+      - slug: "przestrzenie-publiczne-osiedla-wuwa"
+      - slug: "cmentarz-w-plocku"
+      - slug: "zielony-dach"
+      - slug: "niewymagajacy-ogrod-krzykowie"
+
+  - type: testimonials
+    heading: "Referencje"
+    items:
+      - author: ""
+        organization: "Spartan"
+        year: "2023"
+        content: "Polecamy Panią mgr inż. Dominikę Krop-Andrzejczuk oraz jej Pracownię Architektury Krajobrazu IKROPKA do współpracy już przed etapem planowanej inwestycji jako doradcę, projektanta oraz inspektora nadzoru terenów zieleni, inspektora dendrologicznego z bogatym doświadczeniem."
+      - author: ""
+        organization: "MSM Energetyk"
+        year: "2020"
+        content: "Polecamy współpracę z tą firmą innym zarządcom terenu w zakresie opracowań eksperckich dla drzew, projektów dla terenów zieleni."
+      - author: ""
+        organization: "JSK"
+        year: "2019"
+        content: "Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni."
+      - author: ""
+        organization: "Wejherowski Zarząd Nieruchomości Komunalnych"
+        year: "2019"
+        content: "Polecamy Pracownię Architektury Krajobrazu IKROPKA jako solidnego partnera do współpracy w ramach zadań związanych z dendrologią na terenach wpisanych do rejestru zabytków."
+      - author: ""
+        organization: "WPO ALBA SA"
+        year: "2019"
+        content: "Współpraca przebiegała sprawnie, płynnie, terminowo i bez zarzutu, a przedstawione rozwiązania okazały się być pomysłowe i w pełni spełniły nasze oczekiwania estetyczne i funkcjonalne."
+      - author: ""
+        organization: "Wrocławska Rewitalizacja"
+        year: "2019"
+        content: "Pani Dominika Krop - Andrzejczuk nadzorowała inwestycję na bieżąco i profesjonalnie ze szczególną dbałością o drzewostan parkowy."
+      - author: ""
+        organization: "Archicom"
+        year: "2018"
+        content: "PAK IKROPKA jest fachowym i doświadczonym projektantem zagospodarowania terenów zieleni."
+      - author: ""
+        organization: "Prezydent Miasta Świdnicy"
+        year: "2018"
+        content: "Polecamy PAK IKROPKA jako rzetelnego i fachowego wykonawcę opracowań projektowych i dendrologicznych dla zabytkowych parków."
+      - author: ""
+        organization: "Zarząd Zieleni Miejskiej Wrocław"
+        year: "2018"
+        content: "Wskazane prace projektowe zostały wykonane z należytą starannością, z zachowaniem wyznaczonego terminu umownego."
+      - author: ""
+        organization: "Muzeum Okręgowe Ziemi Kaliskiej"
+        year: "2017"
+        content: "Dokumentacja została sporządzona fachowo, zgodnie z zasadami wiedzy technicznej, obowiązującym prawem i specyfiką w zakresie zabytkowych założeń parkowych, w terminach określonych umową."
+
+  - type: cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pytania lub chcesz rozpocząć współpracę? Napisz do nas – przygotujemy indywidualną ofertę dopasowaną do Twoich potrzeb."
+    button_text: "Napisz do nas"
+    button_url: "/kontakt/"
+
+related_services:
+  - slug: "projekty-zieleni"
+    title: "Projekty zieleni"
+  - slug: "ogrody-prywatne"
+    title: "Ogrody prywatne"
+  - slug: "projekty-parkow-i-terenow-rekreacyjnych"
+    title: "Projekty parków i terenów rekreacyjnych"
+  - slug: "nadzory"
+    title: "Nadzory"
+  - slug: "obiekty-zabytkowe"
+    title: "Obiekty zabytkowe"
+---

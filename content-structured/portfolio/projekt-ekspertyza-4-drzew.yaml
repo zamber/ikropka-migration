@@ -1,0 +1,53 @@
+---
+layout: portfolio_single
+title: "EKSPERTYZA 4 DRZEW"
+description: "Ekspertyza dendrologiczna czterech drzew obejmuje ocenę ich stanu oraz zalecenia dotyczące bezpieczeństwa i dalszego postępowania."
+permalink: /portfolio/ekspertyza-4-drzew/
+
+category: projekty
+featured_image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-slider11.jpg
+
+project_meta:
+  client: "CDE BAGLAJ ISPL Małgorzata Bagłaj"
+  location: "Wrocław, dolnośląskie"
+  year: "2016"
+  scope: "Ekspertyza dendrologiczna pod kątem planowanej inwestycji z planem ochrony, poprzedzona operatem"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-1-1.jpg
+    alt: "Ekspertyza 4 drzew – zdjęcie 1"
+    caption: ""
+  - image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-2.jpg
+    alt: "Ekspertyza 4 drzew – zdjęcie 2"
+    caption: ""
+  - image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-zdj-3.jpg
+    alt: "Ekspertyza 4 drzew – zdjęcie 3"
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      Powstała ekspertyza miała na celu zbadanie stanu sanitarnego czterech drzew przed rozpoczęciem inwestycji budowy szpitala. Dokument określił zalecenia dotyczące ich ochrony w związku z planowaną inwestycją, w tym dotyczące zabezpieczenia na czas trwania budowy i po jej zakończeniu.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      W procesie powstania opracowania przeanalizowano projekt zagospodarowania terenu w otoczeniu drzew. Dzięki temu wydano wytyczne do uszczegółowienia lub zmian projektu i dalszego postępowania z drzewami.
+
+  - type: solution
+    heading: "Rozwiązania"
+    content: |
+      Wśród proponowanych zamiennych rozwiązań budowlanych znalazły się między innymi: wykonanie w otoczeniu drzewa chodnika rampowego o konstrukcji podwieszanej oraz kładzenie sieci podziemnych metodą bezwykopową tzw. przeciskiem.
+
+documents:
+  - title: "Ekspertyza 4 drzew - pobierz PDF"
+    file: /assets/documents/Ekspertyza-4-drzew-pobierzPDF.pdf
+
+tags:
+  - "ekspertyza dendrologiczna"
+  - "ochrona drzew"
+  - "plan ochrony drzew"
+  - "Wrocław"
+  - "inwestycja budowlana"
+---

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "10 LAT IKROPKI"
+description: "01. września to dla nas szczególna data, tym bardziej w tym roku. IKROPKA obchodzi dziesięciolecie działalności."
+date: 2017-09-01
+author: "IKROPKA"
+permalink: /aktualnosci/10-lat-ikropki/
+
+categories:
+  - aktualności
+
+tags:
+  - jubileusz
+  - 10 lat
+  - podziękowania
+
+featured_image: /assets/images/news/10lecie-IKROPKI-zdj-1.jpg
+featured_image_alt: "10 LAT IKROPKI"
+
+sections:
+  - type: intro
+    content: |
+      01. września to dla nas szczególna data, tym bardziej w tym roku. Dziś obchodzimy dziesięciolecie!
+
+  - type: image
+    image: /assets/images/news/10lecie-IKROPKI-zdj-1.jpg
+    alt: "10 LAT IKROPKI"
+    caption: "10 LAT IKROPKI"
+
+  - type: body
+    content: |
+      Dziękujemy naszym Klientom i kooperantom za zaufanie – cieszymy się ze wspólnej pracy i z faktu, że do nas wracacie. Dziękujemy pracownikom za budowanie z nami silnego i kompetentnego zespołu, za codzienne zmagania z rzeczywistością. To dzięki Wam wszystkim IKROPKA od 10 lat stale się rozwija. Po 10 latach funkcjonowania wciąż jesteśmy pełni entuzjazmu i pasji do zawodu i z pewnością wystarczy jej na kolejne … dziesiąt lat! ?
+
+related: []
+---

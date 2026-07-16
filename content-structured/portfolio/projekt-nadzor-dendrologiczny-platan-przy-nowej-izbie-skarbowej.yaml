@@ -1,0 +1,74 @@
+---
+layout: portfolio_single
+title: "Nadzór dendrologiczny budowy nowej Izby Skarbowej – ochrona platanu"
+description: "Nadzór dendrologiczny nad ochroną platana podczas budowy Izby Skarbowej we Wrocławiu – jak uratowano drzewo warte 1 mln zł."
+permalink: /portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/
+
+category: projekty
+featured_image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/slider111.jpg
+
+project_meta:
+  client: "Izba Skarbowa Wrocław"
+  location: "Wrocław, dolnośląskie"
+  year: "2012-2014"
+  scope: "Nadzór dendrologiczny nad inwestycją poprzedzony ekspertyzą z planem ochrony drzewa gatunku platan klonolistny"
+  area: "4339 m²"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-1-1.jpg
+    alt: "Platan klonolistny przy budowie Izby Skarbowej we Wrocławiu"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-2.jpg
+    alt: "Ochrona platana na terenie budowy"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-3.jpg
+    alt: "Platan w otoczeniu nowej inwestycji"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-4.jpg
+    alt: "Zabezpieczenie drzewa podczas prac budowlanych"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-5.jpg
+    alt: "Platan przy nowej siedzibie Izby Skarbowej"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-6.jpg
+    alt: "Strefa przy drzewie po zakończeniu budowy"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-7.jpg
+    alt: "Zagospodarowanie terenu wokół platanu"
+    caption: ""
+  - image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-8.jpg
+    alt: "Drzewo po zakończeniu inwestycji"
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      W ramach inwestycji – budowy nowej siedziby Izby Skarbowej, IKROPKA wykonała ekspertyzę i plan ochrony najcenniejszego drzewa na terenie opracowania – platanu klonolistnego o obwodzie 475 cm. Opłata za wycinkę tego drzewa ze względu na kolizję z inwestycją wynosiła 1 mln zł. Inwestor zrezygnował z zamiaru wycinki i zlecił projekt zamienny uwzględniający zachowanie drzewa.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Przez 2 lata trwania budowy w IKROPCE świadczono nadzór dendrologiczny działań i prac budowlanych na całym terenie budowy ze szczególnym uwzględnieniem platana. Nadzór polegał na zalecaniu konkretnych działań przy drzewie, czuwaniu nad sposobem powstawania garażu podziemnego, budynków i zagospodarowania terenu, tak aby żadne prace budowlane nie wpłynęły negatywnie na stan drzewa i przebiegał przy użyciu wszelkich dostępnych środków i najnowszej wiedzy dotyczącej ochrony drzew na placu budowy.
+
+      Za wymogami Inspektora dendrologicznego drzewo było nawadniane, nawożone, pielęgnowane i poddane ochronie we wszystkich strefach (system korzeniowy, pień i korona). Bryła korzeniowa została zabezpieczona na cały czas trwania budowy przed ewentualnymi uszkodzeniami, a także przed przesuszeniem. Wszelkie prace prowadzone były pod nadzorem.
+
+  - type: results
+    heading: "Rezultaty"
+    content: |
+      Przyjmuje się, że po upływie około 3-5 lat można stwierdzić czy inwestycja miała negatywny wpływ na stan drzew w jej otoczeniu. Dopiero po takim czasie drzewo wykazuje reakcję na stres spowodowany ingerencją budowy taką jak: wysokość zwierciadła wód gruntowych, zagęszczenie gleby lub redukcje korzeni w obrębie systemu korzeniowego, uszkodzenia pnia lub konarów, nieprawidłowo przeprowadzone cięcia gałęzi i konarów i wiele innych.
+
+      Po upływie testowych 3 lat można z całą pewnością stwierdzić, że nadzór nad platanem przy Izbie Skarbowej zakończono sukcesem! Zrealizowano budowę dwóch budynków z garażem podziemnym i zachowano piękne, stare drzewo. Drzewo jest w dobrym stanie, nie wykazuje żadnego pogorszenia stanu sanitarnego. Obecnie użytkownicy terenu – pracownicy Izby Skarbowej korzystają ze strefy przy drzewie, gdzie w jego cieniu usytuowano strefę odpoczynku (ławki, kosze).
+
+documents:
+  - title: "Nadzór dendrologiczny – ochrona platanu – dokumentacja PDF"
+    file: /assets/documents/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/Nadz-r-Platan-pobierzPDF.pdf
+
+tags:
+  - nadzór dendrologiczny
+  - ochrona drzew
+  - platan klonolistny
+  - Wrocław
+  - Izba Skarbowa
+  - architektura krajobrazu
+---

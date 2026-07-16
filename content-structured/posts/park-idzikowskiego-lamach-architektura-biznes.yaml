@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Park Idzikowskiego na łamach Architektura & Biznes"
+description: "Park Idzikowskiego we Wrocławiu na łamach Architektura & Biznes – wywiad z Dominiką Krop-Andrzejczuk o projektowaniu opartym na naturze."
+date: 2023-07-04
+author: "IKROPKA"
+permalink: /aktualnosci/park-idzikowskiego-lamach-architektura-biznes/
+
+categories:
+  - aktualności
+
+tags:
+  - Park Idzikowskiego
+  - Wrocław
+  - Architektura i Biznes
+  - wywiad
+  - NBS
+  - debetonizacja
+  - EcosystemBasedDesign
+  - NaturalBasedSolution
+  - Park Gądowian
+
+featured_image: /assets/images/news/aktualnosci-ikropka-1.jpg
+featured_image_alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+
+sections:
+  - type: intro
+    content: |
+      Wiktor Bochenek z Architektura i Biznes rozmawiał z Dominiką Krop-Andrzejczuk o naszym ostatnim najbardziej wymagającym i innowacyjnym w podejściu projekcie Parku Gądowian, parku przy ul. Idzikowskiego we Wrocławiu.
+
+  - type: body
+    content: |
+      Z wywiadu dowiecie się m.in.:
+
+      - O idei projektowania na bazie natury #NBS, debetonizacji;
+      - O problematyce łączenia trzeciej i czwartej przyrody;
+      - O projekcie efektu samoistnego procesu „pochłaniania betonu przez przyrodę”;
+      - O projektowaniu w terenie zajętym przez przyrodę i przyjętym przez nas systemie mixx jako godzącym interesy przyrody i potrzeb mieszkańców;
+      - O tym jak pogodzić potrzeby natury z potrzebami człowieka? Na ile ten park będzie wykorzystany przez mieszkańców Wrocławia?
+      - Czym są zaprojektowane przez nas „górki ruderalne”;
+      - O kształtowaniu krajobrazu przez projekt wysokości i częstotliwości koszenia.
+      - O walorze edukacyjnym w tym terenie;
+      - Dlaczego powinniśmy większą uwagę skierować na projektowanie #EcosystemBasedDesign czy #NaturalBasedSolution.
+
+  - type: conclusion
+    content: |
+      Zapraszamy gorąco i czekamy na Wasze komentarze z przemyśleniami.
+
+      Dziękujemy za zaproszenie do współpracy i za tę rozmowę Wiktor Bochenek i Architektura i Biznes.
+
+      Projekt powstał jako praca naszego zespołu w składzie: M. Droń, D. Krop-Andrzejczuk, A. Gierko, P. Żywicki, N. Bańdo, J. Trzaska, D. Kociemba, J. Mielcarek we współpracy z Zarząd Zieleni Miejskiej we Wrocławiu #ZZMWro.
+
+      Więcej o projekcie oraz dostęp do przygotowanych przez nas materiałów edukacyjnych: https://ikropka.eu/projekt/dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta/
+
+      Link do wywiadu: https://www.architekturaibiznes.pl/projekt-parku-we-wroclawiu,26983.html
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/1.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/2.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/3.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/4.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/5.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/6.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/7.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/8.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/9.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/10.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/11.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/12.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/13.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+      - image: /assets/images/news/14.jpg
+        alt: "Park Idzikowskiego na łamach Architektura & Biznes"
+
+related:
+  - type: project
+    slug: "dziki-park-przy-idzikowskiego-4-przyroda-centrum-miasta"
+---

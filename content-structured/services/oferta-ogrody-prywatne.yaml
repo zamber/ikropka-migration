@@ -1,0 +1,124 @@
+---
+layout: service
+title: "Ogrody"
+description: "Projektujemy ogrody przydomowe i rezydencjonalne dopasowane do Ciebie i Twojej rodziny. Koncepcje, wizualizacje, projekt wykonawczy. Poznaj naszą ofertę!"
+permalink: /oferta/ogrody-prywatne/
+
+category: services
+service_type: design
+
+hero_image: /assets/images/services/ikona-uslugi-projektowe.png
+hero_alt: "Ikona usługi projektowej"
+
+sections:
+  - type: intro
+    content: |
+      Projekty ogrodów małych i dużych, nowoczesnych i historycznych. Doświadczeni projektanci z pasją! Zapraszamy do [współpracy](https://ikropka.eu/kontakt/)!
+
+  - type: description
+    heading: "Projektowanie ogrodów"
+    content: |
+      **Projektujemy ogrody:** przydomowe, rezydencjonalne, [historyzujące (tereny zabytkowe)](https://ikropka.eu/oferta/obiekty-zabytkowe/).
+
+      Projektując ogrody wychodzimy naprzeciw oczekiwaniom Klienta. Ogród dostosowujemy do potrzeb użytkowników, bryły budynku, urządzenia wnętrz i oczywiście warunków siedliskowych. Najważniejsze jest dla nas aby zaprojektować dla Właścicieli ich wymarzony, unikatowy ogród.
+
+      Zieleń dobieramy do warunków siedliskowych stosując np. rośliny przystosowane do trudnych warunków miejskich. Lobbujemy rozwiązania proprzyrodnicze w każdym ogrodzie. Projektując przykładamy szczególną wagę do walorów plastycznych i przyrodniczych. Dążymy do osiągnięcia maksymalnych efektów atrakcyjności w ciągu całego roku. Roślinność zestawiamy ze sobą barwowo, tworząc kombinacje zapachowe, wysokościowe, używając wieloplanowości w kompozycji i dbając o ich pożyteczność dla środowiska. Bazujemy na szerokiej wiedzy o sztuce ogrodowej, stylach i trendach.
+
+      Chętnie stosujemy kamień w ogrodzie. Współpracujemy z firmą Garden Stones sprowadzającą kamienie do ogrodu z całego świata.
+
+      Twój ogród dopasujemy do Ciebie i Twojej rodziny.
+
+      Zajmujemy się również projektowaniem [ogrodów i parków historycznych](https://ikropka.eu/oferta/obiekty-zabytkowe/) objętych ochroną konserwatorską, wpisanych do rejestru lub ewidencji zabytków. Mamy w tej dziedzinie duże doświadczenie i z pasją podejmujemy kolejne wyzwania. Jesteśmy w stanie przeprowadzić cały proces konsultacji i uzgodnień urzędowych niezbędnych do rozpoczęcia prac budowlanych. Wykonujemy profesjonalne kwerendy historyczne wykonywane przez historyka sztuki, specjalistę od założeń parkowo-ogrodowych. Projekty ogrodów historyzujących na terenach zabytkowych są oparte o wyniki przeprowadzonych analiz historycznych, wnioski konserwatorskie oraz dostosowane do stylu architektonicznego zabudowy i złożeń zieleni w zespołach zabytkowych.
+
+  - type: components
+    heading: "Rodzaje ogrodów"
+    items:
+      - title: "Ogrody przydomowe"
+        description: "Projekty ogrodów przy domach jednorodzinnych, dopasowane do stylu budynku i potrzeb mieszkańców."
+      - title: "Ogrody rezydencjonalne"
+        description: "Kompleksowe projekty dla rezydencji, dużych posesji i willi."
+      - title: "Ogrody historyzujące"
+        description: "Projekty ogrodów i parków na terenach zabytkowych, objętych ochroną konserwatorską."
+
+  - type: features
+    heading: "Zakres projektu wykonawczego"
+    items:
+      - "Projekty rozbiórek"
+      - "Ukształtowanie mas ziemnych"
+      - "Nawierzchnie (ścieżki, podjazdy, parkingi)"
+      - "Tarasy"
+      - "Mała architektura (murki, meble ogrodowe)"
+      - "Oświetlenie"
+      - "Zakładanie trawników"
+      - "Zieleń"
+      - "Nawodnienie"
+      - "Kalendarz pielęgnacji"
+      - "Ogrodzenie"
+
+  - type: process
+    heading: "Etapy współpracy"
+    steps:
+      - number: 1
+        title: "Wizyta w terenie"
+        description: "Prace nad projektem rozpoczynamy od odwiedzin miejsca, w którym powstanie ogród. Po wizji terenowej ustalamy wytyczne."
+      - number: 2
+        title: "Koncepcje projektowe"
+        description: "Tworzymy trzy koncepcje projektowe (na życzenie wraz z wizualizacjami)."
+      - number: 3
+        title: "Projekt wykonawczy"
+        description: "Wybraną koncepcję rozpracowujemy szczegółowo, tworząc projekt wykonawczy z konkretnymi informacjami o pracach, specyfikacją materiałów i ich ilościami."
+      - number: 4
+        title: "Wybór wykonawcy"
+        description: "Szczegółowo sporządzony projekt pozwala na dokładne wycenienie prac i wybór najatrakcyjniejszego Wykonawcy. Polecamy sprawdzonych Wykonawców, z którymi stale współpracujemy."
+
+  - type: projects_carousel
+    heading: "Wybrane projekty"
+    note: "Realizacje związane z projektowaniem ogrodów i terenów zieleni"
+    projects:
+      - slug: "projekt-ogrodu-przydomowego-goerlitz"
+      - slug: "ogrod-lesny"
+      - slug: "niewymagajacy-ogrod-krzykowie"
+      - slug: "park-w-bialaczowie"
+      - slug: "rewaloryzacja-parku-sikorskiego"
+      - slug: "zielony-dach"
+
+  - type: testimonials
+    heading: "Referencje"
+    items:
+      - author: "Spartan"
+        organization: "Spartan"
+        year: "2023"
+        content: "Polecamy Panią mgr inż. Dominikę Krop-Andrzejczuk oraz jej Pracownię Architektury Krajobrazu IKROPKA do współpracy już przed etapem planowanej inwestycji jako doradcę, projektanta oraz inspektora nadzoru terenów zieleni, inspektora dendrologicznego z bogatym doświadczeniem."
+      - author: "MSM Energetyk"
+        organization: "MSM Energetyk"
+        year: "2020"
+        content: "Polecamy współpracę z tą firmą innym zarządcom terenu w zakresie opracowań eksperckich dla drzew, projektów dla terenów zieleni."
+      - author: "JSK Architekci"
+        organization: "JSK Architekci"
+        year: "2019"
+        content: "Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni."
+      - author: "Archicom"
+        organization: "Archicom"
+        year: "2018"
+        content: "PAK IKROPKA jest fachowym i doświadczonym projektantem zagospodarowania terenów zieleni."
+
+  - type: cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pomysł na wymarzony ogród? Napisz do nas lub zadzwoń – pomożemy Ci go zrealizować."
+    button_text: "Napisz do nas"
+    button_url: "/kontakt/"
+
+related_services:
+  - slug: "projekty-zieleni"
+    title: "Projekty zieleni"
+  - slug: "projekty-zagospodarowania-teranu"
+    title: "Projekty zagospodarowania terenu"
+  - slug: "projekty-parkow-i-terenow-rekreacyjnych"
+    title: "Projekty parków i terenów rekreacyjnych"
+  - slug: "obiekty-zabytkowe"
+    title: "Obiekty zabytkowe"
+  - slug: "nadzory"
+    title: "Nadzory"
+  - slug: "doradztwo"
+    title: "Doradztwo"
+---

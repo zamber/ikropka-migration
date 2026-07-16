@@ -1,0 +1,66 @@
+---
+layout: portfolio_single
+title: "Zagospodarowanie starej kopalni odkrywkowej Zakrzówek w Krakowie"
+description: "Projekt zagospodarowania terenów zieleni na Zakrzówku – tworzenie przyjaznej przestrzeni rekreacyjnej dla mieszkańców w zgodzie z przyrodą."
+permalink: /portfolio/nasz-zakrzowek/
+category: projekty
+featured_image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-slider-1.jpg
+
+project_meta:
+  client: "Gmina Miejska Kraków, ZZM, SARP Kraków"
+  location: "Kraków, małopolskie"
+  year: "2016"
+  scope: "Koncepcja konkursowa"
+  area: "64,4 ha"
+  status: "Koncepcja"
+
+gallery:
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj1-1.jpg
+    alt: ""
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj2.jpg
+    alt: ""
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj3.jpg
+    alt: ""
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj4.jpg
+    alt: ""
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj5.jpg
+    alt: ""
+  - image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-zdj6.jpg
+    alt: ""
+
+sections:
+  - type: intro
+    content: |
+      Teren Zakrzówka, dawnej kopalni odkrywkowej to wyjątkowa przestrzeń Krakowa. Od lat pozostawiony sam sobie zbiornik wraz z terenami wokół stał się wybitnie cennym środowiskiem ekologicznym, na wiele sposobów zaadaptowanym przez mieszkańców.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Niezwykłe wody zbiornika pozostają w użytkowaniu Centrum Nurkowego, skaliste ściany zaadoptowało środowisko wspinaczkowe Krakowa, a Zakrzówek w ogóle jest częstym miejscem spotkań, spacerów czy przejażdżek rowerowych.
+
+      W ramach pracy konkursowej wykonano liczne analizy przyrodnicze, krajobrazowe, komunikacyjne, funkcjonalno-użytkowe, widokowe, dzięki którym ogromna przestrzeń Zakrzówka została podzielona na strefy o różnym stopniu ingerencji projektowej. Koncepcja konkursowa zakłada stworzenie pełnowartościowej przestrzeni publicznej z wykorzystaniem proekologicznych i proprzyrodniczych innowacji, która stanie się bezpiecznym miejscem chętnie odwiedzanym nie tylko przez mieszkańców Krakowa, ale również turystów.
+
+      Na zbiorniku wodnym stworzono pływające baseny z drewnianymi kładkami wypoczynkowymi oraz kładkę łączącą dwie strony zbiornika w przesmyku. Dla potrzeb nurków zaprojektowano szatnie – zadaszenia czasowe w nowoczesnej formie przechodzącej miejscami w nawierzchnię i elementy małej architektury. Na wysokich brzegach zaprojektowano zabezpieczone balustradami ścieżki urozmaicone miejscami plenerowych ognisk i punktami widokowymi. Przez cały obszar przeprowadzono kilka pętli spacerowych, utworzono koncepcję identyfikacji wizualnej oraz założono trasę kolejki. W celu zachowania biologicznie cennych siedlisk, w części przyrodniczej ścieżki zaprojektowano  formie wyniesionych drewnianych podestów, zabezpieczających przed zadeptaniem podłoża. Pozostałe ścieżki to nawierzchnie przepuszczalne mineralne.
+
+      We współpracy z architektami powstały projekty kilku budynków m.in. restauracja nad wodą, Centrum Edukacji oraz sanitariaty. W projektowanych budynkach wykorzystano nowoczesne technologie ekologiczne obniżające koszty użytkowania, takie jak panele solarne, fotowoltaiczne, wykorzystanie wody deszczowej i inne. Przy Centrum Edukacji zaprojektowano sensoryczny ogród zmysłów i ogród edukacji ekologicznej oraz plac zabaw dla dzieci. Zaprojektowano również restaurację nad wodą o przeszklonej elewacji z pięknym widokiem na zbiornik.
+
+      W części użytkowanej przez wspinaczy zminimalizowano działania projektowe dla zachowania naturalistycznego krajobrazu otoczenia. Wskazano lokalizację siłowni zewnętrznej, wytyczono pętlę kolejki oraz zaprojektowano nowe nadwodne ściany wspinaczkowe na północnej ścianie zbiornika.
+
+      W części zlokalizowanej niedaleko osiedla domów jednorodzinnych i wielorodzinnych wyznaczono nowe funkcje sportowe: park rowerowy, skatepark, boisko do gry w koszykówkę i siatkówkę oraz marinę wraz z pływającą restauracją na planowanym kanale ulgi. Całość terenu wyposażono w parkingi i pawilony sanitarne.
+
+documents:
+  - title: "Dokumentacja projektu Zakrzówek"
+    file: /assets/documents/Nasz-Zakrz-wek-pobierzPDF.pdf
+
+tags:
+  - Zakrzówek
+  - Kraków
+  - kopalnia odkrywkowa
+  - park
+  - rekreacja
+  - koncepcja konkursowa
+  - tereny zieleni
+  - architektura krajobrazu
+  - ekologia
+  - przestrzeń publiczna
+---

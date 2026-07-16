@@ -1,0 +1,54 @@
+---
+layout: portfolio_single
+title: "EKSPERTYZA DENDROLOGICZNA TOPOLI BIAŁEJ"
+description: "Ekspertyza dendrologiczna topoli białej obejmuje ocenę stanu drzewa oraz zalecenia dotyczące bezpieczeństwa i dalszej pielęgnacji."
+permalink: /portfolio/ekspertyza-dendrologiczna-topoli-bialej/
+
+category: projekty
+featured_image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/silder-ekspertyza-topola_ikropka-1.jpg
+
+project_meta:
+  client: "Ultranet Sp. z o.o."
+  location: "Wrocław, dolnośląskie"
+  year: "2020"
+  scope: "Ekspertyza dendrologiczna przy użyciu tomografu sonicznego"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj2_ekspertyza-topola_ikropka-1.jpg
+    alt: "Ekspertyza dendrologiczna topoli białej"
+    caption: ""
+  - image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj1_ekspertyza-topola_ikropka.jpg
+    alt: "Ekspertyza dendrologiczna topoli białej"
+    caption: ""
+  - image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj4_ekspertyza-topola_ikropka.jpg
+    alt: "Ekspertyza dendrologiczna topoli białej"
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      Ekspertyza dendrologiczna przy użyciu tomografu sonicznego.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Ekspertyza została przeprowadzona celem ustalenia stanu sanitarnego drzewa, wykluczenia lub potwierdzenia stanu rozkładu pnia. W tym celu do ekspertyzy użyto tomografu sonicznego, który pozwala określić poziom i zasięg rozkładu drewna. Ponadto wykonano pomiary podstawowych parametrów drzewa zgodnie ze standardami oraz ocenę wizualną stanu zdrowotnego, z uwzględnieniem cech drzewa mogących wpływać na statykę: rozmiary, położenie, cechy budowy lub symptomy chorób.
+
+      Przedmiotowe drzewo to topola biała (*Populus alba*) o znacznym obwodzie 319 cm.
+
+  - type: results
+    heading: "Wyniki"
+    content: |
+      Ekspertyza dendrologiczna drzewa pozwoliła określić jego faktyczny stan zdrowotny. Dzięki wynikom badania Zamawiający otrzymał wskazówki do dalszego postępowania z drzewem.
+
+documents:
+
+tags:
+  - ekspertyza dendrologiczna
+  - tomograf soniczny
+  - topola biała
+  - Populus alba
+  - Wrocław
+  - dendrologia
+---

@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Praca w PAK IKROPKA"
+description: "Dołącz do zespołu PAK IKROPKA! Poszukujemy architekta krajobrazu z doświadczeniem w projektowaniu i opracowaniach dendrologicznych do współpracy we Wrocławiu."
+date: 2023-06-30
+author: "IKROPKA"
+permalink: /aktualnosci/praca-pak-ikropka/
+
+categories:
+  - aktualności
+  - praca
+
+tags:
+  - praca
+  - rekrutacja
+  - architekt krajobrazu
+  - Wrocław
+  - oferta pracy
+  - zespół
+
+featured_image: /assets/images/news/praca_IKROPKA_-1.jpg
+featured_image_alt: "Praca w PAK IKROPKA"
+
+sections:
+  - type: intro
+    content: |
+      Poszukujemy do współpracy architekta krajobrazu, który ma zielone pojęcie ;)
+
+      Masz już doświadczenie w pracy projektowej oraz opracowaniach dendrologicznych? Dołącz do naszego zespołu PAK IKROPKA z siedzibą we Wrocławiu!
+
+  - type: body
+    content: |
+      **Oferujemy:**
+
+      - pracę przy ciekawych zleceniach w terenach publicznych przy dokumentacjach projektowych dotyczących zagospodarowania terenów zieleni w multidyscyplinarnym, doświadczonym zespole,
+      - poszerzenie obecnego doświadczenia o nowe wyzwania, stały rozwój,
+      - szkolenia wewnętrzne,
+      - umowę o współpracy w oparciu o samozatrudnienie.
+
+      **Oczekujemy:**
+
+      - doświadczenia projektowego min. 2 lata w terenach publicznych przy realizacji dokumentacji projektowych związanych z zagospodarowaniem terenu, małą architekturą, zielenią,
+      - doświadczenia w opracowaniach dendrologicznych – inwentaryzacjach, operatach, planach ochrony, opiniach, ekspertyzach itp.,
+      - dobrej znajomości roślin, siedlisk, rozpoznawania gatunków,
+      - płynnej pracy w AUTO CAD 2D, podstawowej obsługi QGIS (w zakresie niezbędnym do wprowadzania danych do SIP), Sketchup + PS (Blender będzie dodatkowym atutem),
+      - kwalifikacji CID lub INTZ będą mile widziane,
+      - surfowania w mediach społecznościowych niczym 🐠 (FB, Instagram in.), umiejętności pisania tekstów,
+      - wysokiej kultury osobistej,
+      - rzetelności i skrupulatności,
+      - fascynacji zawodem i chęci do samodoskonalenia, doszkalania się,
+      - dobrej komunikacji z innymi.
+
+  - type: image
+    image: /assets/images/news/IKROPKA_Oferta-pracy.jpg
+    alt: "Praca w PAK IKROPKA"
+    caption: "Oferta pracy w PAK IKROPKA"
+
+  - type: conclusion
+    content: |
+      Widzisz się w naszym zespole?
+
+      Wyślij CV + PORTFOLIO na naszego maila [biuro@ikropka.eu](mailto:biuro@ikropka.eu) do 5.07.2023
+---

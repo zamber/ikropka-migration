@@ -1,0 +1,44 @@
+---
+layout: post
+title: "NOWE ZLECENIE PROJEKTOWE"
+description: "Rozpoczynamy nowe zlecenie projektowe z zakresu architektury krajobrazu. Sprawdź, nad jaką inwestycją pracuje obecnie zespół IKROPKA."
+date: 2018-07-11
+author: "IKROPKA"
+permalink: /aktualnosci/nowe-zlecenie-projektowe/
+
+categories:
+  - aktualności
+
+tags:
+  - "Wrocław"
+  - "łąka kwietna"
+  - "pszczoły"
+  - "Wrocławski Budżet Obywatelski"
+  - "zapylacze"
+
+featured_image: /assets/images/news/aktualnosci-zdj-glowne.jpg
+featured_image_alt: "NOWE ZLECENIE PROJEKTOWE"
+
+sections:
+  - type: intro
+    content: |
+      Projekt zagospodarowania terenu skweru miejskiego z łąką kwietną we Wrocławiu.
+
+      Z radością informujemy, że podpisaliśmy nową umowę na wykonanie projektu zagospodarowania terenu skweru miejskiego dedykowanego tematyce pszczół w mieście! Projekt pn. "PSZCZOŁY W MIEŚCIE – ŁĄKA MIODNA I HOTELE DLA ZAPYLACZY POMIĘDZY ULICAMI HERMANOWSKĄ I CHOCIEBUSKĄ WE WROCŁAWIU" jest konsekwencją wygranego pomysłu we Wrocławskim Budżecie Obywatelskim.
+
+  - type: body
+    content: |
+      Planowane jest stworzenie tematycznej łąki kwietnej, która będzie miejscem pożytku dla owadów, a dzięki montażowi wygodnych siedzisk, stanie się również idealnym miejscem do wypoczynku i relaksu dla mieszkańców. Ponadto projekt zakłada montaż około 20 domków dla zapylaczy. W naszym zakresie prac projektowych jest pełna, wielobranżowa dokumentacja projektowa budowlano – wykonawcza dla wszystkich elementów zagospodarowania terenu.
+
+      Dzielimy się początkami prac koncepcyjnych, za nami już inwentaryzacja dendrologiczna, analizy studialno-terenowe, operat dendrologiczny. Wkrótce pokażemy więcej!
+
+  - type: image
+    image: /assets/images/news/aktualnosci-zdj-2.jpg
+    alt: "NOWE ZLECENIE PROJEKTOWE"
+    caption: ""
+
+  - type: image
+    image: /assets/images/news/aktualnosci-zdj-3.jpg
+    alt: "NOWE ZLECENIE PROJEKTOWE"
+    caption: ""
+---

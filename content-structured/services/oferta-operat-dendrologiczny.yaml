@@ -1,0 +1,105 @@
+---
+layout: service
+title: "Operat dendrologiczny – ekspertyza i nadzór"
+description: "Ekspertyza oraz nadzór są niezwykle istotne przy różnych projektach. Operat dendrologiczny to kolejna usługa z naszej oferty."
+permalink: /oferta/operat-dendrologiczny/
+
+category: services
+service_type: dendrology
+
+hero_image: /assets/images/services/inwentaryzacja-zieleni.jpg
+hero_alt: "Inwentaryzacja zieleni"
+
+sections:
+  - type: intro
+    content: |
+      Operat dendrologiczny wykonujemy w celu zarządzania istniejącą zielenią lub na potrzeby prowadzenia inwestycji wymagającej wykonania prac pielęgnacyjnych, wycinek lub przesadzeń. Zapraszamy do współpracy!
+
+  - type: description
+    heading: "Czym jest operat dendrologiczny?"
+    content: |
+      Operat dendrologiczny czyli ekspertyza dendrologiczna z projektem gospodarki drzewostanem, wykonywana jest na podstawie aktualnej, szczegółowej inwentaryzacji dendrologicznej. Operat sporządzany jest w celu wydania zaleceń do dalszego postępowania z drzewami i krzewami znajdującymi się na terenie opracowania. W operacie każde z drzew i krzewów zostaje przyporządkowane do odpowiedniej kategorii: do zachowania, do pielęgnacji, do przesadzenia, do usunięcia, do ekspertyzy i inne. Operat wykonujemy na potrzeby realizacji nowej inwestycji wymagającej prowadzenia pielęgnacji na drzewostanie, wycinek lub przesadzeń. W przypadku planowania inwestycji w operacie wytypowane są drzewa i krzewy kolidujące z projektem i robotami budowlanymi oraz znajdują się wytyczne do sposobu prowadzenia prac w obrębie korzeni, pnia, korony (np. z użyciem technik linowych w koronie).
+
+      Wykonujemy także operaty dendrologiczne i inwentaryzacje zgodnie z Zarządzeniem Prezydenta Wrocławia w sprawie ochrony drzew i rozwoju terenów zieleni Wrocławia z dnia 11 sierpnia 2016 r. Jesteśmy w stanie przygotować pełną dokumentację operatu dendrologicznego z analizą uniknięcia kolizji planowanej inwestycji z istniejącym drzewostanem, wraz z przygotowaniem w programie QGIS Desktop plików Shapefile z lokalizacją drzew i krzewów do SIP oraz poprawnie wprowadzonymi danymi opisowymi w wymaganej strukturze xls.
+
+  - type: components
+    heading: "Operat dendrologiczny składa się z dwóch części"
+    items:
+      - title: "Część opisowa"
+        description: |
+          Zawiera inwentaryzację dendrologiczną (nazwę gatunkową w języku polskim i łacińskim, szczegółowe pomiary dendrometryczne, stan sanitarny oraz indywidualny opis każdego z drzew i krzewów) oraz projekt gospodarki drzewostanem z przyporządkowaną do każdej pozycji kategorią (do zachowania, do pielęgnacji, do przesadzenia, do usunięcia, zalecana ekspertyza dendrologiczna i inne) i szczegółowymi zaleceniami pielęgnacyjnymi.
+      - title: "Część graficzna"
+        description: |
+          Wykonana w oprogramowaniu AutoCAD lub GIS, przedstawia podczytany projekt zagospodarowania terenu, lokalizację drzew i krzewów na mapie wraz z oznaczeniem numerycznym odpowiadającym zestawieniu tabelarycznemu w części opisowej oraz oznaczenie kategorii dla każdego z drzew/krzewów według projektu gospodarki drzewostanem.
+
+  - type: features
+    heading: "Dodatkowo operat dendrologiczny może zawierać"
+    items:
+      - "Wyznaczone strefy ochronne drzew SOD (na czas prac budowlanych)"
+      - "Dokumentację fotograficzną"
+      - "Określenie wieku drzewostanu (na podstawie metody prof. L. Majdeckiego)"
+      - "Analizy dendrochronologiczne (wieku) w formie graficznej"
+      - "Tabelę z preliminarzem opłat za ewentualne wycięcie drzew i krzewów"
+      - "Listę drzew do usunięcia bez naliczania opłat oraz kwalifikujących się do przesadzenia"
+
+  - type: content
+    heading: "Dlaczego my?"
+    content: |
+      Jesteśmy wykwalifikowanym Zespołem posiadającym potrzebną wiedzę umożliwiającą nadzór dendrologiczny, potwierdzoną licznymi certyfikatami. Zamawiający zyskuje profesjonalne i rzetelne opracowanie, a w nim wiedzę o koniecznych do przeprowadzenia zabiegach pielęgnacyjnych czy zabezpieczeniach terenu wokół drzew. Na podstawie naszej dokumentacji Zamawiający może skutecznie przeprowadzać nadzór nad drzewostanem, eliminować drzewa zagrażające bezpieczeństwu ludzi i mienia oraz optymalizować koszty ewentualnej wycinki.
+
+  - type: content
+    heading: "Operaty dla terenów zabytkowych"
+    content: |
+      W przypadku wykonywania projektu gospodarki drzewostanem do operatu dendrologicznego dla drzew rosnących na terenach zabytkowych zgodnie z art. 37a Ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz.U.2022.0.840) prace i dokumentacje może przeprowadzić osoba, która „ukończyła studia drugiego stopnia lub jednolite studia magisterskie, w zakresie konserwacji i restauracji dzieł sztuki lub konserwacji zabytków oraz która po rozpoczęciu studiów drugiego stopnia lub po zaliczeniu szóstego semestru jednolitych studiów magisterskich przez co najmniej 9 miesięcy brała udział w pracach konserwatorskich, pracach restauratorskich lub badaniach konserwatorskich, prowadzonych przy zabytkach wpisanych do rejestru, inwentarza muzeum będącego instytucją kultury lub zaliczanych do jednej z kategorii, o których mowa w art. 14a Lista Skarbów Dziedzictwa ust. 2.” Wymogi te spełnia m.in. Pracownia Architektury Krajobrazu IKROPKA Dominika Krop – Andrzejczuk, działająca na terenie całej Polski.
+
+  - type: projects_carousel
+    heading: "usługi dendrologiczne - wybrane projekty"
+    note: "Wybrane realizacje związane z usługami dendrologicznymi"
+    projects:
+      - slug: "ekspertyza-dla-debu-wlosta"
+      - slug: "na-prudnickim-cmentarzu"
+      - slug: "drzewo-placu-budowy"
+      - slug: "nasadzenia-kompensacyjne"
+
+  - type: testimonials
+    heading: "REFERENCJE"
+    items:
+      - author: ""
+        organization: "Spartan"
+        year: "2023"
+        content: |
+          „Polecamy Panią mgr inż. Dominikę Krop-Andrzejczuk oraz jej Pracownię Architektury Krajobrazu IKROPKA do współpracy już przed etapem planowanej inwestycji jako doradcę, projektanta oraz inspektora nadzoru terenów zieleni, inspektora dendrologicznego z bogatym doświadczeniem.”
+      - author: ""
+        organization: "MSM Energetyk"
+        year: "2020"
+        content: |
+          „Polecamy współpracę z tą firmą innym zarządcom terenu w zakresie opracowań eksperckich dla drzew, projektów dla terenów zieleni.”
+      - author: ""
+        organization: "JSK"
+        year: "2019"
+        content: |
+          „Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni.”
+      - author: ""
+        organization: "Wejherowski Zarząd Nieruchomości Komunalnych"
+        year: "2019"
+        content: |
+          „Polecamy Pracownię Architektury Krajobrazu IKROPKA jako solidnego partnera do współpracy w ramach zadań związanych z dendrologią na terenach wpisanych do rejestru zabytków.”
+
+  - type: cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pytania dotyczące operatu dendrologicznego? Napisz do nas lub zadzwoń."
+    button_text: "Wyślij wiadomość"
+    button_url: "/kontakt/"
+
+related_services:
+  - slug: "inwentaryzacje-dendrologiczne"
+    title: "Inwentaryzacje zieleni"
+  - slug: "dendrolog-opinie-ekspertyzy"
+    title: "Opinie i Ekspertyzy"
+  - slug: "przeglady-drzew-katem-bezpieczenstwa"
+    title: "Przeglądy drzew pod kątem bezpieczeństwa"
+  - slug: "pogotowie-dendrologiczne"
+    title: "Pogotowie dendrologiczne"
+  - slug: "projekt-ochrony-drzewa"
+    title: "Projekt ochrony drzewa"
+---

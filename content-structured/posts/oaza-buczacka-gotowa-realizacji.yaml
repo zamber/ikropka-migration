@@ -1,0 +1,45 @@
+---
+layout: post
+title: "OAZA BUCZACKA GOTOWA DO REALIZACJI"
+description: "Oaza Buczacka we Wrocławiu – projekt wykonawczy skweru z altaną, ogrodem deszczowym i miejskimi leżakami na Muchoborze Wielkim."
+date: 2018-04-30
+author: "IKROPKA"
+permalink: /aktualnosci/oaza-buczacka-gotowa-realizacji/
+
+categories:
+  - aktualności
+
+tags:
+  - "Oaza Buczacka"
+  - "Wrocław"
+  - "Muchobór Wielki"
+  - "skwer"
+  - "ogród deszczowy"
+  - "projekt wykonawczy"
+
+featured_image: /assets/images/news/proj-Oaza-Buczacka-zdj1.jpg
+featured_image_alt: "OAZA BUCZACKA GOTOWA DO REALIZACJI"
+
+sections:
+  - type: intro
+    content: |
+      Ostatnio mieliśmy przyjemność wypuścić spod naszych piór projekt wykonawczy zagospodarowania terenu i zieleni Oazy Buczackiej na wrocławskim Muchoborze Wielkim. Zakres naszych prac objął wszystkie etapy od inwentaryzacji, przez koncepcje, projekt budowlany i uzgodnienia administracyjne, aż po projekt wykonawczy.
+
+  - type: body
+    content: |
+      Skwer będący do tej pory nieużytkiem zostanie przekształcony w teren wypoczynkowy, zielone miejsce spotkań. Na terenie opracowania zaplanowano altanę, różnorodne ławki m.in. w formie leżaków miejskich, kwitnące nasadzenia, jak również drzewa o należytych parametrach obwodowych, wysokościowych itd.. Ponadto zaprojektowano ciekawe ukształtowanie terenu – wyniesienia w formie pagórków oraz obniżenia – ogród deszczowy, który zapewni powolne przesiąkanie wody do gruntu, zmniejszając ilość wody przedostającej się do obciążonej sieci wodociągowej miasta.
+
+      Po więcej obrazków i szczegółów zapraszamy do portfolio: [kliknij tutaj](/projekt/projekt-skweru-ogrodem-deszczowym/).
+
+  - type: image
+    image: /assets/images/news/proj-Oaza-Buczacka-zdj2.jpg
+    alt: "OAZA BUCZACKA GOTOWA DO REALIZACJI"
+
+  - type: image
+    image: /assets/images/news/proj-Oaza-Buczacka-zdj3.jpg
+    alt: "OAZA BUCZACKA GOTOWA DO REALIZACJI"
+
+related:
+  - type: project
+    slug: "projekt-skweru-ogrodem-deszczowym"
+---

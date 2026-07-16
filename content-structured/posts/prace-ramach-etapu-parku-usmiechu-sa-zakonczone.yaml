@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+description: "Park Uśmiechu we Wrocławiu – zakończony I etap rewitalizacji: naturalny plac zabaw, siłownia zewnętrzna i polana dla psów wg projektu IKROPKI."
+date: 2020-11-20
+author: "IKROPKA"
+permalink: /aktualnosci/prace-ramach-etapu-parku-usmiechu-sa-zakonczone/
+
+categories:
+  - aktualności
+
+tags:
+  - Park Uśmiechu
+  - Wrocław
+  - rewitalizacja
+  - plac zabaw
+  - siłownia zewnętrzna
+
+featured_image: /assets/images/news/ikropka-park-uśmiechu4-min.jpg
+featured_image_alt: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+
+sections:
+  - type: intro
+    content: |
+      Prace związane z rewitalizacją Parku Uśmiechu przy ulicy Wolbromskiej we Wrocławiu wg. naszego projektu - etap I są zakończone i odebrane.
+
+  - type: body
+    content: |
+      Dla PAK IKROPKA jest to wyjątkowa inwestycja, bo poprzedzona wieloletnią pracą – najpierw społeczną, podczas której przeprowadziliśmy konsultacje społeczne z mieszkańcami, by później na podstawie zebranych danych – potrzeb mieszkańców – utworzyć koncepcję na potrzeby Wrocławskiego Budżetu Obywatelskiego. Na zlecenie Zarządu Zieleni Miejskiej we Wrocławiu wykonaliśmy pełną dokumentację projektową dot. zagospodarowania tego terenu.
+
+      Powstały nowy naturalny plac zabaw (dla dzieci starszych typu „małpi gaj" i młodszych – do zabaw w piasku), siłownia zewnętrzna, polana rekreacyjna z dostępem dla psów, skorygowany układ ścieżek z innowacyjnymi obrzeżami drewnianymi, chroniącymi system korzeniowy drzew, wielkoobszarowe rabaty krzewiasto – bylinowe, latarnie oraz szafka do organizowania imprez plenerowych, a także elementy małej architektury i wyposażenia terenu (ławki, stojaki na rowery, tablice edukacyjno – informacyjne, kosze na odpadki, głazy ozdobne).
+
+      Cieszymy się z kolejnej zrealizowanej inwestycji wg naszego projektu i jednocześnie dziękujemy Zarządowi Zieleni Miejskiej we Wrocławiu za zaufanie i współpracę.
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/ikropka-park-uśmiechu3-min.jpg
+        alt: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+      - image: /assets/images/news/ikropka-park-uśmiechu1-min.jpg
+        alt: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+      - image: /assets/images/news/ikropka-park-uśmiechu2-min.jpg
+        alt: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+      - image: /assets/images/news/ikropka-park-uśmiechu5-min.jpg
+        alt: "Prace w ramach I etapu w Parku Uśmiechu są zakończone"
+
+related:
+  - type: project
+    slug: "park-usmiechu-wroclaw"
+---

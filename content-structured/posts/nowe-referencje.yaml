@@ -1,0 +1,41 @@
+---
+layout: post
+title: "NOWE REFERENCJE"
+description: "Nowe referencje potwierdzają doświadczenie IKROPKA w projektowaniu zieleni, dendrologii i nadzorach inwestycyjnych. Poznaj opinie klientów."
+date: 2018-07-23
+author: "IKROPKA"
+permalink: /aktualnosci/nowe-referencje/
+
+categories:
+  - aktualności
+  - referencje
+
+tags:
+  - referencje
+  - Park Młodzieżowy
+  - Świdnica
+  - Wrocław
+  - dendrologia
+  - projektowanie zieleni
+
+featured_image: /assets/images/news/referencje-zdj1.jpg
+featured_image_alt: "NOWE REFERENCJE"
+
+sections:
+  - type: intro
+    content: |
+      Zadowoleni Klienci są naszą wyjątkową wizytówką!
+
+  - type: body
+    content: |
+      Miło nam poinformować, że otrzymaliśmy kolejne referencje za wykonane ostatnio zlecenia projektowe z Dolnego Śląska. Za prace dendrologiczno - projektowe w zabytkowym Parku Młodzieżowym o pow. 13 ha oraz za prace projektowe przy realizacji projektu WBO - "Oazy Buczackiej" we Wrocławiu.
+
+  - type: image
+    image: /assets/images/news/referencje-zdj1.jpg
+    alt: "NOWE REFERENCJE"
+    caption: "Kliknij, aby powiększyć"
+
+  - type: conclusion
+    content: |
+      Dziękujemy Prezydent Miasta Świdnicy i Zarządowi Zieleni Miejskiej we Wrocławiu za zaufanie i dowód wdzięczności. Cieszymy się, że możemy wspólnie zmieniać miejskie krajobrazy, w tym zabytkowe przestrzenie. Te referencje to dla nas najlepsza wizytówka i motywacja do dalszej pracy!
+---

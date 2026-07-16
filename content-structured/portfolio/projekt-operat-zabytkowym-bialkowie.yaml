@@ -1,0 +1,61 @@
+---
+layout: portfolio_single
+title: "Operat w zabytkowym Białkowie"
+description: "Operat dendrologiczny dla zabytkowego Białkowa – inwentaryzacja i ocena drzewostanu historycznego założenia parkowego z zaleceniami pielęgnacyjnymi."
+permalink: /portfolio/operat-zabytkowym-bialkowie/
+
+category: zabytkowe
+featured_image: "/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-slider.jpg"
+
+project_meta:
+  client: "Uniwersytet Wrocławski"
+  location: "Białków, dolnośląskie"
+  year: "2017"
+  scope: "Operat dendrologiczny (inwentaryzacja dendrologiczna wraz z projektem gospodarki drzewostanem)"
+  area: "5,36 ha"
+  status: "Zrealizowany"
+
+gallery:
+  - image: "/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-1.jpg"
+    alt: "Widok zabytkowego parku w Białkowie"
+    caption: ""
+  - image: "/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-2.jpg"
+    alt: "Drzewostan zabytkowego założenia parkowego"
+    caption: ""
+  - image: "/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-4.jpg"
+    alt: "Inwentaryzacja dendrologiczna w Białkowie"
+    caption: ""
+  - image: "/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-5.jpg"
+    alt: "Zabytkowe drzewa w parku pałacowym"
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      Przedmiotem opracowania była inwentaryzacja drzewostanu wraz z projektem gospodarki drzewostanem pod kątem sanitarnym. Teren objęty opracowaniem to zabytkowy park przypałacowy wpisany do rejestru zabytków oraz teren działki na której znajduje się współczesne obserwatorium astronomiczne.
+      
+      Park jest obecnie zaniedbany, silnie zagęszczony samosiewami, nie zachował się również historyczny układ komunikacyjny ścieżek. Wymaga uporządkowania i przeprowadzenia prac pielęgnacyjnych na części drzewostanu.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Najstarsze drzewa na terenie opracowania to dęby osiągające obwody około 380 cm oraz zabytkowa lipa o obwodzie powyżej 370 cm. Opracowanie obejmowało zinwentaryzowanie drzewostanu, ocenę jego stanu sanitarnego i określenie niezbędnych do wykonania zabiegów pielęgnacyjnych oraz wycinek sanitarnych (ze względu na zły stan sanitarny).
+      
+      Spośród 503 zinwentaryzowanych sztuk drzewostanu do pielęgnacji przeznaczono 59 drzew i krzewów. Zalecane zabiegi pielęgnacyjne to m.in. usunięcie posuszu, kontrola i założenie wiązań elastycznych typu cobra, formowanie korony.
+      
+      W części opisowej opracowania dokonano podziału na drzewa znajdujące się w zasięgu zabytku oraz poza nim. Opracowanie wykonano zgodnie z obowiązującymi przepisami.
+
+documents:
+  - title: "Operat dendrologiczny - Białków"
+    file: "/assets/documents/Operat-Białkow-pobierzPDF.pdf"
+
+tags:
+  - dendrologia
+  - inwentaryzacja dendrologiczna
+  - operat dendrologiczny
+  - zabytkowy park
+  - Białków
+  - pielęgnacja drzew
+  - drzewostan
+  - obiekty zabytkowe
+---

@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Plebiscyt Polski Krajobraz 2020"
+description: "Park Uśmiechu w Wrocławiu został uznany najlepszą przestrzenią publiczną w Polsce zrealizowaną w 2020 roku w plebiscycie Polski Krajobraz 2020 XXL."
+date: 2021-04-25
+author: "IKROPKA"
+permalink: /aktualnosci/plebiscyt-polski-krajobraz-2020/
+
+categories:
+  - aktualności
+
+tags:
+  - Park Uśmiechu
+  - Polski Krajobraz 2020
+  - przestrzeń publiczna
+  - Wrocław
+  - nagroda
+
+featured_image: /assets/images/news/ikropka-parkusmiechu-plebiscyt.jpg
+featured_image_alt: "Plebiscyt Polski Krajobraz 2020"
+
+sections:
+  - type: intro
+    content: |
+      Park Uśmiechu zyskał miano najlepszej przestrzeni publicznej w Polsce zrealizowanej w 2020 r.
+
+  - type: body
+    content: |
+      Nagrodę tę zdobył w plebiscycie Polski Krajobraz 2020 XXL - w kategorii przestrzeń publiczna. Głosowanie najcenniejsze dla nas, bo publiczności, czyli jest to opinia samych użytkowników. Inwestycja Park Uśmiechu - skwer przy ul. Wolbromskiej we Wrocławiu to efekt współpracy zespołu PAK IKROPKA z Mieszkańcami, Inwestorem - Zarząd Zieleni Miejskiej oraz Wykonawcą Tribud. Dziękujemy za owocną współpracę.
+
+  - type: conclusion
+    content: |
+      Dziękujemy redakcji Sztuka-Krajobrazu.pl za nominację, a Internautom za każdy oddany głos.
+
+      Gratulujemy wszystkim laureatom!
+
+      Więcej na temat inwestycji na naszej stronie w zakładce portfolio.
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/ikropka-park-usmiechu4-min.jpg
+        alt: "Plebiscyt Polski Krajobraz 2020"
+      - image: /assets/images/news/ikropka-park-usmiechu1-min.jpg
+        alt: "Plebiscyt Polski Krajobraz 2020"
+      - image: /assets/images/news/ikropka-park-usmiechu3-min.jpg
+        alt: "Plebiscyt Polski Krajobraz 2020"
+      - image: /assets/images/news/ikropka-park-usmiechu9-min.jpg
+        alt: "Plebiscyt Polski Krajobraz 2020"
+
+related:
+  - type: project
+    slug: "projekt-zagospodarowania-parku-usmiechu"
+---

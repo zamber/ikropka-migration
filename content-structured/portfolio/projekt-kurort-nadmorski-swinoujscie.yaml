@@ -1,0 +1,92 @@
+---
+layout: portfolio_single
+title: "KURORT NADMORSKI ŚWINOUJŚCIE"
+description: "Koncepcja urbanistyczno-architektoniczna zagospodarowania terenów publicznych w Dzielnicy Nadmorskiej Świnoujścia, łącząca walory naturalnego krajobrazu z funkcjonalną przestrzenią publiczną."
+permalink: /portfolio/kurort-nadmorski-swinoujscie/
+
+category: projekty
+featured_image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/main.jpg
+
+project_meta:
+  client: "Nie podano"
+  location: "Świnoujście, zachodniopomorskie"
+  year: "2016"
+  scope: "Koncepcja konkursowa"
+  status: "Koncepcja"
+
+gallery:
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj1.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj2.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.1.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.2.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj4.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj5.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj6.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj7.jpg
+    alt: ""
+    caption: ""
+  - image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj8.jpg
+    alt: ""
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      Koncepcja zgłoszona do konkursu na koncepcję urbanistyczno-architektoniczną zagospodarowania terenów publicznych w Dzielnicy Nadmorskiej „Kurort nadmorski Świnoujście – nowa wizja przestrzeni publicznej”.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      W projekcie wykreowano nową przestrzeń publiczną bazując na charakterze naturalnego krajobrazu zachodniopomorskiego wybrzeża Bałtyku. We wnętrze dzielnicy wprowadzono elementy zieleni wydmowej oraz małą architekturę i detal architektoniczny nawiązujący do tradycji marynistycznych.
+
+      Zaprojektowano ciągi piesze i pieszo-rowerowe dające możliwość sposobność kontaktu z naturalnym krajobrazem, z bałtycką fauną i florą. Główny pasaż nadmorski nasycono funkcjami usługowymi, kulturotwórczymi i rekreacyjnymi, tworząc lokalne centra o zróżnicowanych charakterach. Plac przed muszlą uzupełniono o atrakcję w postaci multimedialnych organów wodnych, ławek, wielogatunkowej roślinności.
+
+      Promenadę zaprojektowano w nawiązaniu z przyległym lasem wydmowym – szpaler wzdłuż promenady jest szpalerem mieszanym, ich rytm jest zmienny jak w naturalnym środowisku. Las wydmowy wchodzi w obręb utwardzonego placu „Forum kurortu”, z zasadą rozrzedzenia, uporządkowania i wyselekcjonowania gatunków. Koncepcja przewiduje zachowanie zieleni zabytkowej, uporządkowanie zieleni pod względem sanitarnym i kompozycyjnym – zapewnienie bezpieczeństwa użytkownikom i odsłonięcie głównych osi widokowych nadmorskiego krajobrazu, ukazując tym samym jego największe atuty – morze i nadmorski, naturalny krajobraz. Projektowana roślinność dostosowuje się do istniejącego charakteru nadmorskiej roślinności.
+
+      Zieleń zaplanowano z użyciem nowych technologii dla drzew (innowacje dla środowiska) tj. ziemia strukturalna, czy nadwieszane chodniki rampowe (w celu uniknięcia zniszczeń systemów korzeniowych).
+
+  - type: content
+    heading: "Zespół projektowy"
+    content: |
+      Współpraca: PORT Józef Franczok, Marcin Kolanus
+      Projektanci: A. Gierko, D. Krop-Andrzejczuk, I. Szkatulnik
+      Wizualizacje: Dawid Rószczka
+
+  - type: results
+    heading: "Wynik"
+    content: |
+      Koncepcja uzyskała wyróżnienie honorowe w konkursie.
+
+documents:
+  - title: "Materiały projektowe (PDF)"
+    file: /assets/documents/swinoujscie-pobierz.pdf
+
+tags:
+  - Świnoujście
+  - kurort nadmorski
+  - przestrzeń publiczna
+  - koncepcja konkursowa
+  - zachodniopomorskie
+  - tereny publiczne
+  - nadmorski krajobraz
+  - zieleń wydmowa
+  - promenada
+  - architektura krajobrazu
+---

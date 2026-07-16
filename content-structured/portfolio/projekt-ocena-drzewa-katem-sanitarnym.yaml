@@ -1,0 +1,59 @@
+---
+layout: portfolio_single
+title: "Ocena drzewa pod kątem bezpieczeństwa"
+description: "Opinia dendrologiczna dotycząca pomnikowej lipy drobnolistnej na placu zabaw przedszkola w Konarach, obejmująca ocenę stanu sanitarnego i bezpieczeństwa drzewa wraz z zaleceniami pielęgnacyjnymi."
+permalink: /portfolio/ocena-drzewa-katem-sanitarnym/
+
+category: projekty
+featured_image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_slider_ikropka.jpg
+
+project_meta:
+  client: "Gmina Miejska Górka"
+  location: "Konary, wielkopolskie"
+  year: "2019"
+  scope: "Opinia dendrologiczna pod kątem oceny bezpieczeństwa wokół drzewa"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj2_ikropka.jpg
+    alt: "Pomnikowa lipa na terenie przedszkola w Konarach"
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_ikropka.jpg
+    alt: "Drzewo oceniane pod kątem bezpieczeństwa"
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj3_ikropka.jpg
+    alt: "Szczegółowy widok pnia i korony lipy"
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj4_ikropka.jpg
+    alt: "Otoczenie drzewa na placu zabaw"
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj5_ikropka.jpg
+    alt: "Badania dendrologiczne drzewa"
+  - image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj6_ikropka.jpg
+    alt: "Widok zasięgu korony pomnikowej lipy"
+
+sections:
+  - type: intro
+    content: |
+      Przedmiotem opracowania było wykonanie opinii dendrologicznej pomnika przyrody – lipy drobnolistnej (Tilia cordata) o obwodzie pierśnicowym 416 cm, rosnącym na terenie placu zabaw przedszkola. Opinia dendrologiczna miała na celu ocenę stanu sanitarnego drzewa i ocenę pod kątem bezpieczeństwa w jego otoczeniu oraz wydanie zaleceń do dalszego postępowania z nim.
+
+  - type: description
+    heading: "Opis opracowania"
+    content: |
+      Ocena drzewa na placu zabaw została wykonana w okresie ulistnionym. Przeprowadzono szczegółowe badania dendrologiczne drzewa. Dokonano oględzin dendrologicznych, pomiarów dendrometrycznych obwodu na kilku wysokościach, średnicy i zasięgu korony w czterech kierunkach, oraz wysokości drzewa.
+
+      Przy opisie stanu zdrowotnego zwrócono szczególną uwagę na stan systemu korzeniowego, zweryfikowano najbliższe otoczenie drzewa, zwracając uwagę na ewentualne uszkodzenia i nieprawidłowości. Oceniono stan pnia (wytrzymałość mechaniczną, ewentualne ubytki, uszkodzenia) i korony (obecność suszu, jemioły, chorób liści, stan konarów).
+
+      Wykonano również analizę otoczenia drzewa na przestrzeni lat poprzez kwerendę historycznych map topograficznych.
+
+  - type: results
+    heading: "Wnioski i zalecenia"
+    content: |
+      Wnioski z badania drzewa pozwoliły określić stan sanitarny pomnika przyrody oraz określić stan bezpieczeństwa wokół drzewa. Wydano zalecenia w ramach projektu gospodarki drzewostanem w dwóch scenariuszach, prowadzących do zapewnienia bezpieczeństwa w otoczeniu drzewa.
+
+tags:
+  - dendrologia
+  - opinia-dendrologiczna
+  - ocena-bezpieczeństwa-drzew
+  - pomnik-przyrody
+  - lipa-drobnolistna
+  - Konary
+  - plac-zabaw
+  - przedszkole
+---

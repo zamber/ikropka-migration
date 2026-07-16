@@ -1,0 +1,145 @@
+---
+layout: page
+title: "O nas"
+description: "Poznaj zespół IKROPKA i nasze doświadczenie w architekturze krajobrazu, dendrologii oraz ochronie zieleni. Sprawdź, dlaczego warto nam zaufać."
+permalink: /o-nas/
+
+sections:
+  - type: intro
+    heading: "O nas"
+    content: |
+      Pracujemy dynamicznie, działamy aktywnie. Nasza siła to zgrany Zespół wzajemnie napędzający się do działania. IKROPKA to specjaliści z dziedziny architektury krajobrazu, dendrologii, nadzoru terenów zieleni, gospodarki przestrzennej i urbanistyki.
+
+  - type: founder
+    heading: "Założycielka"
+    name: "Dominika Krop – Andrzejczuk"
+    credentials:
+      - "mgr inż. architekt krajobrazu"
+      - "inspektor nadzoru terenów zieleni"
+      - "kierownik robót ds. zieleni zabytkowej"
+    bio: |
+      Pracownia Architektury Krajobrazu IKROPKA funkcjonuje stale na ogólnopolskim rynku od 2007 r. Założycielką firmy jest Dominika Krop – Andrzejczuk, architekt krajobrazu, inspektor nadzoru terenów zieleni.
+
+      Posiada cenne doświadczenie w prowadzeniu projektów na terenach miejskich oraz objętych ochroną konserwatorską. Prowadzi procesy formalnoprawne związane z uzyskaniem uzgodnień i pozwoleń.
+
+      Mgr inż. architekt krajobrazu Dominika Krop – Andrzejczuk spełnia wymogi wobec osoby kierującej pracami przy zabytkach będących zorganizowaną zielenią wpisaną do rejestru zabytków – zgodnie z ustawą z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami oraz posiada bogate doświadczenie w pełnieniu funkcji kierownika robót ds. zieleni zabytkowej, inspektora nadzoru dendrologicznego oraz inspektora nadzoru terenów zieleni, w tym na obiektach zabytkowych.
+
+  - type: three_pillars
+    heading: "Trzy filary działalności"
+    items:
+      - title: "Filary działalności"
+        description: "Projektowy, dendrologiczny i nadzorczy."
+
+  - type: expertise
+    heading: "Nasza filozofia"
+    content: |
+      Misją IKROPKI jest wypracowywanie dla każdego zlecenia złotego środka, który zapewnia najlepszą jakość inwestycji przy jednoczesnym poszanowaniu środowiska przyrodniczego. W swoich projektach i działaniach stawiamy na najlepsze rozwiązania projektowe i budowlane przyjazne drzewom.
+
+      Oferujemy usługi przydatne na każdym etapie prowadzonej inwestycji. Wspieramy Państwa kompleksowo, ponieważ wierzymy, że kluczem do sukcesu jest spójna, ciągła współpraca od początku do końca. Nasi specjaliści skutecznie dopilnowują jakości prowadzonych prac, od projektu, przez nadzór nad wykonawstwem, po monitoring. Dzięki obecności na każdym etapie inwestycji mamy realny wpływ na uzyskanie wzorcowego efektu finalnego.
+
+      Ponadto zajmujemy się prowadzeniem i organizacją szkoleń, konferencji m.in. z zakresu prawidłowego postępowania z drzewami na każdym etapie inwestycyjnym.
+
+      Zawsze stawiamy na najlepsze praktyki i kreujemy trendy wysokiej jakości dla branży architektury krajobrazu. Od lat lobbujemy współpracę inwestora – architekta – architekta krajobrazu – architekta wnętrz, ponieważ wierzymy, że tylko dobre praktyki we współpracy są w stanie budować lepsze jutro.
+
+  - type: gallery
+    heading: "Galeria"
+    images:
+      - image: /assets/images/about/1-4.jpg
+        alt: ""
+      - image: /assets/images/about/2-4.jpg
+        alt: ""
+      - image: /assets/images/about/3-4.jpg
+        alt: ""
+      - image: /assets/images/about/4-5.jpg
+        alt: ""
+      - image: /assets/images/about/5-6.jpg
+        alt: ""
+      - image: /assets/images/about/6-5.jpg
+        alt: ""
+
+  - type: stats
+    heading: "Mamy wiedzę i doświadczenie"
+    items:
+      - number: "1110"
+        label: "Zadowolonych klientów"
+      - number: "125"
+        label: "Świadczonych nadzorów"
+      - number: "352"
+        label: "Zrealizowanych projektów"
+      - number: "110 350"
+        label: "Zinwentaryzowanych drzew"
+
+  - type: credentials_gallery
+    heading: "Certyfikaty i kwalifikacje"
+    images:
+      - image: /assets/images/credentials/Skan_20260624.png
+        alt: ""
+      - image: /assets/images/credentials/CamScanner-13.03.2026-16.29.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-SAK_Miejsca-zabaw_Dominika-Krop-Andrzejczuk.jpg
+        alt: ""
+      - image: /assets/images/credentials/ZASWIADCZENIa-zielona-retencja.jpg
+        alt: ""
+      - image: /assets/images/credentials/ZASWIADCZENIa-zielona-retencja-K.M.jpg
+        alt: ""
+      - image: /assets/images/credentials/1-Zaswiadczenie_OSTO_INTZ.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-Kongres-Drzew-PA-1.jpg
+        alt: ""
+      - image: /assets/images/credentials/Inspektor-Nadzoru-Dendrologicznego-w-procesie-inwestycyjnym-PA.jpg
+        alt: ""
+      - image: /assets/images/credentials/2-zaswiadczenie_DENDROD_drzewa-na-placu-budowy.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-Dendros-Konferencja-ZZM-DKA.jpg
+        alt: ""
+      - image: /assets/images/credentials/3-Zaswiadczenie_DENDROS_Identyfikacja-drzew-zagrazajacych-bezpieczenstwu.jpg
+        alt: ""
+      - image: /assets/images/credentials/4-zaswiadzenie_ID_Kurs-Certyfikowanego-Inspektora-Drzew.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie_INSTYTUT-DRZEWA_Kongres-Diagnostyki-Drzewa.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-SAK_WAK3-DKA.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-SAK_WAK-DKA.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-SAK_WAK-KM.jpg
+        alt: ""
+      - image: /assets/images/credentials/5-2011_PTD_czlonkostwo.jpg
+        alt: ""
+      - image: /assets/images/credentials/SAK_ikropka-certyfikat-001.jpg
+        alt: ""
+      - image: /assets/images/credentials/GCL_zielone_dachy.jpg
+        alt: ""
+      - image: /assets/images/credentials/Dyplom_GCL_zielone-dachy.jpg
+        alt: ""
+      - image: /assets/images/credentials/certyfikat_autodesk_3ds.jpg
+        alt: ""
+      - image: /assets/images/credentials/certyfikat_pcc_3ds.jpg
+        alt: ""
+      - image: /assets/images/credentials/certyfikat.png
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_akademia_dachu.jpg
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_galeria_wnetrz.jpg
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_01_08.jpg
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_02_07.jpg
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_10_06.jpg
+        alt: ""
+      - image: /assets/images/credentials/InfoInwest_02_06.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-Natura-2000-DKA-m.jpg
+        alt: ""
+      - image: /assets/images/credentials/Zaswiadczenie-Natura-2000-NB-m.jpg
+        alt: ""
+
+  - type: partnerships
+    heading: "Współpracujemy"
+    content: |
+      Przez lata działalności Firmy wypracowaliśmy profesjonalne relacje z Kooperantami. Dzięki tej współpracy jesteśmy na bieżąco z najnowszymi i sprawdzonymi produktami, rozwiązaniami, technologiami, wiedzą, a nasze usługi spełniają wymogi najbardziej wymagających Klientów.
+
+      Partnerzy: GCL, VF PFLANZEN, TEURGIUM, GARDEN STONES, ERBIS, MMCITE, DASAG, SIK-HOLZ, FUNDACJA EKOROZWOJU, ARCHGOODS, KOMPAN, ZANO, PUCZYŃSKI.
+    logos: []
+---

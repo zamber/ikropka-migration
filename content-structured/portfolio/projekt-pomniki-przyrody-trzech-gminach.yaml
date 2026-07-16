@@ -1,0 +1,62 @@
+---
+layout: portfolio_single
+title: "Pomniki przyrody w trzech gminach"
+description: "Inwentaryzacja dendrologiczna 250 drzew i 16 alej pomnikowych na terenie Podwarszawskiego Trójmiasta Ogrodów."
+permalink: /portfolio/pomniki-przyrody-trzech-gminach/
+
+category: projekty
+featured_image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-slider11.jpg
+
+project_meta:
+  client: "Urząd Gminy Brwinów"
+  location: "Brwinów, Milanówek, Podkowa Leśna, mazowieckie"
+  year: "2016"
+  scope: "inwentaryzacja dendrologiczna pomnikowych drzew i alej wraz z zaleceniami pielęgnacyjnymi"
+  area: "9273 ha"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-1-1.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-2.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-3.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-4.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-5.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+  - image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-zdj-6.jpg
+    alt: "Zdjęcie z inwentaryzacji pomników przyrody"
+
+sections:
+  - type: intro
+    content: |
+      Na terenie Podwarszawskiego Trójmiasta Ogrodów, gmin: Brwinów, Milanówek oraz Podkowa Leśna dokonano inwentaryzacji dendrologicznej z zaleceniami pielęgnacyjnymi dla wszystkich pomników przyrody i pomnikowych alej. Łączna powierzchnia opracowania wyniosła 9273 ha! Obszar ten objechano w poszukiwaniu pomników przyrody.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Dokumentacja została wykonana w ramach pierwszego etapu zadania pn.: „Opracowanie strategii rozwoju terenów zieleni na obszarze Podwarszawskiego Trójmiasta Ogrodów wraz z opracowaniem inwentaryzacji zasobów przyrodniczych i koncepcji nowych nasadzeń”.
+
+      Celem przeprowadzonej inwentaryzacji było zebranie podstawowych danych oraz rozpoznanie stanu zdrowotnego drzew pomnikowych, w tym cech morfologicznych mogących mieć wpływ na kondycję drzew. Istotnym elementem, na który zwrócono uwagę podczas opisywania kolejnych jednostek, było także otoczenie każdego z pomników. Kolejnym krokiem było sformułowanie zaleceń pielęgnacyjnych, mających na celu zabezpieczenie zarówno samego drzewa, jak i jego otoczenia przed ewentualnym skutkami przeszłych zaniedbań. Osobno opisywano pojedyncze pomniki, osobno zaś całe grupy drzew alejowych.
+
+  - type: results
+    heading: "Wyniki inwentaryzacji"
+    content: |
+      Na obszarze Podwarszawskiego Trójmiasta Ogrodów znajduje się łącznie 250 drzew – pomników przyrody rosnących pojedynczo lub w grupach oraz 16 pomnikowych alej i szpalerów, w których rośnie razem 920 drzew.
+
+documents:
+  - title: "Dokumentacja projektu (PDF)"
+    file: /assets/documents/PTO-pobierzPDF.pdf
+
+tags:
+  - inwentaryzacja dendrologiczna
+  - pomniki przyrody
+  - aleje pomnikowe
+  - Podwarszawskie Trójmiasto Ogrodów
+  - Brwinów
+  - Milanówek
+  - Podkowa Leśna
+  - mazowieckie
+---

@@ -1,0 +1,60 @@
+---
+layout: post
+title: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+description: "Budowa osiedla River Point na Kępie Mieszczańskiej we Wrocławiu – pierwsze efekty realizacji projektu zieleni i małej architektury IKROPKI."
+date: 2018-12-03
+author: "IKROPKA"
+permalink: /aktualnosci/kilka-zdjec-z-budowy-na-kepie/
+
+categories:
+  - aktualności
+
+tags:
+  - River Point
+  - Kępa Mieszczańska
+  - Wrocław
+  - realizacja
+  - budowa
+  - Archicom
+
+featured_image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj6.jpg
+featured_image_alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+
+sections:
+  - type: intro
+    content: |
+      Po niecałym roku od rozpoczęcia prac realizacyjnych dotyczących zagospodarowania terenu na nowym osiedlu mieszkaniowym Archicomu „River Point” na Kępie Mieszczańskiej we Wrocławiu widać już efekty pierwszego etapu realizacji prac, dotyczącego nawierzchni, parkingu wtopionego w zagospodarowanie terenu, strefy zabaw i rekreacji, częściowo wykonaną małą architekturę i oświetlenie oraz zieleń.
+
+  - type: body
+    content: |
+      Realizacja inwestycji trwa od 2016 r. Realizacja projektu zagospodarowania terenu ruszyła od początku 2018 r.
+
+      Projekt zagospodarowania terenu, projekt zieleni oraz projekt małej architektury a także wszelkie opracowania przedprojektowe w tym zakresie powstały w naszej pracowni IKROPKA w latach 2016 – 2018 przy współpracy z projektantami Archicom Studio.
+
+      Dla Inwestora świadczymy nadzór autorski.
+
+      To pierwszy etap realizacji tej inwestycji, czekamy z niecierpliwością na dalsze, które pozwolą na uspójnienie całości.
+
+  - type: conclusion
+    content: |
+      Zapraszamy do zapoznania się z naszym projektem w [portfolio](https://ikropka.eu/projekt/river-point-kepie-mieszczanskiej/).
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj7.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj1.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj2.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj3.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj4.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+      - image: /assets/images/news/2018/12/Kępa-River-Point-budowa-zdj5.jpg
+        alt: "KILKA ZDJĘĆ Z BUDOWY NA WROCŁAWSKIEJ KĘPIE!"
+
+related:
+  - type: project
+    slug: "river-point-kepie-mieszczanskiej"
+---

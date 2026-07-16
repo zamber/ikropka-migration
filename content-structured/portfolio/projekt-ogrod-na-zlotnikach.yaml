@@ -1,0 +1,52 @@
+---
+layout: portfolio_single
+title: "OGRÓD NA ZŁOTNIKACH"
+description: "Projekt ogrodu na Złotnikach tworzy funkcjonalną przestrzeń wypoczynku z odpowiednio dobraną zielenią i nowoczesnymi rozwiązaniami."
+permalink: /portfolio/ogrod-na-zlotnikach/
+
+category: projekty
+featured_image: /assets/images/portfolio/ogrod-na-zlotnikach/slider2.jpg
+
+project_meta:
+  client: "osoba prywatna"
+  location: "Wrocław, dolnośląskie"
+  year: "2011"
+  scope: "Projekt wykonawczy"
+  area: "2021 m²"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-1.jpg
+    alt: "Widok ogrodu na Złotnikach 1"
+  - image: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-2.jpg
+    alt: "Widok ogrodu na Złotnikach 2"
+  - image: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-3.jpg
+    alt: "Widok ogrodu na Złotnikach 3"
+  - image: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-4.jpg
+    alt: "Widok ogrodu na Złotnikach 4"
+
+sections:
+  - type: intro
+    content: |
+      Koncepcja ogrodu łączy w sobie układ geometryczny i swobodny w minimalistycznym stylu miejskiego ogrodu.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Od wejścia do drzwi domu prowadzi wijąca się ścieżka, a bryła budynku została podkreślona łukowato wygiętymi rabatami, na których posadzono krzewy wyeksponowane podsypanym żwirem. W części frontowej zlokalizowano dwa okazałe drzewa wraz z nasadzeniami cieniolubnych bylin w parterze, flankowanych przez krzewy ozdobne. Po drugiej stronie ogrodu umieszczono dodatkowe miejsca parkingowe, wykonane z kratki trawnikowej, pozwalającej na dyskretne wtopienie w układ ogrodu.
+
+      Charakteru w przestrzeni dodają prostopadłościenne donice. Część rekreacyjna ogrodu podzielona jest na dwie części szpalerem katalp, ozdobnych krzewów i bylin kwitnących w różnych porach roku. Pas nasadzeń zamyka taras od części ogrodu z dużym trawnikiem. Dzięki temu optycznie podzielono obszerne wnętrze ogrodowe, sprawiając, że atmosfera stała się bardziej intymna. Dookoła działki uatrakcyjniono ogrodzenie – nasadzone krzewy ozdobne i regularna kompozycja z karłowatych wierzb widoczne są z okien domu, ale także stanowią estetyczną osłonę od strefy gospodarczej i ulicy.
+
+documents:
+  - title: "Ogród na Złotnikach - pobierz PDF"
+    file: /assets/documents/ogrod-na-zlotnikach.pdf
+
+tags:
+  - ogród przydomowy
+  - Wrocław
+  - Złotniki
+  - projekt wykonawczy
+  - architektura krajobrazu
+  - ogród miejski
+  - minimalistyczny ogród
+---

@@ -1,0 +1,62 @@
+---
+layout: portfolio_single
+title: "OPERAT DENDROLOGICZNY ZARZĄDZENIE PREZYDENTA WROCŁAWIA"
+description: "Operat dendrologiczny dla budowy gazociągu we Wrocławiu zgodny z Zarządzeniem Prezydenta Wrocławia – analiza uniknięcia kolizji z drzewostanem."
+permalink: /portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/
+
+category: projekty
+featured_image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg
+
+project_meta:
+  client: "PROFIL Technologie Gazowe"
+  location: "Wrocław, dolnośląskie"
+  year: "2019"
+  scope: "Inwentaryzacja dendrologiczna z projektem gospodarki drzewostanem i analizą możliwości uniknięcia kolizji inwestycji z istniejącymi drzewami według Zarządzenia Prezydenta Wrocławia"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg
+    alt: "Operat dendrologiczny – analiza uniknięcia kolizji"
+  - image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj3_ikropka.jpg
+    alt: "Inwentaryzacja drzewostanu"
+  - image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj1_ikropka.jpg
+    alt: "Plan operatu dendrologicznego"
+  - image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji_zdj2_ikropka.jpg
+    alt: "Strefy ochrony drzew"
+
+sections:
+  - type: intro
+    content: |
+      Operat dendrologiczny wykonano zgodnie z wytycznymi Zarządzenia Nr 1217/19 Prezydenta Wrocławia z dnia 28 czerwca 2019 r. w sprawie ochrony drzew i rozwoju terenów zieleni.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      W terenie wykonano inwentaryzację dendrologiczną, w tym pomiary obwodów, wysokości, koron, powierzchni drzew, krzewów i grup zadrzewień (obwody drzew na wysokości 5 cm w przypadku drzew przeznaczonych do usunięcia). Każdy numer inwentaryzacyjny został szczegółowo opisany i zakwalifikowany do jednej z trzech kategorii stanu sanitarnego.
+
+      Na rysunku wrysowano zinwentaryzowane drzewa, krzewy i zadrzewienia, średnicę koron, zasięg pnia oraz wyznaczone zgodnie z zaleceniami Zarządzenia – Strefy Ochrony Drzew.
+
+  - type: solution
+    heading: "Rozwiązania"
+    content: |
+      Dokonano szczegółowej analizy projektu zagospodarowania terenu – projektu budowy gazociągu wraz z przyłączami. Infrastruktura została zaprojektowana w technologii przewiertu na całej długości gęsto zadrzewionego terenu.
+
+      Dzięki użytej przez projektantów technologii bezrozkopowej, na terenie opracowania nie wyznaczono żadnej wycinki ze względu na kolizję z inwestycją. Do wycinki wyznaczono jedynie drzewa suche lub zamierające, stanowiące zagrożenie dla ludzi i mienia. Analizę możliwości uniknięcia kolizji projektu z istniejącym drzewostanem przeprowadzono pod kątem kolizji Stref Ochrony Drzew z planowanymi komorami przewiertu, które wykonywane są w wykopie otwartym.
+
+      Szczegółowo opisano zalecenia dotyczące prac w otoczeniu drzew, sposób wykonania zabezpieczeń drzew i krzewów oraz wytyczenie Strefy Ochrony Drzew w terenie.
+
+  - type: results
+    heading: "Efekty"
+    content: |
+      Zastosowanie technologii bezrozkopowej pozwoliło uniknąć wycinki drzew spowodowanej kolizją z planowaną inwestycją. Wytyczono jedynie usuwanie drzew suchych i zamierających, stanowiących zagrożenie dla ludzi i mienia.
+
+tags:
+  - dendrologia
+  - operat dendrologiczny
+  - inwentaryzacja dendrologiczna
+  - ochrona drzew
+  - Wrocław
+  - gazociąg
+  - technologie bezrozkopowe
+  - zarządzenie prezydenta Wrocławia
+---

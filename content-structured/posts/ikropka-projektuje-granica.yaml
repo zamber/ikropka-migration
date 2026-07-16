@@ -1,0 +1,48 @@
+---
+layout: post
+title: "IKROPKA PROJEKTUJE ZA GRANICĄ!"
+description: "IKROPKA projektuje za granicą – pierwsza zagraniczna realizacja: ogród przydomowy w Görlitz w otoczeniu zabytkowego pałacu. Poznaj kulisy projektu!"
+date: 2017-08-30
+author: "IKROPKA"
+permalink: /aktualnosci/ikropka-projektuje-granica/
+
+categories:
+  - aktualności
+
+tags:
+  - zagranica
+  - Görlitz
+  - ogród przydomowy
+  - realizacja zagraniczna
+  - Niemcy
+
+featured_image: https://ikropka.eu/wp-content/uploads/2017/11/umowa-zdj-1.jpg
+featured_image_alt: "IKROPKA PROJEKTUJE ZA GRANICĄ!"
+
+sections:
+  - type: intro
+    content: |
+      Działamy na terenie całej Polski i … nie tylko!
+
+  - type: body
+    content: |
+      Wielką radość sprawia nam fakt, że zgłaszają się do nas Klienci z całej Polski, ale także z zagranicy! W tym roku podpisaliśmy pierwszą zagraniczną umowę.
+
+      Dla naszych nowych Klientów z Goerlitz tworzymy ogród w pięknej przestrzeni. Dom znajduje się w otoczeniu o charakterze folwarcznym, sąsiaduje z zabytkowym pałacem, a z ogrodu roztacza się malowniczy widok na górę z historyczną wieżą widokową. Dodatkowo w ogrodzie znajduje się pomnikowych rozmiarów buk zwyczajny.
+
+  - type: image
+    image: https://ikropka.eu/wp-content/uploads/2017/11/umowa-zdj-2.jpg
+    alt: "IKROPKA PROJEKTUJE ZA GRANICĄ!"
+    caption: ""
+
+  - type: image
+    image: https://ikropka.eu/wp-content/uploads/2017/11/umowa-zdj-3.jpg
+    alt: "IKROPKA PROJEKTUJE ZA GRANICĄ!"
+    caption: ""
+
+  - type: conclusion
+    content: |
+      To będzie piękny ogród!
+
+related: []
+---

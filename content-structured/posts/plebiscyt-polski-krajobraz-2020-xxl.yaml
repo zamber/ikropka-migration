@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Plebiscyt Polski Krajobraz 2020 XXL"
+description: "Z radością informujemy o artykule na Wroclife.pl poświęconym Parkowi Uśmiechu oraz jego zwycięstwu w Plebiscycie Polski Krajobraz 2020 XXL w kategorii przestrzeń publiczna."
+date: 2021-05-31
+author: "IKROPKA"
+permalink: /aktualnosci/plebiscyt-polski-krajobraz-2020-xxl/
+
+categories:
+  - aktualności
+
+tags:
+  - "Park Uśmiechu"
+  - "Polski Krajobraz 2020 XXL"
+  - "Wroclife.pl"
+  - "przestrzeń publiczna"
+
+featured_image: "/assets/images/news/aktualności-ikropka_Park-Uśmiechu_2021.jpg"
+featured_image_alt: "Plebiscyt Polski Krajobraz 2020 XXL"
+
+sections:
+  - type: intro
+    content: |
+      Z radością informujemy, że na łamach Wroclife.pl ukazał się artykuł dotyczący Parku Uśmiechu oraz o jego nietuzinkowym zwycięstwie w Plebiscycie Polski Krajobraz 2020 XXL – w kategorii przestrzeń publiczna.
+
+  - type: body
+    content: |
+      Z radością informujemy, że na łamach Wroclife.pl ukazał się artykuł dotyczący Parku Uśmiechu oraz o jego nietuzinkowym zwycięstwie w Plebiscycie Polski Krajobraz 2020 XXL – w kategorii przestrzeń publiczna. Park Uśmiechu, skwer przy ulicy Wolbromskiej we Wrocławiu zrealizowany został według projektu IKROPKI z inicjatywy Zarządu Zieleni Miejskiej we Wrocławiu.
+
+      Zachęcamy do zapoznania się z artykułem, znajdującym się pod linkiem:
+      https://wroclife.pl/czas-wolny/park-usmiechu-nagrodzony/?fbclid=IwAR2NLad7kftMTAuGUzB7MeeTp-hCAkMU5jBK3UjaWiKWhTtqHJXfIJpUJ-0
+
+  - type: image
+    image: "/assets/images/news/IKROPKA_Park_Uśmiechu_2021.jpg"
+    alt: "Plebiscyt Polski Krajobraz 2020 XXL"
+
+  - type: image
+    image: "/assets/images/news/IKROPKA_Park_Uśmiechu_2021_2.jpg"
+    alt: "Plebiscyt Polski Krajobraz 2020 XXL"
+
+  - type: image
+    image: "/assets/images/news/IKROPKA_Park_Uśmiechu_2021_3.jpg"
+    alt: "Plebiscyt Polski Krajobraz 2020 XXL"
+---

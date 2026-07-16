@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Oferta"
+description: "Oferta architektury krajobrazu obejmuje projekty, usługi dendrologiczne, nadzory i doradztwo. Sprawdź, jak możemy wesprzeć Twoją inwestycję."
+date: 2017-06-01
+author: "IKROPKA"
+permalink: /aktualnosci/oferta/
+
+categories:
+  - aktualności
+  - oferta
+
+tags:
+  - architektura krajobrazu
+  - usługi dendrologiczne
+  - usługi projektowe
+  - nadzory
+  - doradztwo
+  - obiekty zabytkowe
+  - szkolenia
+
+featured_image: /assets/images/news/facebook.png
+featured_image_alt: "IKROPKA - Architektura krajobrazu"
+
+sections:
+  - type: intro
+    content: |
+      Prezentujemy Państwu bogatą ofertę usług opartą na trzech głównych filarach działalności Firmy: projektowym, dendrologicznym oraz nadzorczym. Posiadamy cenne doświadczenie i wielką pasję w prowadzeniu projektów dla obiektów zabytkowych objętych ochroną konserwatorską. Kompleksowo obsługujemy inwestycję i działamy na każdym jej etapie.
+
+  - type: body
+    content: |
+      Nasza oferta obejmuje szerokie spektrum usług z zakresu architektury krajobrazu, podzielonych na kilka kluczowych obszarów:
+
+      **Usługi dendrologiczne**
+      Oferujemy inwentaryzacje zieleni, operaty dendrologiczne, opinie i ekspertyzy, przeglądy drzew pod kątem bezpieczeństwa, pogotowie dendrologiczne oraz projekty ochrony drzewa.
+
+      **Usługi projektowe**
+      Realizujemy projekty zagospodarowania terenu, projekty zieleni, ogrody prywatne oraz projekty parków i terenów rekreacyjnych.
+
+      **Nadzory**
+      Świadczymy nadzory przez Inspektora Nadzoru Terenów Zieleni, nadzory dendrologiczne nad pracami budowlanymi prowadzonymi w sąsiedztwie drzew, pielęgnacją, wycinką i badaniami drzew, nadzór nad prawidłowym przebiegiem procesu projektowego i czynności formalnoprawnych oraz ochronę drzew przewidzianych do zachowania na placu budowy.
+
+      **Obiekty zabytkowe**
+      Prowadzimy inwentaryzacje terenowe i szczegółowe dendrologiczne, opracowania studialne, kwerendy, studia i analizy, a także projekty rekonstrukcji, rewitalizacji i rewaloryzacji.
+
+      **Doradztwo**
+      Oferujemy doradztwo dla specjalistów, inwestorów i przyszłych inwestorów, prowadzenie czynności formalnoprawnych związanych z uzyskiwaniem pozwoleń i decyzji, pomoc w przygotowaniu Opisu Przedmiotu Zamówienia (OPZ) i materiałów do przetargów, wsparcie w sytuacjach kryzysowych oraz planowanie działań przy zakupie działki i optymalizacji kosztów.
+
+      **Szkolenia**
+      Prowadzimy szkolenia oparte na praktycznej wiedzy zebranej przez lata doświadczeń w zawodzie, realizowane przez wykwalifikowany zespół, z tematyką dostosowaną do potrzeb grupy.
+
+related:
+  - type: service
+    slug: "inwentaryzacje-dendrologiczne"
+  - type: service
+    slug: "operat-dendrologiczny"
+  - type: service
+    slug: "dendrolog-opinie-ekspertyzy"
+  - type: service
+    slug: "przeglady-drzew-katem-bezpieczenstwa"
+  - type: service
+    slug: "pogotowie-dendrologiczne"
+  - type: service
+    slug: "projekt-ochrony-drzewa"
+  - type: service
+    slug: "projekty-zagospodarowania-terenu"
+  - type: service
+    slug: "projekty-zieleni"
+  - type: service
+    slug: "ogrody-prywatne"
+  - type: service
+    slug: "projekty-parkow-i-terenow-rekreacyjnych"
+  - type: service
+    slug: "nadzory"
+  - type: service
+    slug: "obiekty-zabytkowe"
+  - type: service
+    slug: "doradztwo"
+  - type: service
+    slug: "szkolenia"
+---

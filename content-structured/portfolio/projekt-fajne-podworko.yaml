@@ -1,0 +1,78 @@
+---
+layout: portfolio_single
+title: "Projekt zieleni we wnętrzu podwórzowym"
+description: "Projekt zieleni we wnętrzu podwórzowym we Wrocławiu – nasadzenia zamienne i ochrona drzew na terenie 7937 m² dla Wrocławskich Mieszkań."
+permalink: /portfolio/fajne-podworko/
+
+category: projekty
+featured_image: /assets/images/portfolio/fajne-podworko/Norwida-slider1.jpg
+
+project_meta:
+  client: "Grupa projektowa Mieszko Mazurek KONCEPT dla Wrocławskie Mieszkania"
+  location: "Wrocław, dolnośląskie"
+  year: "2014"
+  scope: "Projekt nasadzeń zamiennych, zieleni i ochrony drzew istniejących poprzedzone operatem"
+  area: "7937 m²"
+  status: "Zrealizowany"
+  designers: "A. Gierko, D. Krop-Andrzejczuk, S. Ryszytyło"
+
+gallery:
+  - image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-1-1.jpg
+    alt: "Wizualizacja projektu zieleni w podwórzu we Wrocławiu"
+    caption: ""
+  - image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-2.jpg
+    alt: "Projekt nasadzeń zamiennych w wnętrzu podwórzowym"
+    caption: ""
+  - image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-3.jpg
+    alt: "Zagospodarowanie zielenią podwórka we Wrocławiu"
+    caption: ""
+  - image: /assets/images/portfolio/fajne-podworko/Norwida-zdj-4.jpg
+    alt: "Kompozycja roślinna w projekcie podwórza"
+    caption: ""
+
+sections:
+  - type: intro
+    content: |
+      Projekt zieleni we wnętrzu podwórzowym we Wrocławiu o powierzchni 7937 m².
+      Zadaniem było stworzenie spójnej kompozycji zieleni scalającej całe podwórze,
+      wzbogacającej przestrzeń mieszkańców i dostosowanej do trudnych warunków użytkowania.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Założeniem projektowym było osiągnięcie spójnej zieleni o charakterze scalającym całe podwórko.
+      Kompozycje zieleni odgrywają dużą rolę w widokach z okien mieszkańców, towarzyszą elementom
+      architektonicznym oraz wyposażeniu terenu jak place zabaw, ławki, a także stanowią zieleń osłonową
+      przy śmietnikach w podwórzu. W projekcie zaproponowano gatunki drzew i krzewów znacznie podnoszące
+      walory estetyczne zaprojektowanej przestrzeni. Użyte gatunki to rośliny odporne na trudne warunki,
+      jak np. zadeptywanie.
+
+  - type: content
+    heading: "Kompozycja roślinna"
+    content: |
+      Układ projektowanej roślinności koresponduje z układem funkcjonalnym terenu czy usytuowaniem
+      miejsc postojowych. Gatunki takie jak miłorząb dwuklapowy (*Ginkgo biloba*) w sposób istotny
+      wpływają na jakość szaty roślinnej wnętrza podwórzowego. Zieleń wysoka pełni tu także funkcję
+      osłonową, np. szpaler jarzębów zasłania wiatę śmietnikową, znajdującą się w centralnej części terenu.
+      Krzewy liściaste są uzupełnieniem kompozycji.
+
+  - type: results
+    heading: "Realizacja"
+    content: |
+      Nad realizacją sprawowaliśmy nadzór inwestorski.
+      Projekt powstał na zlecenie biura architektonicznego Grupa projektowa Mieszko Mazurek KONCEPT.
+
+documents:
+  - title: "Projekt zieleni we wnętrzu podwórzowym - PDF"
+    file: /assets/documents/podw-rko-Norwida-pobierzPDF.pdf
+
+tags:
+  - projekt zieleni
+  - podwórze
+  - Wrocław
+  - nasadzenia zamienne
+  - ochrona drzew
+  - zieleń osłonowa
+  - architektura krajobrazu
+  - nadzór inwestorski
+---

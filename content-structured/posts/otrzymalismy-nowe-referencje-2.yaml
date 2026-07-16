@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Otrzymaliśmy nowe referencje"
+description: "Z dumą dzielimy się nowymi referencjami od Wejherowskiego Zarządu Nieruchomości Komunalnych za przegląd drzewostanu parkowego w Wejherowie."
+date: 2021-02-10
+author: "IKROPKA"
+permalink: /aktualnosci/otrzymalismy-nowe-referencje/
+
+categories:
+  - aktualności
+
+tags:
+  - referencje
+  - Wejherowo
+  - przegląd drzew
+  - dendrologia
+
+featured_image: /assets/images/news/ikropka_referencje-Wejherowo.jpg
+featured_image_alt: "Otrzymaliśmy nowe referencje"
+
+sections:
+  - type: intro
+    content: |
+      Referencje dot. zadania związanego z przeglądem drzewostanu parkowego w Wejherowie.
+
+  - type: image
+    image: /assets/images/news/ikropka_referencje-Wejherowo.jpg
+    alt: "Otrzymaliśmy nowe referencje"
+    caption: ""
+
+  - type: body
+    content: |
+      Celem opracowania było wykonanie przeglądu drzew pod kątem bezpieczeństwa ludzi i mienia. Każde z drzew i krzewów zostało zinwentaryzowane, opisane i ocenione pod względem stanu sanitarnego, następnie w projekcie gospodarki dokonano kwalifikacji do adaptacji, pielęgnacji lub wycinki sanitarnej.
+
+      Opracowanie objęło część powierzchni parku w podziale na pięć sektorów, o łącznej powierzchni 11,5 ha. Wykazano 2139 pozycji, w tym 2081 drzew i 58 krzewów.
+
+      Zakres wykonanego zadania:
+
+      - przegląd drzew pod kątem bezpieczeństwa
+      - operat dendrologiczny
+      - inwentaryzacja dendrologiczna
+
+  - type: quote
+    text: "Zadanie powierzone Pracowni Architektury Krajobrazu IKROPKA Dominika Krop-Andrzejczuk zostało wykonane należycie i fachowo, zgodnie z zasadami wiedzy technicznej i w terminie określonym umową. Polecamy Pracownię Architektury Krajobrazu IKROPKA jako solidnego partnera do współpracy w ramach zadań związanych z dendrologią na terenach wpisanych do rejestru zabytków."
+    author: "Wejherowski Zarząd Nieruchomości Komunalnych"
+
+  - type: conclusion
+    content: |
+      Dziękujemy za miłą współpracę Wejherowskiemu Zarządowi Nieruchomości Komunalnych.
+---

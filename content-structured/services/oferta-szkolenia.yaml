@@ -1,0 +1,108 @@
+---
+layout: service
+title: "Szkolenia"
+description: "Oferujemy szkolenia z dendrologii i projektowania wokół drzew dla urzędników, projektantów, wykonawców i inwestorów. Sprawdź program i skontaktuj się!"
+permalink: /oferta/szkolenia/
+
+category: services
+service_type: training
+
+hero_image: /assets/images/services/ikona-szkolenia-1.png
+hero_alt: "Ikona szkoleń"
+
+sections:
+  - type: intro
+    content: |
+      Przeprowadzamy szkolenia z zakresu dendrologii, projektowania, projektowania wokół drzew z wykorzystaniem najnowszych technologii budowlanych, znaczenia zadrzewień w mieście i w krajobrazie.
+
+  - type: description
+    heading: "O szkoleniach"
+    content: |
+      Kwalifikacje i doświadczenie zebrane przez lata działalności IKROPKI to unikatowe spectrum wiedzy, którą chętnie dzielimy się, ponieważ wierzymy, że szerzenie dobrych praktyk rozwija branżę i jej standardy.
+
+      Dla każdego jesteśmy w stanie przygotować indywidualną ofertę szkoleniową tematycznie skierowaną do konkretnych odbiorców: urzędników, projektantów (drogowych, instalacyjnych, architektów, architektów krajobrazu), wykonawców, inwestorów, kadry odpowiedzialnej za prawidłową ochronę drzew itd.
+
+      Oferujemy przeprowadzanie szkoleń w zakresie dendrologii, projektowania, projektowania wokół drzew z wykorzystaniem najnowszych technologii budowlanych, znaczenia zadrzewień w mieście i w krajobrazie.
+
+      Przykładowe tematy szkoleń:
+      • gospodarowanie drzewostanem na etapie projektu (Projekt Gospodarki Drzewostanem);
+      • bezpieczne projektowanie w otoczeniu drzew (w tym Projekt Ochrony Drzewa);
+      • prowadzenie inwestycji w sąsiedztwie drzew na różnych etapach inwestycji: planowanie, projektowanie, realizacja, monitoring powykonawczy;
+      • prawidłowe prowadzenia procesu formalnoprawnego dot. uzyskiwania uzgodnień i decyzji;
+      • nowoczesne technologie prac budowlanych przyjazne drzewom.
+
+  - type: features
+    heading: "Dla kogo są szkolenia"
+    items:
+      - "Urzędnicy"
+      - "Projektanci drogowi"
+      - "Projektanci instalacyjni"
+      - "Architekci"
+      - "Architekci krajobrazu"
+      - "Wykonawcy"
+      - "Inwestorzy"
+      - "Kadra odpowiedzialna za prawidłową ochronę drzew"
+
+  - type: projects_carousel
+    heading: "Szkolenia - wybrane projekty"
+    note: "Realizacje szkoleniowe i konferencyjne"
+    projects:
+      - slug: "szkolenie-dendrologiczne-dla-drogowcow-drzewa-przydrozne"
+      - slug: "drogi-dla-natury-brwinowie"
+      - slug: "konferencja-w-otrebusach"
+      - slug: "ochrona-zarzadzanie-drzewostanem"
+
+  - type: testimonials
+    heading: "Referencje"
+    items:
+      - author: ""
+        organization: "Spartan"
+        year: "2023"
+        content: "Polecamy Panią mgr inż. Dominikę Krop-Andrzejczuk oraz jej Pracownię Architektury Krajobrazu IKROPKA do współpracy już przed etapem planowanej inwestycji jako doradcę, projektanta oraz inspektora nadzoru terenów zieleni, inspektora dendrologicznego z bogatym doświadczeniem."
+      - author: ""
+        organization: "MSM Energetyk"
+        year: "2020"
+        content: "Polecamy współpracę z tą firmą innym zarządcom terenu w zakresie opracowań eksperckich dla drzew, projektów dla terenów zieleni."
+      - author: ""
+        organization: "JSK"
+        year: "2019"
+        content: "Pragniemy polecić p. Dominikę Krop-Andrzejczuk wraz z Jej zespołem i zapewnić, że jest ona fachowym i doświadczonym wykonawcą projektów zagospodarowania terenów zieleni, zielonych dachów, nowoczesnych rozwiązań technicznych i znajomości nowych technologii przyjaznych zieleni"
+      - author: ""
+        organization: "Wejherowski Zarząd Nieruchomości Komunalnych"
+        year: "2019"
+        content: "Polecamy Pracownię Architektury Krajobrazu IKROPKA jako solidnego partnera do współpracy w ramach zadań związanych z dendrologią na terenach wpisanych do rejestru zabytków."
+
+  - type: cta
+    heading: "Skontaktuj się z nami"
+    text: "Masz pytania dotyczące szkoleń? Napisz do nas lub zadzwoń – przygotujemy indywidualną ofertę szkoleniową dopasowaną do Twoich potrzeb."
+    button_text: "Wyślij wiadomość"
+    button_url: "/kontakt/"
+
+related_services:
+  - slug: "inwentaryzacje-dendrologiczne"
+    title: "Inwentaryzacje zieleni"
+  - slug: "operat-dendrologiczny"
+    title: "Operaty dendrologiczne"
+  - slug: "dendrolog-opinie-ekspertyzy"
+    title: "Opinie i Ekspertyzy"
+  - slug: "przeglady-drzew-katem-bezpieczenstwa"
+    title: "Przeglądy drzew pod kątem bezpieczeństwa"
+  - slug: "pogotowie-dendrologiczne"
+    title: "Pogotowie dendrologiczne"
+  - slug: "projekt-ochrony-drzewa"
+    title: "Projekt ochrony drzewa"
+  - slug: "projekty-zagospodarowania-terenu"
+    title: "Projekty zagospodarowania terenu"
+  - slug: "projekty-zieleni"
+    title: "Projekty zieleni"
+  - slug: "ogrody-prywatne"
+    title: "Ogrody prywatne"
+  - slug: "projekty-parkow-i-terenow-rekreacyjnych"
+    title: "Projekty parków i terenów rekreacyjnych"
+  - slug: "nadzory"
+    title: "Nadzory"
+  - slug: "obiekty-zabytkowe"
+    title: "Obiekty zabytkowe"
+  - slug: "doradztwo"
+    title: "Doradztwo"
+---

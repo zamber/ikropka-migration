@@ -1,0 +1,69 @@
+---
+layout: portfolio_single
+title: "PROJEKT ZAGOSPODAROWANIA ZABYTKOWEGO CMENTARZA W PŁOCKU"
+description: "Projekt zagospodarowania zabytkowego cmentarza augsbursko-ewangelickiego w Płocku, łączący ochronę dziedzictwa z projektowaniem zieleni i programem uczynnienia nekropolii."
+permalink: /portfolio/cmentarz-w-plocku/
+
+category: zabytkowe
+featured_image: /assets/images/portfolio/cmentarz-w-plocku/main.jpg
+
+project_meta:
+  client: "Gmina – Miasto Płock, Biuro Miejskiego Konserwatora Zabytków"
+  location: "Płock, mazowieckie"
+  year: "2011-2012"
+  scope: "Projekt zagospodarowania terenu z projektem zieleni i projektem uczynnienia cmentarza"
+  area: "1,97 ha"
+  status: "Koncepcja"
+
+gallery:
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-1.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-2.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-3.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-4.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-5.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+  - image: /assets/images/portfolio/cmentarz-w-plocku/zdj-6.jpg
+    alt: "Wizualizacja zagospodarowania cmentarza w Płocku"
+
+sections:
+  - type: intro
+    content: |
+      Płock, mazowieckie. Konkurs na zagospodarowanie przestrzeni publicznej.
+
+      Cmentarz ewangelicko – augsburski w Płocku został założony na początku XIX wieku. Nekropolia podzielona jest na dwie części: północną sakralną z kaplicą parafialną i budynkami gospodarczymi oraz południową grzebalną – silnie zadrzewiony fragment.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      W opracowaniu zostały sporządzone wytyczne konserwatorskie w zakresie wprowadzenia nowych nasadzeń i lokalizacji nowych pochówków oraz projekt zagospodarowania terenu zawierający program uczynnienia cmentarza wraz z projektem zieleni. Projekt zieleni został poprzedzony inwentaryzacją i projektem gospodarki drzewostanem istniejącym.
+
+  - type: solution
+    heading: "Rozwiązania projektowe"
+    content: |
+      Do usunięcia przewidziano drzewa i krzewy w złym stanie zdrowotnym oraz w wieku do 10 lat. Przeprowadzono wycinki kompozycyjne. Miało to na celu uporządkowanie przestrzeni cmentarza, odtworzenie powiązań widokowych z otoczeniem, utworzenie nowych miejsc pochówków oraz doświetlenie podłoża przed wprowadzeniem niskiej roślinności ozdobnej. Inspiracją doboru gatunkowego nowych nasadzeń były naturalne zbiorowiska roślinne, szczególnie grądowe.
+
+      Do przestrzeni cmentarza wprowadzono szpalery drzew, przez co podkreślono układ projektowanych alei. Szpalery rosnące w częściach skrajnych uzupełniono o nowe nasadzenia.
+
+  - type: content
+    heading: "Autorzy"
+    content: |
+      D. Krop-Andrzejczuk, A. Pióro
+
+documents:
+  - title: "Cmentarz w Płocku - pobierz PDF"
+    file: /assets/documents/Cmentarz-w-Plocku.pdf
+
+tags:
+  - cmentarz
+  - zabytkowy
+  - Płock
+  - mazowieckie
+  - zagospodarowanie
+  - projekt zieleni
+  - przestrzeń publiczna
+  - konkurs
+---

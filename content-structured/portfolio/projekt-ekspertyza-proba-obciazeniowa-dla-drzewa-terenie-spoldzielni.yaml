@@ -1,0 +1,51 @@
+---
+layout: portfolio_single
+title: "Ekspertyza z próbą obciążeniową dla drzewa na terenie spółdzielni"
+description: "Ekspertyza z próbą obciążeniową drzewa pozwala ocenić jego stabilność i bezpieczeństwo. Sprawdź zakres specjalistycznego opracowania."
+permalink: /portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/
+
+category: projekty
+featured_image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/slider-expertyza-lipa_ikropka.jpg
+
+project_meta:
+  client: "Międzyzakładowa Spółdzielnia Mieszkaniowa „Energetyk”"
+  location: "Wrocław, dolnośląskie"
+  year: "2020"
+  scope: "Ekspertyza dendrologiczna"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj-2_ikropka.jpg
+    alt: "Ekspertyza dendrologiczna lipy drobnolistnej"
+  - image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/Ekspertyza-lipa-zdj1_ikropka.jpg
+    alt: "Badanie stabilności drzewa metodą elasto-inclino"
+  - image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/ekspertyza-lipa-zdj3_ikropka.jpg
+    alt: "Dokumentacja fotograficzna ekspertyzy"
+  - image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/przygotowanie-do-badan-ekspertyza-lipa_ikropka.jpg
+    alt: "Przygotowanie do badań obciążeniowych drzewa"
+
+sections:
+  - type: intro
+    content: |
+      W zakres opracowania weszło wykonanie ekspertyzy dendrologicznej z użyciem specjalistycznego sprzętu metodą elasto – inclino (próby obciążeniowej) drzewa z gatunku lipa drobnolistna (*Tilia cordata*) wraz z opracowaniem wyników badania. Przedmiotowe drzewo wymagało ustalenia faktycznego stanu, wytrzymałości pnia i stabilności w gruncie oraz określenia poziomu bezpieczeństwa w otoczeniu drzewa.
+
+  - type: description
+    heading: "Opis opracowania"
+    content: |
+      Przeprowadzono próbę obciążeniową drzewa, a także symulację zakładającą redukcję korony drzewa.
+
+      Wykonana ekspertyza dendrologiczna zawiera opis metodyki badań, opis badanego drzewa, wyniki pomiarów i badań w formie opisowej i graficznej, dokumentację fotograficzną oraz zalecenia sformułowane na podstawie badań.
+
+  - type: results
+    heading: "Wyniki"
+    content: |
+      Przeprowadzona próba obciążeniowa pozwoliła na profesjonalne określenie stanu drzewa i wydanie zaleceń celem zapewnienia bezpieczeństwa ludzi i mienia w jego otoczeniu.
+
+tags:
+  - ekspertyza dendrologiczna
+  - próba obciążeniowa
+  - lipa drobnolistna
+  - Wrocław
+  - bezpieczeństwo drzew
+  - usługi dendrologiczne
+---

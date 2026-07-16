@@ -1,0 +1,67 @@
+---
+layout: portfolio_single
+title: "Operat dendrologiczny w Łagowie"
+description: "Operat dendrologiczny wykonany dla inwestycji w Łagowie obejmuje ocenę drzewostanu i zalecenia ochronne."
+permalink: /portfolio/operat-dendrologiczny-lagowie/
+
+category: zabytkowe
+featured_image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj-1-1.jpg
+
+project_meta:
+  client: "Quantum Tech sp. z o.o."
+  location: "Łagów, dolnośląskie"
+  year: "2018"
+  scope: "Inwentaryzacja dendrologiczna wraz z projektem gospodarki drzewostanem"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj3.jpg
+    alt: "Inwentaryzacja dendrologiczna w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj4.jpg
+    alt: "Drzewostan w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj9.jpg
+    alt: "Pomiary dendrometryczne drzew"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj10.jpg
+    alt: "Zabytkowy drzewostan w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj11.jpg
+    alt: "Drzewa w parku pałacowym"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj12.jpg
+    alt: "Inwentaryzacja zieleni w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj13.jpg
+    alt: "Ocena stanu zdrowotnego drzewostanu"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj17.jpg
+    alt: "Zabytkowe drzewa w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj15.jpg
+    alt: "Pałac i park w Łagowie"
+  - image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj16.jpg
+    alt: "Szczegóły inwentaryzacji dendrologicznej"
+
+sections:
+  - type: intro
+    content: |
+      W Łagowie pod Zgorzelcem wykonaliśmy inwentaryzację dendrologiczną z gospodarką drzewostanem. Przedmiotowy teren to obszar dawnego folwarku położonego w obrębie wsi Łagów w zabudowie ulicówki, gdzie znajdował się pałac (obecnie odrestaurowany) z przylegającym do niego parkiem oraz stawem.
+
+      Drzewostan zinwentaryzowany na terenie opracowania to częściowo wielkopowierzchniowe grupy krzewów i samosiewów porastające zaniedbany teren zieleni, ale także ciekawostki dendrologiczne o sporych obwodach.
+
+  - type: description
+    heading: "Opis projektu"
+    content: |
+      Podczas prac terenowych każde z drzew i krzewów naniesiono na mapę, zinwentaryzowano, opisano oraz dokonano pomiarów dendrometrycznych wraz z oceną stanu sanitarnego. Operat wykonano pod kątem sanitarnym i pielęgnacyjnym. W przypadku drzew będących w złym stanie, zagrażających bezpieczeństwu ludzi i mienia zalecono wycinkę sanitarną. Dla pozostałych drzew zalecono niezbędne do wykonania zabiegi pielęgnacyjne takie jak zdjęcie posuszu lub założenie wiązań oraz adaptacje.
+
+      Najstarsze drzewa na terenie opracowania to dęby szypułkowe, wiązy szypułkowe i klony srebrzyste osiągające obwody do 470 cm a także odmiany ozdobne buka zwyczajnego ‘Atropurpurea’ oraz dębu szypułkowego ‘Fastigiata’.
+
+  - type: results
+    heading: "Efekty"
+    content: |
+      Dzięki wykonanemu opracowaniu Zamawiający zyskał dokładną wiedzę o istniejącej zieleni, a także jej stanie zdrowotnym i zakresie potrzebnych pielęgnacji. Opracowanie wykonano zgodnie z obowiązującymi przepisami.
+
+tags:
+  - dendrologia
+  - inwentaryzacja dendrologiczna
+  - operat dendrologiczny
+  - gospodarka drzewostanem
+  - drzewostan zabytkowy
+  - Łagów
+  - pałac
+  - park
+---

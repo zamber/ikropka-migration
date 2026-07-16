@@ -1,0 +1,61 @@
+---
+layout: post
+title: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+description: "Pracownia IKROPKA to zespół architektów krajobrazu i dendrologów we Wrocławiu – poznaj ludzi, którzy zmieniają przestrzeń dla i z mieszkańcami miast."
+date: 2019-06-12
+author: "IKROPKA"
+permalink: /aktualnosci/pracownia-ikropka/
+
+categories:
+  - aktualności
+
+tags:
+  - zespół
+  - pracownia
+  - architektura krajobrazu
+  - dendrologia
+  - Wrocław
+
+featured_image: /assets/images/news/2019/06/ikropka1.jpg
+featured_image_alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+
+sections:
+  - type: intro
+    content: |
+      Nowa pracownia IKROPKI urządzona!
+      
+      Przestronnie, zielono, z pracownikami otwartymi na nowe wyzwania, nowe projekty, nowe tereny, nowe opracowania dendrologiczne! Gotowi na wszystko, zapraszamy do współpracy.
+
+  - type: body
+    content: |
+      Pracownia to miejsce, w którym tworzymy Zespół. Zespół zgranych, zdolnych i ambitnych ludzi, o podobnych poglądach, poczuciu humoru i gotowości na wyzwania. Łączy nas podobne zrozumienie czym jest dobra architektura krajobrazu, planowanie przestrzenne, ochrona historycznych założeń, dendrologia z prawdziwego zdarzenia.
+
+  - type: quote
+    text: "Zmieniamy przestrzeń dla i z ludźmi"
+    author: "Motto IKROPKA"
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/2019/06/ikropka2.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka2a.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka3.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka4.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka5.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka6.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka7.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka8.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka9.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+      - image: /assets/images/news/2019/06/ikropka13.jpg
+        alt: "PRACOWNIA IKROPKA TO ZESPÓŁ"
+
+related: []
+---

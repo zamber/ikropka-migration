@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+description: "Jesień na osiedlu WUWA we Wrocławiu – zdjęcia z zakończonej realizacji zagospodarowania zieleni pod nadzorem dendrologicznym IKROPKI."
+date: 2019-11-07
+author: "IKROPKA"
+permalink: /aktualnosci/jesien-2019-wuwie-zdjecia-realizacji/
+
+categories:
+  - aktualności
+
+tags:
+  - WUWA
+  - realizacja
+  - nadzór dendrologiczny
+  - projekt zieleni
+
+featured_image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-4.jpg
+featured_image_alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+
+sections:
+  - type: intro
+    content: |
+      W maju zakończono prace nad realizacją inwestycji "Zagospodarowanie przestrzeni publicznej obszaru WUWA we Wrocławiu". Inwestycję prowadzono pod nadzorem autorskim i dendrologicznym Inspektora Nadzoru Dominiki Krop-Andrzejczuk, IKROPKA. Przedstawiamy efekty realizacji w jesiennej odsłonie.
+
+  - type: body
+    content: |
+      Prace budowlane trwały od sierpnia 2016 r. do maja 2019 r. Nadzór nad realizacją projektu zieleni IKROPKI oraz nadzór dendrologiczny był prowadzony z niezwykłą starannością. Była to wymagająca praca polegająca zarówno na regularnych, cotygodniowych wizytach na budowie, jak i licznych działaniach dodatkowych.
+
+      Osiągnięciem inwestycji jest uporządkowanie zaniedbanych dotychczas przestrzeni publicznych wokół zabytkowych budynków. Dzięki realizacji projektu wprowadzone zagospodarowanie – ścieżki, oświetlenie, ławki, zieleń itd. – spójnie oddaje modernistyczny charakter zabudowań. Staranny nadzór dendrologiczny dał efekt – zachowano i wypielęgnowano cenny starodrzew, w tym aleje dębów oraz pomnik przyrody Dąb Piotra Włosta.
+
+  - type: conclusion
+    content: |
+      Więcej: o [projekcie](https://ikropka.eu/projekt/wuwa-nowej-odslonie/) i [nadzorze](https://ikropka.eu/projekt/nadzor-prac-wuwa/).
+
+  - type: gallery
+    images:
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-5.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-3.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-1.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-6.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-11.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-10.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-7.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-8.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-9.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+      - image: /assets/images/news/WUWA-1-Projekt-zieleni-realizacja-zdj-12.jpg
+        alt: "Jesień 2019 na WUWIE – zdjęcia realizacji"
+
+related:
+  - type: project
+    slug: "wuwa-nowej-odslonie"
+  - type: project
+    slug: "nadzor-prac-wuwa"
+---

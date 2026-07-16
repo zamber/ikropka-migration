@@ -1,0 +1,45 @@
+---
+layout: page
+title: "Kontakt"
+description: "Skontaktuj się z Pracownią Architektury Krajobrazu IKROPKA. Doradzimy, przygotujemy ofertę i pomożemy zrealizować Twoją inwestycję."
+permalink: /kontakt/
+
+sections:
+  - type: intro
+    heading: "Skontaktuj się"
+    content: |
+      Zapraszamy do kontaktu, każdy Klient jest dla nas ważny, każdy problem do rozwiązania! Zlecone nam zadania wykonujemy profesjonalnie, skutecznie i na czas.
+
+  - type: contact
+    heading: "Dane kontaktowe"
+    company: "PRACOWNIA ARCHITEKTURY KRAJOBRAZU IKROPKA Dominika Krop-Andrzejczuk"
+    address: "ul. Sudecka 74 lok. 2, 53-129 Wrocław"
+    phone: "600 181 389, 662 670 776"
+    email: "biuro@ikropka.eu"
+    tax_info: |
+      NIP: PL899-239-32-30
+      REGON: 020554020
+      Konto: 27 1440 1156 0000 0000 0637 1361
+
+  - type: contact_form
+    heading: "Formularz kontaktowy"
+    fields:
+      - name: name
+        type: text
+        placeholder: "Imię i nazwisko / firma"
+        required: true
+      - name: email
+        type: email
+        placeholder: "Adres e-mail"
+        required: true
+      - name: message
+        type: textarea
+        placeholder: "Wiadomość"
+        required: true
+    consent: "Wyrażam zgodę na przetwarzanie podanych przeze mnie danych osobowych w zakresie imienia, nazwiska, numeru telefonu i adresu e-mail w celu przekazania mi informacji handlowych / oferty usług oferowanych przez PAK IKROPKA."
+    privacy_link: "/informacja-dotyczaca-przetwarzania-danych-osobowych"
+    submit_text: "Wyślij"
+
+  - type: map
+    heading: "Lokalizacja"
+---

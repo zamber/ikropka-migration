@@ -1,0 +1,64 @@
+---
+layout: portfolio_single
+title: "Ochrona i zarządzanie drzewostanem"
+description: "Szkolenie „Drogi dla Natury” w Nowych Skalmierzycach – IKROPKA uczyła diagnostyki drzew i pielęgnacji metodą alpinistyczną."
+permalink: /portfolio/ochrona-zarzadzanie-drzewostanem/
+
+category: szkolenia
+featured_image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/main.jpg
+
+project_meta:
+  client: "Fundacja EkoRozwoju"
+  location: "Nowe Skalmierzyce, wielkopolskie"
+  year: "2016"
+  scope: "Organizacja szkolenia w ramach programu „Drogi dla Natury”"
+  status: "Zrealizowany"
+
+gallery:
+  - image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-1-1.jpg
+    alt: "Uczestnicy szkolenia „Drogi dla Natury” w Nowych Skalmierzycach"
+  - image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-2.jpg
+    alt: "Praktyczne zajęcia z diagnostyki drzew"
+  - image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-3.jpg
+    alt: "Pielęgnacja drzew metodą alpinistyczną"
+  - image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/Szkolenie-Nowe-Skalmierzyce-zdj-4.jpg
+    alt: "Inwentaryzacja pomnikowego drzewa"
+
+sections:
+  - type: intro
+    content: |
+      Szkolenie „Drzewa w otwartym krajobrazie – instrukcja obsługi” w Nowych Skalmierzycach trwało dwa dni. Dużym zainteresowaniem cieszyły się głównie tematy związane z wycinką drzew i dobrymi praktykami oraz diagnostyka drzewa, w tym wyjście w teren.
+
+  - type: description
+    heading: "Opis szkolenia"
+    content: |
+      Podczas szkolenia poruszono tematy z zakresu znaczenia i funkcji zadrzewień przydrożnych oraz diagnostyki i przyrodniczej waloryzacji drzew.
+
+      IKROPKA jako animator programu „Drogi dla Natury” przedstawiła również dotychczasowe dokonania w gminie Nowe Skalmierzyce.
+
+      W sposób praktyczny została zaprezentowana pielęgnacja drzew metodą alpinistyczną, a także pokazano sposoby dokonywania inwentaryzacji na przykładzie pomnikowego drzewa.
+
+  - type: results
+    heading: "Efekty i dorobek programu"
+    content: |
+      W ramach programu „Drogi dla Natury” na terenie gminy Nowe Skalmierzyce IKROPKA wykonała szereg opracowań. Dokonano przeglądu wszystkich cennych przyrodniczo alej, w sumie zinwentaryzowano 85 alej o łącznej długości 42 435 km.
+
+      Spośród zinwentaryzowanego drzewostanu wyznaczono 10 drzew do specjalistycznych ekspertyz dendrologicznych oraz 10 drzew do dalszych prac pielęgnacyjnych z wykorzystaniem technik linowych. W ramach programu pod nadzorem IKROPKI została również nasadzona nowa aleja.
+
+      Podsumowaniem prac na terenie gminy stał się obszerny dokument „Program zachowania zadrzewień przydrożnych gminy Nowe Skalmierzyce”, zawierający dokładną charakterystykę wszystkich alej oraz zalecenia i rekomendacje związane z ochroną drzew i prowadzeniem nowych nasadzeń.
+
+documents:
+  - title: "Materiały ze szkolenia"
+    file: /assets/documents/Szkolenie-Nowe-Skalmierzyce-pobierzPDF.pdf
+
+tags:
+  - szkolenia
+  - drogi-dla-natury
+  - nowe-skalmierzyce
+  - diagnostyka-drzew
+  - pielegnacja-drzew
+  - aleje-przydrozne
+  - inwentaryzacja
+  - zadrzewienia-przydrozne
+  - ochrona-drzew
+---
