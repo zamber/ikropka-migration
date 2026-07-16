@@ -488,3 +488,22 @@ The conversion script must clearly define:
 - Clean YAML = easy Jekyll integration
 - Investment in prompt quality pays off for 150 pages
 
+
+## Phase 1 Approval - 2026-07-16
+
+**Timeline:** Approved — 3-4 weeks acceptable
+**Branding:** Extract from current ikropka.eu site (colors, fonts, logo)
+**Content Migration:** Can be phased — structure/scaffolding is priority, actual content migration can follow incrementally
+**QA/Review:** User initially, then client later
+
+**Critical Instruction from User:**
+**NEVER defer/postpone planned tasks without explicit approval.** If a step seems long/problematic, ask for confirmation, but NEVER skip with a note "to be done later" — those tasks never get revisited and create confusion. Execute the plan fully or get explicit approval to modify scope.
+
+This applies to:
+- Planned features in milestones
+- Scripts that should be written
+- Content that should be migrated
+- Any deliverable in the execution plan
+
+If blocked or need to change approach: ASK, don't assume deferral is OK.
+

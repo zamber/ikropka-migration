@@ -270,3 +270,22 @@ If you're unsure about:
 
 **Last Updated:** 2026-07-16
 **Status:** Project setup phase
+
+---
+
+## CRITICAL: Task Execution Policy (Inherited from Home CLAUDE.md)
+
+**NEVER defer or postpone planned work without explicit user approval.**
+
+When working on this project:
+- ✅ Execute milestones fully as specified in PHASE1-EXECUTION-PLAN.md
+- ✅ Ask for clarification if requirements unclear
+- ✅ Ask for approval before changing scope
+- ❌ NO silent deferrals with "TBD" notes
+- ❌ NO placeholders that won't be revisited
+- ❌ NO skipping tasks without explicit permission
+
+**If blocked:** Communicate clearly → Propose alternatives → Wait for approval → Document in MEMORY.md
+
+See `/home/luna/CLAUDE.md` for full policy details.
+
