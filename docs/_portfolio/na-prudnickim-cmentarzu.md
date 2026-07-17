@@ -2,18 +2,18 @@
 category: projekty
 description: Prace dendrologiczne na cmentarzu komunalnym w Prudniku obejmują ocenę
   drzew i zalecenia poprawiające bezpieczeństwo użytkowników.
-featured_image: /assets/images/portfolio/na-prudnickim-cmentarzu/slider111.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/slider111.jpg
 gallery:
 - alt: Aleja drzew na cmentarzu w Prudniku
-  image_path: /assets/images/portfolio/na-prudnickim-cmentarzu/zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/zdj-1-1.jpg
 - alt: Drzewostan cmentarny w Prudniku
-  image_path: /assets/images/portfolio/na-prudnickim-cmentarzu/zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/zdj-3.jpg
 - alt: Widok na cmentarz w Prudniku
-  image_path: /assets/images/portfolio/na-prudnickim-cmentarzu/zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/zdj-4.jpg
 - alt: Zabytkowe drzewa na cmentarzu w Prudniku
-  image_path: /assets/images/portfolio/na-prudnickim-cmentarzu/zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/zdj-5.jpg
 - alt: Szczegół drzewostanu cmentarnego w Prudniku
-  image_path: /assets/images/portfolio/na-prudnickim-cmentarzu/zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/na-prudnickim-cmentarzu/zdj-6.jpg
 layout: single
 permalink: /portfolio/na-prudnickim-cmentarzu/
 project:

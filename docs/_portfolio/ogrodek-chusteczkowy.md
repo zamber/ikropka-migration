@@ -2,26 +2,26 @@
 category: projekty
 description: Mały ogród w zabudowie szeregowej w Mokronosie Dolnym – prosty, elegancki
   projekt zieleni i małej architektury na 280 m².
-featured_image: /assets/images/portfolio/ogrodek-chusteczkowy/slider11.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/slider11.jpg
 gallery:
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-1-1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-4.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-5.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-6.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-7.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-8.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-chusteczkowy/zdj-9.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-chusteczkowy/zdj-9.jpg
 layout: single
 permalink: /portfolio/ogrodek-chusteczkowy/
 project:

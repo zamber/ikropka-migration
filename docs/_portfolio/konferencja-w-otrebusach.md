@@ -2,18 +2,18 @@
 category: szkolenia
 description: Udział IKROPKA w konferencji w Otrębusach to wymiana wiedzy i doświadczeń
   z zakresu dendrologii oraz architektury krajobrazu.
-featured_image: /assets/images/portfolio/konferencja-w-otrebusach/main.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/main.jpg
 gallery:
 - alt: Konferencja w Otrębusach - zdjęcie 1
-  image_path: /assets/images/portfolio/konferencja-w-otrebusach/zdj-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/zdj-1.jpg
 - alt: Konferencja w Otrębusach - zdjęcie 2
-  image_path: /assets/images/portfolio/konferencja-w-otrebusach/zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/zdj-2.jpg
 - alt: Konferencja w Otrębusach - zdjęcie 3
-  image_path: /assets/images/portfolio/konferencja-w-otrebusach/zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/zdj-3.jpg
 - alt: Konferencja w Otrębusach - zdjęcie 4
-  image_path: /assets/images/portfolio/konferencja-w-otrebusach/zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/zdj-4.jpg
 - alt: Konferencja w Otrębusach - zdjęcie 5
-  image_path: /assets/images/portfolio/konferencja-w-otrebusach/zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/konferencja-w-otrebusach/zdj-5.jpg
 layout: single
 permalink: /portfolio/konferencja-w-otrebusach/
 project:

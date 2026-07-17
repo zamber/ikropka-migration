@@ -2,26 +2,26 @@
 category: projekty
 description: Opinia dendrologiczna i nadzór arborystyczny przy Dębie Krzyżowym – ocena
   stanu zdrowotnego pomnikowego drzewa i zalecenia dotyczące jego ochrony.
-featured_image: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy_slider_ikropka.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy_slider_ikropka.jpg
 gallery:
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy1_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy1_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy8_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy8_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy6_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy6_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy5_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy5_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy4_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy4_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy3_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy3_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy2_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy2_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy7_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy7_ikropka.jpg
 - alt: Pomnikowy Dąb Krzyżowy
-  image_path: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy9_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy9_ikropka.jpg
 layout: single
 permalink: /portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/
 project:

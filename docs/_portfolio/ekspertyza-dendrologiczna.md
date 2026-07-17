@@ -2,14 +2,14 @@
 category: zabytkowe
 description: Ekspertyza dendrologiczna pozwala ocenić stan drzew i określić zalecenia
   dotyczące ich ochrony. Zobacz przykładowe opracowanie IKROPKA.
-featured_image: /assets/images/portfolio/ekspertyza-dendrologiczna/slider-1.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna/slider-1.jpg
 gallery:
 - alt: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/Rozyckiego_IKROPKA_ekspertyza.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna/Rozyckiego_IKROPKA_ekspertyza.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego-podstawowy.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego-podstawowy.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego_przesadzenia-podstawowy.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna/IKROPKA_rozyckiego_przesadzenia-podstawowy.jpg
 layout: single
 permalink: /portfolio/ekspertyza-dendrologiczna/
 project:

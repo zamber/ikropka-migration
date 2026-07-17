@@ -3,20 +3,20 @@ category: projekty
 description: Opinia dendrologiczna dotycząca pomnikowej lipy drobnolistnej na placu
   zabaw przedszkola w Konarach, obejmująca ocenę stanu sanitarnego i bezpieczeństwa
   drzewa wraz z zaleceniami pielęgnacyjnymi.
-featured_image: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_slider_ikropka.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_slider_ikropka.jpg
 gallery:
 - alt: Pomnikowa lipa na terenie przedszkola w Konarach
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj2_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj2_ikropka.jpg
 - alt: Drzewo oceniane pod kątem bezpieczeństwa
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_ikropka.jpg
 - alt: Szczegółowy widok pnia i korony lipy
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj3_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj3_ikropka.jpg
 - alt: Otoczenie drzewa na placu zabaw
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj4_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj4_ikropka.jpg
 - alt: Badania dendrologiczne drzewa
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj5_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj5_ikropka.jpg
 - alt: Widok zasięgu korony pomnikowej lipy
-  image_path: /assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj6_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ocena-drzewa-katem-sanitarnym/opinia_przedszkole_Konary_zdj6_ikropka.jpg
 layout: single
 permalink: /portfolio/ocena-drzewa-katem-sanitarnym/
 project:

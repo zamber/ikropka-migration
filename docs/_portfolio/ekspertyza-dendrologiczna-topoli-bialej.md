@@ -2,17 +2,17 @@
 category: projekty
 description: Ekspertyza dendrologiczna topoli białej obejmuje ocenę stanu drzewa oraz
   zalecenia dotyczące bezpieczeństwa i dalszej pielęgnacji.
-featured_image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/silder-ekspertyza-topola_ikropka-1.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/silder-ekspertyza-topola_ikropka-1.jpg
 gallery:
 - alt: Ekspertyza dendrologiczna topoli białej
   caption: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj2_ekspertyza-topola_ikropka-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj2_ekspertyza-topola_ikropka-1.jpg
 - alt: Ekspertyza dendrologiczna topoli białej
   caption: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj1_ekspertyza-topola_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj1_ekspertyza-topola_ikropka.jpg
 - alt: Ekspertyza dendrologiczna topoli białej
   caption: ''
-  image_path: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj4_ekspertyza-topola_ikropka.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/zdj4_ekspertyza-topola_ikropka.jpg
 layout: single
 permalink: /portfolio/ekspertyza-dendrologiczna-topoli-bialej/
 project:

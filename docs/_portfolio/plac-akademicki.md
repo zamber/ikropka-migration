@@ -2,20 +2,20 @@
 category: projekty
 description: Projekt zagospodarowania Placu Akademickiego – funkcjonalna i estetyczna
   przestrzeń publiczna z zielenią, małą architekturą i strefami wypoczynku.
-featured_image: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-slider111.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-slider111.jpg
 gallery:
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-1-1.jpg
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-2.jpg
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-4.jpg
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-6.jpg
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-7.jpg
 - alt: Wizualizacja projektu Placu Akademicki
-  image_path: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-akademicki/Plac-Akademicki-zdj-8.jpg
 layout: single
 permalink: /portfolio/plac-akademicki/
 project:

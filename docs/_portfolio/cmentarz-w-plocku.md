@@ -3,20 +3,20 @@ category: zabytkowe
 description: Projekt zagospodarowania zabytkowego cmentarza augsbursko-ewangelickiego
   w Płocku, łączący ochronę dziedzictwa z projektowaniem zieleni i programem uczynnienia
   nekropolii.
-featured_image: /assets/images/portfolio/cmentarz-w-plocku/main.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/main.jpg
 gallery:
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-1.jpg
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-2.jpg
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-3.jpg
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-4.jpg
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-5.jpg
 - alt: Wizualizacja zagospodarowania cmentarza w Płocku
-  image_path: /assets/images/portfolio/cmentarz-w-plocku/zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/cmentarz-w-plocku/zdj-6.jpg
 layout: single
 permalink: /portfolio/cmentarz-w-plocku/
 project:

@@ -2,40 +2,40 @@
 category: projekty
 description: Nadzór nad pracami zieleni na terenie osiedla WuWa we Wrocławiu – opieka
   nad historycznym drzewostanem i realizacja nasadzeń zgodnych z projektem.
-featured_image: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-slider11.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-slider11.jpg
 gallery:
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-1-1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-4.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-5.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-6.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-7.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-8.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-9.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-9.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-10.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-10.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-11.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-11.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-12.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-zdj-12.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-5.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-9.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-9.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-prac-wuwa/WUWA-1-Projekt-zieleni-realizacja-zdj-1.jpg
 layout: single
 permalink: /portfolio/nadzor-prac-wuwa/
 project:

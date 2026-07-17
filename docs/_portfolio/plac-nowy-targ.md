@@ -3,32 +3,32 @@ category: projekty
 description: Koncepcja architektoniczna zagospodarowania Placu Nowy Targ we Wrocławiu
   – projekt przywrócenia funkcji targowej i stworzenia nowej przestrzeni publicznej
   w centrum miasta.
-featured_image: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-slider1.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-slider1.jpg
 gallery:
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj1-1.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj2.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj3.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj4.1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj4.1.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj5.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj6.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj7.jpg
 - alt: Wizualizacja koncepcji Placu Nowy Targ
   caption: ''
-  image_path: /assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/plac-nowy-targ/Nowy-Targ-zdj8.jpg
 layout: single
 permalink: /portfolio/plac-nowy-targ/
 project:

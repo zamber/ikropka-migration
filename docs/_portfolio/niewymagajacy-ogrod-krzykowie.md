@@ -3,20 +3,20 @@ category: projekty
 description: Łatwy w utrzymaniu i romantyczny ogród przydomowy w Krzykowie – projekt
   niewymagającego ogrodu z praktycznymi i estetycznymi nasadzeniami dobranymi pod
   kątem niskich potrzeb pielęgnacyjnych.
-featured_image: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-slider11.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-slider11.jpg
 gallery:
 - alt: Widok ogrodu w Krzykowie
   caption: ''
-  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-1-1.jpg
 - alt: Aranżacja roślinna ogrodu
   caption: ''
-  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-2.jpg
 - alt: Kompozycje roślinne w ogrodzie
   caption: ''
-  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-3.jpg
 - alt: Szczegóły ogrodu przydomowego
   caption: ''
-  image_path: /assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/niewymagajacy-ogrod-krzykowie/Krzyk-w-zdj-4.jpg
 layout: single
 permalink: /portfolio/niewymagajacy-ogrod-krzykowie/
 project:

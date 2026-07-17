@@ -2,32 +2,32 @@
 category: zabytkowe
 description: Projekt budowlany i techniczny Parku Przygody w Parku Andersa obejmuje
   zagospodarowanie terenu z poszanowaniem istniejącej zieleni.
-featured_image: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_slider_Andersa_do-500KB.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/layout_slider_Andersa_do-500KB.jpg
 gallery:
 - alt: Widok na huśtawki w Parku Andersa
   caption: Strefa rekreacyjna z huśtawkami widokowymi
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-hustawki-podsatawowy_Ikropka.png
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-hustawki-podsatawowy_Ikropka.png
 - alt: Plac zabaw i tor przygód
   caption: Tor przygód zucha z urządzeniami zabawowymi
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-przygoda-podstawowy_Ikropka.png
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-przygoda-podstawowy_Ikropka.png
 - alt: Strefa sportowa i siłownia zewnętrzna
   caption: Tor przeszkód tropiciela i siłownia plenerowa
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-sport-podstawowy_Ikropka.png
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-sport-podstawowy_Ikropka.png
 - alt: Tor zdrowia i pętla fitness
   caption: Pętla zdrowia z urządzeniami do fitnessu
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-zdrowie-podstawowy_Ikropka.png
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-zdrowie-podstawowy_Ikropka.png
 - alt: Wyższy rzut projektu zagospodarowania
   caption: Rzut projektu zagospodarowania terenu
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_wyzszy_rzut.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_wyzszy_rzut.jpg
 - alt: Rzut projektu zagospodarowania terenu
   caption: Layout projektu zagospodarowania
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_podstawowy_miski-scaled.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_podstawowy_miski-scaled.jpg
 - alt: Zestawienie roślinności
   caption: Zestawienie roślinności projektowanej
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa.jpg
 - alt: Zestawienie roślinności - część 2
   caption: Szczegółowe zestawienie roślinności
-  image_path: /assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa_2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa_2.jpg
 layout: single
 permalink: /portfolio/park-przygody-w-parku-andersa/
 project:

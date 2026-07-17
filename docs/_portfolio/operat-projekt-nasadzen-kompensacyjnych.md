@@ -2,20 +2,20 @@
 category: projekty
 description: Operat i projekt nasadzeń kompensacyjnych – kompleksowa dokumentacja
   wymagana przy wycince drzew, zgodna z przepisami i lokalnymi warunkami siedliskowymi.
-featured_image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/main.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/main.jpg
 gallery:
 - alt: Widok terenu inwestycji w Wojkowicach
   caption: ''
-  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo1.jpg
 - alt: Dokumentacja projektowa nasadzeń kompensacyjnych
   caption: ''
-  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo2.jpg
 - alt: Projekt szpaleru drzew wzdłuż granicy działki
   caption: ''
-  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo3.jpg
 - alt: Szczegóły projektu nasadzeń zastępczych
   caption: ''
-  image_path: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo4.jpg
 layout: single
 permalink: /portfolio/operat-projekt-nasadzen-kompensacyjnych/
 project:

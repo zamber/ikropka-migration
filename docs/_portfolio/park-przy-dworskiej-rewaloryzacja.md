@@ -2,44 +2,44 @@
 category: zabytkowe
 description: Rewaloryzacja parku przy ul. Dworskiej – projekt przywracający historyczny
   układ zieleni z uwzględnieniem potrzeb współczesnych użytkowników parku.
-featured_image: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-slider-2111.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-slider-2111.jpg
 gallery:
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-1-1.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-2.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-3.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-4.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-5.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-6.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-7.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-8.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-9.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-9.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-10.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-10.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-11.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-11.jpg
 - alt: Widok parku przy Dworskiej
   caption: ''
-  image_path: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-12.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-zdj-12.jpg
 layout: single
 permalink: /portfolio/park-przy-dworskiej-rewaloryzacja/
 project:

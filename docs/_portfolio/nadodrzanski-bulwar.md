@@ -2,17 +2,17 @@
 category: projekty
 description: Projekt zieleni dla Nadodrzańskiego Bulwaru łączy funkcjonalną promenadę
   z atrakcyjnymi nasadzeniami i ochroną istniejących drzew.
-featured_image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-slider1.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/nadodrzanski-bulwar/Bulwar-slider1.jpg
 gallery:
 - alt: Wizualizacja bulwaru
   caption: ''
-  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-2.jpg
 - alt: Wizualizacja bulwaru
   caption: ''
-  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-6.jpg
 - alt: Wizualizacja bulwaru
   caption: ''
-  image_path: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/nadodrzanski-bulwar/Bulwar-zdj-1.jpg
 layout: single
 permalink: /portfolio/nadodrzanski-bulwar/
 project:

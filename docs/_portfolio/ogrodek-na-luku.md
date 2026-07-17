@@ -2,16 +2,16 @@
 category: projekty
 description: Projekt niewielkiego ogrodu przydomowego we Wrocławiu (92 m²), pełniącego
   funkcje rekreacyjne i ozdobne, z tarasem ogrodowym i mini fontanną „mokry kamień”.
-featured_image: /assets/images/portfolio/ogrodek-na-luku/na-luku-slider-2.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/ogrodek-na-luku/na-luku-slider-2.jpg
 gallery:
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrodek-na-luku/na-luku-zdj-4.jpg
 layout: single
 permalink: /portfolio/ogrodek-na-luku/
 project:

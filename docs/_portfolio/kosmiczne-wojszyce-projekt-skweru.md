@@ -2,62 +2,62 @@
 category: projekty
 description: Projekt skweru „Kosmiczne Wojszyce” tworzy atrakcyjną przestrzeń rekreacyjną
   z zielenią, małą architekturą i rozwiązaniami dla mieszkańców.
-featured_image: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_slider-1.jpg
+featured_image: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_slider-1.jpg
 gallery:
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_1-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_1-1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_2-1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_2-1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_5-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/IKROPKA_Kosmiczne-Wojszyce_5-2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-4.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-dzienne2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-dzienne2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-dzienne1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-dzienne1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/ikropka-kosmiczne-wojszyce-zdjęcia-dzienne-5.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne-2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne-2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne-3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-kosmiczne-wojszyce-zdjęcia-nocne-3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-nawierzchnia-Kosmiczne-Wojszyce.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/Ikropka-nawierzchnia-Kosmiczne-Wojszyce.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj1.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj1.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj2.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj2.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj13.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj13.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj14.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj14.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj15.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj15.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj10.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj10.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj3.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj3.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj12.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj12.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj11.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj11.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj5.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj5.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj9.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj9.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj6.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj6.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj4.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj4.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj8.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj8.jpg
 - alt: ''
-  image_path: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj7.jpg
+  image_path: {{ site.baseurl }}/assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_zdj7.jpg
 layout: single
 permalink: /portfolio/kosmiczne-wojszyce-projekt-skweru/
 project:
