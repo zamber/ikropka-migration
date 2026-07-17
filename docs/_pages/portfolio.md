@@ -20,13 +20,13 @@ Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobra
 ### Filtruj według kategorii
 
 <div class="portfolio-filters">
-  <a href="{{ '/portfolio/' | relative_url }}" class="filter-btn active">Wszystkie (72)</a>
-  <a href="{{ '/portfolio/projekty/' | relative_url }}" class="filter-btn">Projekty (58)</a>
-  <a href="{{ '/portfolio/zabytkowe/' | relative_url }}" class="filter-btn">Obiekty zabytkowe (11)</a>
-  <a href="{{ '/portfolio/szkolenia/' | relative_url }}" class="filter-btn">Szkolenia (3)</a>
+  <a href="#all" class="filter-btn active" data-filter="all">Wszystkie (72)</a>
+  <a href="#projekty" class="filter-btn" data-filter="projekty">Projekty (58)</a>
+  <a href="#zabytkowe" class="filter-btn" data-filter="zabytkowe">Obiekty zabytkowe (11)</a>
+  <a href="#szkolenia" class="filter-btn" data-filter="szkolenia">Szkolenia (3)</a>
 </div>
 
-<p class="filter-note"><em>Możesz także filtrować projekty dynamicznie za pomocą wyszukiwarki powyżej.</em></p>
+<p class="filter-note"><em>Lub przejdź do dedykowanej strony kategorii: <a href="{{ '/portfolio/projekty/' | relative_url }}">Projekty</a> · <a href="{{ '/portfolio/zabytkowe/' | relative_url }}">Obiekty zabytkowe</a> · <a href="{{ '/portfolio/szkolenia/' | relative_url }}">Szkolenia</a></em></p>
 
 <div class="portfolio-grid">
 {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
@@ -184,9 +184,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
   let currentFilter = 'all';
 
-  // Note: Category filtering now uses separate pages (SEO-friendly)
-  // Filter buttons are now regular links to /portfolio/projekty/, /portfolio/zabytkowe/, etc.
-  // This JavaScript now only handles search functionality
+  // Category filtering (JavaScript - UX)
+  // Also available as separate pages for SEO (/portfolio/projekty/, etc.)
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+
+      // Update active button
+      filterBtns.forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+
+      // Store current filter
+      currentFilter = this.dataset.filter;
+
+      // Apply filter
+      applyFilters();
+    });
+  });
 
   // Search functionality
   searchInput.addEventListener('input', function() {
@@ -212,17 +226,24 @@ document.addEventListener('DOMContentLoaded', function() {
     const query = searchInput.value.trim();
 
     if (query.length === 0) {
-      // No search - show all items
+      // No search - apply category filter only
       portfolioItems.forEach(item => {
-        item.classList.remove('hidden');
+        if (currentFilter === 'all' || item.dataset.category === currentFilter) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
       });
     } else {
-      // Search only
+      // Search + category filter
       const results = fuse.search(query);
       const matchedElements = new Set(results.map(r => r.item.element));
 
       portfolioItems.forEach(item => {
-        if (matchedElements.has(item)) {
+        const matchesSearch = matchedElements.has(item);
+        const matchesCategory = currentFilter === 'all' || item.dataset.category === currentFilter;
+
+        if (matchesSearch && matchesCategory) {
           item.classList.remove('hidden');
         } else {
           item.classList.add('hidden');
