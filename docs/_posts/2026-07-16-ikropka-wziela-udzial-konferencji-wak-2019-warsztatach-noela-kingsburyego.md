@@ -7,8 +7,8 @@ date: '2026-07-16'
 description: IKROPKA uczestniczyła w dwudniowej konferencji WAK 2019 oraz warsztatach
   Noela Kingsbury'ego poświęconych naturalistycznemu projektowaniu rabat.
 header:
-  image: https://ikropka.eu/wp-content/uploads/2020/01/WAK-Noel-Kingsbury_ikropka.jpg
-  teaser: https://ikropka.eu/wp-content/uploads/2020/01/WAK-Noel-Kingsbury_ikropka.jpg
+  image: {{ site.baseurl }}/assets/images/news/WAK-Noel-Kingsbury_ikropka.jpg
+  teaser: {{ site.baseurl }}/assets/images/news/WAK-Noel-Kingsbury_ikropka.jpg
 layout: single
 tags:
 - WAK 2019

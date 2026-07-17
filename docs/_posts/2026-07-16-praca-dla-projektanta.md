@@ -5,8 +5,8 @@ date: '2026-07-16'
 description: Szukasz pracy jako projektant? Dołącz do zespołu IKROPKA i twórz projekty
   zieleni, przestrzeni publicznych oraz architektury krajobrazu.
 header:
-  image: https://ikropka.eu/wp-content/uploads/2021/02/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1-1024x1024.png
-  teaser: https://ikropka.eu/wp-content/uploads/2021/02/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1-1024x1024.png
+  image: {{ site.baseurl }}/assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
+  teaser: {{ site.baseurl }}/assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
 layout: single
 tags:
 - praca
@@ -52,5 +52,5 @@ na maila: rekrutacja@ikropka.eu
 Termin przesyłania kandydatur : do końca lutego 2021 r.
 
 
-![PRACA DLA PROJEKTANTA](https://ikropka.eu/wp-content/uploads/2021/02/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png)
+![PRACA DLA PROJEKTANTA]({{ site.baseurl }}/assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png)
 
