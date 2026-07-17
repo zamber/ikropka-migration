@@ -20,11 +20,13 @@ Poniżej znajdziesz **72 zrealizowane projekty** z zakresu architektury krajobra
 ### Filtruj według kategorii
 
 <div class="portfolio-filters">
-  <a href="#all" class="filter-btn active" data-filter="all">Wszystkie (72)</a>
-  <a href="#projekty" class="filter-btn" data-filter="projekty">Projekty</a>
-  <a href="#zabytkowe" class="filter-btn" data-filter="zabytkowe">Obiekty zabytkowe</a>
-  <a href="#szkolenia" class="filter-btn" data-filter="szkolenia">Szkolenia</a>
+  <a href="{{ '/portfolio/' | relative_url }}" class="filter-btn active">Wszystkie (72)</a>
+  <a href="{{ '/portfolio/projekty/' | relative_url }}" class="filter-btn">Projekty (58)</a>
+  <a href="{{ '/portfolio/zabytkowe/' | relative_url }}" class="filter-btn">Obiekty zabytkowe (11)</a>
+  <a href="{{ '/portfolio/szkolenia/' | relative_url }}" class="filter-btn">Szkolenia (3)</a>
 </div>
+
+<p class="filter-note"><em>Możesz także filtrować projekty dynamicznie za pomocą wyszukiwarki powyżej.</em></p>
 
 <div class="portfolio-grid">
 {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
@@ -182,22 +184,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
   let currentFilter = 'all';
 
-  // Category filtering
-  filterBtns.forEach(btn => {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-
-      // Update active button
-      filterBtns.forEach(b => b.classList.remove('active'));
-      this.classList.add('active');
-
-      // Store current filter
-      currentFilter = this.dataset.filter;
-
-      // Apply filter
-      applyFilters();
-    });
-  });
+  // Note: Category filtering now uses separate pages (SEO-friendly)
+  // Filter buttons are now regular links to /portfolio/projekty/, /portfolio/zabytkowe/, etc.
+  // This JavaScript now only handles search functionality
 
   // Search functionality
   searchInput.addEventListener('input', function() {
@@ -223,24 +212,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const query = searchInput.value.trim();
 
     if (query.length === 0) {
-      // No search - just apply category filter
+      // No search - show all items
       portfolioItems.forEach(item => {
-        if (currentFilter === 'all' || item.dataset.category === currentFilter) {
-          item.classList.remove('hidden');
-        } else {
-          item.classList.add('hidden');
-        }
+        item.classList.remove('hidden');
       });
     } else {
-      // Search + category filter
+      // Search only
       const results = fuse.search(query);
       const matchedElements = new Set(results.map(r => r.item.element));
 
       portfolioItems.forEach(item => {
-        const matchesSearch = matchedElements.has(item);
-        const matchesCategory = currentFilter === 'all' || item.dataset.category === currentFilter;
-
-        if (matchesSearch && matchesCategory) {
+        if (matchedElements.has(item)) {
           item.classList.remove('hidden');
         } else {
           item.classList.add('hidden');
