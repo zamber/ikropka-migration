@@ -2,26 +2,26 @@
 category: projekty
 description: Pomniki przyrody w Strzelinie – nadzór dendrologiczny i entomologiczny
   nad pielęgnacją zabytkowych Dębów Krzyżowych zasiedlonych przez pachnicę dębową.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/slider11.jpg
+featured_image: /assets/images/portfolio/pomniki-przyrody-strzelinie/slider11.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-1.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-2.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-3.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-3.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-4.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-4.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-5.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-5.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-6.jpg
+  image_path: /assets/images/portfolio/pomniki-przyrody-strzelinie/zdj-6.jpg
 layout: single
 permalink: /portfolio/pomniki-przyrody-strzelinie/
 project:

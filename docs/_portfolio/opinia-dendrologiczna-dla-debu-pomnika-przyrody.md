@@ -2,23 +2,23 @@
 category: projekty
 description: Opinia dendrologiczna dla dębu – pomnika przyrody zawiera ocenę jego
   stanu oraz zalecenia dotyczące ochrony cennego drzewa.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
+featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj1-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj1-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj2-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj2-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj3-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj3-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj4-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj4-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj5-1.jpg
+  image_path: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/Matejki-zdj5-1.jpg
 layout: single
 permalink: /portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/
 project:

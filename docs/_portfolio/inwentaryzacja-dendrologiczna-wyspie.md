@@ -2,23 +2,23 @@
 category: projekty
 description: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   we Wrocławiu – 85 drzew zbadanych na terenie dzikiego, nieużytkowanego lasu.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-slider.jpg
+featured_image: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-slider.jpg
 gallery:
 - alt: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-1.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-1.jpg
 - alt: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-2.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-2.jpg
 - alt: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-3.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-3.jpg
 - alt: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-4.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-4.jpg
 - alt: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-5.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-zdj-5.jpg
 layout: single
 permalink: /portfolio/inwentaryzacja-dendrologiczna-wyspie/
 project:

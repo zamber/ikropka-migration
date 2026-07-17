@@ -2,20 +2,20 @@
 category: zabytkowe
 description: Operat dendrologiczny dla zabytkowego Białkowa – inwentaryzacja i ocena
   drzewostanu historycznego założenia parkowego z zaleceniami pielęgnacyjnymi.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-slider.jpg
+featured_image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-slider.jpg
 gallery:
 - alt: Widok zabytkowego parku w Białkowie
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-1.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-1.jpg
 - alt: Drzewostan zabytkowego założenia parkowego
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-2.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-2.jpg
 - alt: Inwentaryzacja dendrologiczna w Białkowie
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-4.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-4.jpg
 - alt: Zabytkowe drzewa w parku pałacowym
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-5.jpg
+  image_path: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-zdj-5.jpg
 layout: single
 permalink: /portfolio/operat-zabytkowym-bialkowie/
 project:

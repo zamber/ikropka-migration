@@ -3,26 +3,26 @@ category: zabytkowe
 description: Koncepcja projektowa wraz z programem funkcjonalno-przestrzennym dla
   Parku Andersa we Wrocławiu, łącząca rewitalizację zieleni z narracyjnym „Parkiem
   Przygody” nawiązującym do generała Władysława Andersa.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_slider_Andersa2_do-500KB.jpg
+featured_image: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_slider_Andersa2_do-500KB.jpg
 gallery:
 - alt: Park Andersa - strona
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona.jpg
 - alt: Park Andersa - strona 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona2.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona2.jpg
 - alt: Park Andersa - strona 3
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona3.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/Park-Andersa-strona3.jpg
 - alt: Rzut nawarstwienia
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_rzut_nawarstwienia.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_rzut_nawarstwienia.jpg
 - alt: Miski
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_miski-scaled.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_miski-scaled.jpg
 - alt: Plac zabaw dla małych dzieci
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_male-dzieci_.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_male-dzieci_.jpg
 - alt: Polana rekreacyjna
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_polana_.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_polana_.jpg
 - alt: Tor zabaw
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_tor-zabaw.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_tor-zabaw.jpg
 - alt: Tor zdrowia
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_tor-zdrowia.jpg
+  image_path: /assets/images/portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/layout_grafika-do-galerii_podstawowy_tor-zdrowia.jpg
 layout: single
 permalink: /portfolio/koncepcja-rewitalizacji-parku-andersa-we-wroclawiu/
 project:

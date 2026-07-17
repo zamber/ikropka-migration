@@ -2,32 +2,32 @@
 category: projekty
 description: Park kieszonkowy „Pod Srebrzystym Klonem” we Wrocławiu – projekt zagospodarowania
   terenu z ochroną starodrzewu i drewnianymi chodnikami rampowymi.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/main.jpg
+featured_image: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/main.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo2.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo3.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo3.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo4.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo4.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo5.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo5.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo6.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo6.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo7.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo7.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo8.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo8.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo9.jpg
+  image_path: /assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo9.jpg
 layout: single
 permalink: /portfolio/park-kieszonkowy-pod-srebrzystym-klonem/
 project:

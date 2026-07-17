@@ -2,16 +2,16 @@
 category: projekty
 description: Inwentaryzacja dendrologiczna z analizą możliwości zachowania drzew pomaga
   pogodzić inwestycję z ochroną zieleni. Poznaj zakres opracowania.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj-1.jpg
+featured_image: /assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj-1.jpg
 gallery:
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj2.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj2.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj3.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj3.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj4.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj4.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj5.jpg
+  image_path: /assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj5.jpg
 layout: single
 permalink: /portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/
 project:

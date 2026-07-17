@@ -2,20 +2,20 @@
 category: projekty
 description: Opinia dendrologiczna ocenia wpływ inwestycji na drzewa oraz wskazuje
   zalecenia ich ochrony. Poznaj zakres opracowania i zastosowane rozwiązania.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-slajder.jpg
+featured_image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-slajder.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj1.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj2.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj3.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj3.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj4.jpg
+  image_path: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-zdj4.jpg
 layout: single
 permalink: /portfolio/opinia-wplywu-inwestycji-drzewa/
 project:

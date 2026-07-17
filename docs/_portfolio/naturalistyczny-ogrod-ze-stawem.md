@@ -2,23 +2,23 @@
 category: projekty
 description: Naturalistyczny ogród ze stawem łączy różnorodne nasadzenia, wodę i lokalną
   przyrodę, tworząc harmonijną przestrzeń do wypoczynku.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jpg
+featured_image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jpg
 gallery:
 - alt: Widok ogrodu naturalistycznego ze stawem
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo1.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo1.jpg
 - alt: Kompozycja roślinna w ogrodzie
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo2.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo2.jpg
 - alt: Staw z wyspą w ogrodzie
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo3.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo3.jpg
 - alt: Rabaty bylin i traw ozdobnych
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo4.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo4.jpg
 - alt: Naturalistyczne wnętrze ogrodowe
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo5.jpg
+  image_path: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo5.jpg
 layout: single
 permalink: /portfolio/naturalistyczny-ogrod-ze-stawem/
 project:

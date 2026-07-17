@@ -2,23 +2,23 @@
 category: projekty
 description: Rewitalizacja skweru na Brochowie we Wrocławiu – kameralna przestrzeń
   sąsiedzka z polaną rekreacyjną i alejowymi nasadzeniami drzew.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/layout_slider_Afganska_IKROPKA.jpg
+featured_image: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/layout_slider_Afganska_IKROPKA.jpg
 gallery:
 - alt: Wizualizacja skweru u zbiegu ulic Afgańskiej i Pakistańskiej
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Ikropka-vis-Afganska-02062022.png
+  image_path: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Ikropka-vis-Afganska-02062022.png
 - alt: Wizualizacja skweru nocą
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Ikropka-vis-Afganska-noc-02062022.png
+  image_path: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Ikropka-vis-Afganska-noc-02062022.png
 - alt: Przekrój przez skwer
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/IKROPKA_Afganskja_layoutwyzszy_przekroj1.jpg
+  image_path: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/IKROPKA_Afganskja_layoutwyzszy_przekroj1.jpg
 - alt: Przekrój przez skwer
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/IKROPKA_Afganskja_layoutwyzszy_przekroj2.jpg
+  image_path: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/IKROPKA_Afganskja_layoutwyzszy_przekroj2.jpg
 - alt: Tablica informacyjna projektu
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Tablica-Afganska.png
+  image_path: /assets/images/portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/Tablica-Afganska.png
 layout: single
 permalink: /portfolio/kameralna-przestrzen-sasiedzka-zielonym-centrum-brochowa/
 project:

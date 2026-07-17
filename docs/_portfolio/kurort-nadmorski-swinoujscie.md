@@ -3,38 +3,38 @@ category: projekty
 description: Koncepcja urbanistyczno-architektoniczna zagospodarowania terenów publicznych
   w Dzielnicy Nadmorskiej Świnoujścia, łącząca walory naturalnego krajobrazu z funkcjonalną
   przestrzenią publiczną.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/main.jpg
+featured_image: /assets/images/portfolio/kurort-nadmorski-swinoujscie/main.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj1.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj2.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.1.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.2.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj3.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj4.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj4.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj5.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj5.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj6.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj6.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj7.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj7.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj8.jpg
+  image_path: /assets/images/portfolio/kurort-nadmorski-swinoujscie/zdj8.jpg
 layout: single
 permalink: /portfolio/kurort-nadmorski-swinoujscie/
 project:

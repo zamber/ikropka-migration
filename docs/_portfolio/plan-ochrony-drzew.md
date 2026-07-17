@@ -2,20 +2,20 @@
 category: projekty
 description: Plan ochrony drzew określa zasady zabezpieczenia zieleni podczas inwestycji
   i pomaga skutecznie chronić cenne drzewa. Sprawdź opracowanie.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-1111.jpg
+featured_image: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-1111.jpg
 gallery:
 - alt: Plan ochrony drzew na budowie – ilustracja 1
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-1-1.jpg
 - alt: Plan ochrony drzew na budowie – ilustracja 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-2.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-2.jpg
 - alt: Plan ochrony drzew na budowie – ilustracja 3
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-3.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-3.jpg
 - alt: Plan ochrony drzew na budowie – ilustracja 4
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-4.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-4.jpg
 - alt: Plan ochrony drzew na budowie – ilustracja 5
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-5.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-5.jpg
 - alt: Plan ochrony drzew na budowie – ilustracja 6
-  image_path: {{ site.baseurl }}/assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-6.jpg
+  image_path: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-zdj-6.jpg
 layout: single
 permalink: /portfolio/plan-ochrony-drzew/
 project:

@@ -2,20 +2,20 @@
 category: projekty
 description: Nadzór nad wykonaniem instalacji oświetlenia w Parku Klecińskim zapewnił
   ochronę drzew podczas realizacji inwestycji.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-slider.jpg
+featured_image: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-slider.jpg
 gallery:
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj.jpg
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj3.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj3.jpg
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj2.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj2.jpg
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj4.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj4.jpg
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj6.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj6.jpg
 - alt: Park Kleciński - realizacja inwestycji oświetleniowej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj5.jpg
+  image_path: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj5.jpg
 layout: single
 permalink: /portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/
 project:

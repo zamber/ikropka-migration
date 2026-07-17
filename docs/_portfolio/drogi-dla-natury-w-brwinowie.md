@@ -2,16 +2,16 @@
 category: szkolenia
 description: Szkolenie „Drogi dla Natury” w Brwinowie – IKROPKA uczyła inwentaryzacji
   i ochrony drzew przydrożnych oraz zarządzania drzewostanem alejowym.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-slider-111.jpg
+featured_image: /assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-slider-111.jpg
 gallery:
 - alt: Szkolenie Drogi dla Natury w Brwinowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-1-1.jpg
 - alt: Uczestnicy szkolenia przy drzewach przydrożnych
-  image_path: {{ site.baseurl }}/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-2.jpg
+  image_path: /assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-2.jpg
 - alt: Praktyczne zajęcia podczas szkolenia
-  image_path: {{ site.baseurl }}/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-3.jpg
+  image_path: /assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-3.jpg
 - alt: Inwentaryzacja drzewostanu alejowego
-  image_path: {{ site.baseurl }}/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-4.jpg
+  image_path: /assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-4.jpg
 layout: single
 permalink: /portfolio/drogi-dla-natury-w-brwinowie/
 project:

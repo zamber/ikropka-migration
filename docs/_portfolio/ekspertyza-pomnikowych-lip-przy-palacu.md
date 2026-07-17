@@ -2,18 +2,18 @@
 category: zabytkowe
 description: Ekspertyza pomnikowych lip przy pałacu w Starościnie – badanie tomografem
   sonicznym trzech zabytkowych drzew pod kątem bezpieczeństwa.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/main.jpg
+featured_image: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/main.jpg
 gallery:
 - alt: Pomnikowe lipy przy pałacu w Starościnie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj2.1.jpg
+  image_path: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj2.1.jpg
 - alt: Badanie drzew tomografem sonicznym
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj2.jpg
+  image_path: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj2.jpg
 - alt: Ekspertyza dendrologiczna lip
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj3.jpg
+  image_path: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj3.jpg
 - alt: Pomniki przyrody w Starościnie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj4.jpg
+  image_path: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj4.jpg
 - alt: Tomografia dźwiękowa drzew
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj5.jpg
+  image_path: /assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/Staroscin-zdj5.jpg
 layout: single
 permalink: /portfolio/ekspertyza-pomnikowych-lip-przy-palacu/
 project:

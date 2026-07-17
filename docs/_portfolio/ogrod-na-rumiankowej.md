@@ -2,20 +2,20 @@
 category: projekty
 description: Ogród na Rumiankowej we Wrocławiu – wielofunkcyjny projekt ogrodu przydomowego
   ze strefami zabaw, wypoczynku i uprawy warzyw na 1434 m².
-featured_image: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-slider111.jpg
+featured_image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-slider111.jpg
 gallery:
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-1-1.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-1-1.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-2.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-2.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-3.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-3.jpg
 - alt: ''
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-4.jpg
+  image_path: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-zdj-4.jpg
 layout: single
 permalink: /portfolio/ogrod-na-rumiankowej/
 project:

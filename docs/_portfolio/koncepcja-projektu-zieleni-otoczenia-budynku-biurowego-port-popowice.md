@@ -2,22 +2,22 @@
 category: projekty
 description: Koncepcja zieleni dla inwestycji Port Popowice tworzy atrakcyjne otoczenie
   budynku biurowego z wykorzystaniem nowoczesnych rozwiązań.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/layout_slider_do-500KB-1.jpg
+featured_image: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/layout_slider_do-500KB-1.jpg
 gallery:
 - alt: Wizualizacja otoczenia budynku biurowego Port Popowice
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/Port-Popowice-29_07.png
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/Port-Popowice-29_07.png
 - alt: Widok zieleni wokół budynku biurowego
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/ikropkaport-pop-2-scaled.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/ikropkaport-pop-2-scaled.jpg
 - alt: Wizualizacja architektoniczna inwestycji Port Popowice
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/WXCA_wizu_POPOWICE_1_.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/WXCA_wizu_POPOWICE_1_.jpg
 - alt: Wizualizacja architektoniczna inwestycji Port Popowice
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/WXCA_wizu_POPOWICE_2_.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/WXCA_wizu_POPOWICE_2_.jpg
 - alt: Grafika koncepcyjna projektu zieleni
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/layout_grafika-do-galerii_podstawowy_PW.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/layout_grafika-do-galerii_podstawowy_PW.jpg
 - alt: Rzut projektu zieleni
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/IKROPKA_WXCA_POPO_RZUT_.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/IKROPKA_WXCA_POPO_RZUT_.jpg
 - alt: Zestawienie roślinności projektu
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/zestawienie-roslinnosci-layout.jpg
+  image_path: /assets/images/portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/zestawienie-roslinnosci-layout.jpg
 layout: single
 permalink: /portfolio/koncepcja-projektu-zieleni-otoczenia-budynku-biurowego-port-popowice/
 project:

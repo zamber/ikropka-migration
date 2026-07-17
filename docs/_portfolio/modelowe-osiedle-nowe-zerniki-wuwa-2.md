@@ -2,24 +2,24 @@
 category: projekty
 description: Modelowe osiedle Nowe Żerniki WUWA 2 we Wrocławiu – projekt zieleni z
   zielonym dachem targowiska i pagórkowatą przestrzenią wspólną.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/main.jpg
+featured_image: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/main.jpg
 gallery:
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo1.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo1.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo2.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo2.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo3.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo3.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo4.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo4.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo5.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo5.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo6.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo6.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo7.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo7.jpg
 - alt: Wizualizacja modelowego osiedla Nowe Żerniki WUWA 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo8.jpg
+  image_path: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo8.jpg
 layout: single
 permalink: /portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/
 project:

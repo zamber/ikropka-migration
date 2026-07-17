@@ -2,16 +2,16 @@
 category: projekty
 description: Projekt ogrodu na Złotnikach tworzy funkcjonalną przestrzeń wypoczynku
   z odpowiednio dobraną zielenią i nowoczesnymi rozwiązaniami.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-zlotnikach/slider2.jpg
+featured_image: /assets/images/portfolio/ogrod-na-zlotnikach/slider2.jpg
 gallery:
 - alt: Widok ogrodu na Złotnikach 1
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-zlotnikach/zdj-1.jpg
+  image_path: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-1.jpg
 - alt: Widok ogrodu na Złotnikach 2
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-zlotnikach/zdj-2.jpg
+  image_path: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-2.jpg
 - alt: Widok ogrodu na Złotnikach 3
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-zlotnikach/zdj-3.jpg
+  image_path: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-3.jpg
 - alt: Widok ogrodu na Złotnikach 4
-  image_path: {{ site.baseurl }}/assets/images/portfolio/ogrod-na-zlotnikach/zdj-4.jpg
+  image_path: /assets/images/portfolio/ogrod-na-zlotnikach/zdj-4.jpg
 layout: single
 permalink: /portfolio/ogrod-na-zlotnikach/
 project:

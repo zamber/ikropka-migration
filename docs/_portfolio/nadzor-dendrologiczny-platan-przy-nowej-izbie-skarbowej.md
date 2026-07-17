@@ -2,32 +2,32 @@
 category: projekty
 description: Nadzór dendrologiczny nad ochroną platana podczas budowy Izby Skarbowej
   we Wrocławiu – jak uratowano drzewo warte 1 mln zł.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/slider111.jpg
+featured_image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/slider111.jpg
 gallery:
 - alt: Platan klonolistny przy budowie Izby Skarbowej we Wrocławiu
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-1-1.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-1-1.jpg
 - alt: Ochrona platana na terenie budowy
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-2.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-2.jpg
 - alt: Platan w otoczeniu nowej inwestycji
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-3.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-3.jpg
 - alt: Zabezpieczenie drzewa podczas prac budowlanych
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-4.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-4.jpg
 - alt: Platan przy nowej siedzibie Izby Skarbowej
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-5.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-5.jpg
 - alt: Strefa przy drzewie po zakończeniu budowy
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-6.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-6.jpg
 - alt: Zagospodarowanie terenu wokół platanu
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-7.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-7.jpg
 - alt: Drzewo po zakończeniu inwestycji
   caption: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-8.jpg
+  image_path: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/zdj-8.jpg
 layout: single
 permalink: /portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/
 project:

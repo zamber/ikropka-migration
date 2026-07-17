@@ -2,28 +2,28 @@
 category: zabytkowe
 description: Operat dendrologiczny wykonany dla inwestycji w Łagowie obejmuje ocenę
   drzewostanu i zalecenia ochronne.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj-1-1.jpg
+featured_image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj-1-1.jpg
 gallery:
 - alt: Inwentaryzacja dendrologiczna w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj3.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj3.jpg
 - alt: Drzewostan w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj4.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj4.jpg
 - alt: Pomiary dendrometryczne drzew
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj9.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj9.jpg
 - alt: Zabytkowy drzewostan w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj10.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj10.jpg
 - alt: Drzewa w parku pałacowym
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj11.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj11.jpg
 - alt: Inwentaryzacja zieleni w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj12.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj12.jpg
 - alt: Ocena stanu zdrowotnego drzewostanu
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj13.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj13.jpg
 - alt: Zabytkowe drzewa w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj17.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj17.jpg
 - alt: Pałac i park w Łagowie
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj15.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj15.jpg
 - alt: Szczegóły inwentaryzacji dendrologicznej
-  image_path: {{ site.baseurl }}/assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj16.jpg
+  image_path: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj16.jpg
 layout: single
 permalink: /portfolio/operat-dendrologiczny-lagowie/
 project:

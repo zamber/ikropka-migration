@@ -2,24 +2,24 @@
 category: projekty
 description: Koncepcja aranżacji przestrzeni fabryki Diehl Controls w Namysłowie –
   strefy wypoczynku i wejścia dla pracowników w stylu upcyklingowym i industrialnym.
-featured_image: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_SLIDER_1.jpg
+featured_image: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_SLIDER_1.jpg
 gallery:
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA4.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA4.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA3.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA3.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_4.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_4.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA2.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA2.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_5.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_5.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_6.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_6.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_7.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_7.jpg
 - alt: ''
-  image_path: {{ site.baseurl }}/assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_8.jpg
+  image_path: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_GALERIA_8.jpg
 layout: single
 permalink: /portfolio/koncepcja-aranzacji-przestrzeni-fabryki/
 project:
