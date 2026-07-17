@@ -5,8 +5,8 @@ date: '2026-07-16'
 description: 'IKROPKA projektuje za granicą – pierwsza zagraniczna realizacja: ogród
   przydomowy w Görlitz w otoczeniu zabytkowego pałacu. Poznaj kulisy projektu!'
 header:
-  image: {{ site.baseurl }}/assets/images/news/umowa_fikropka.jpg
-  teaser: {{ site.baseurl }}/assets/images/news/umowa_fikropka.jpg
+  image: /assets/images/news/umowa_fikropka.jpg
+  teaser: /assets/images/news/umowa_fikropka.jpg
 layout: single
 tags:
 - zagranica

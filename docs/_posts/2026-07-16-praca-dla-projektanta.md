@@ -5,8 +5,8 @@ date: '2026-07-16'
 description: Szukasz pracy jako projektant? Dołącz do zespołu IKROPKA i twórz projekty
   zieleni, przestrzeni publicznych oraz architektury krajobrazu.
 header:
-  image: {{ site.baseurl }}/assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
-  teaser: {{ site.baseurl }}/assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
+  image: /assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
+  teaser: /assets/images/news/PRACA-DLA-ARCHITEKTA-KRAJOBRAZU-LUB-ARCHITEKTA-1.png
 layout: single
 tags:
 - praca
