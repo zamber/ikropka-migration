@@ -1,0 +1,44 @@
+---
+categories:
+- aktualności
+- arborystyka
+date: 2026-03-17
+description: Zdobyliśmy uprawnienia European Tree Technician, potwierdzające wysokie
+  kompetencje w arborystyce i diagnostyce drzew. Dowiedz się więcej.
+header:
+  image: /assets/images/Nowy-projekt-3.jpg
+  teaser: /assets/images/news/Nowy-projekt-3.jpg
+layout: single
+tags:
+- ETT
+- European Tree Technician
+- arborystyka
+- dendrologia
+- certyfikacja
+- Paweł Andrzejczuk
+title: Posiadamy nowe uprawnienia branżowe – ETT European Tree Technician – ekspert
+  arborysta dendrolog
+---
+
+W październiku 2025 r. członek naszego zespołu - Paweł Andrzejczuk – ekspert arborystyczny i dendrolog z Wrocławia - po rocznym kursie specjalistycznym w Akademii Arborystyki zdał z bardzo dobrym wynikiem trudny, wymagający egzamin branżowy, uzyskując prestiżowy tytuł certyfikacji ETT - European Tree Technician. Certyfikacja nadawana jest przez Europejską Radę do Spraw Drzew (EAC - European Arboriculture Council). Uprawnienia branżowe ETT są poświadczeniem najwyższych kwalifikacji na poziomie ogólnoeuropejskim w zakresie wiedzy i kompetencji z dziedziny arborystyki, pielęgnacji drzew.
+
+
+Wieloletnie praktyczne doświadczenie Pawła Andrzejczuka z zakresu dendrologii i arborystyki zdobyte w czynnym wykonywaniu wszelkich opracowań specjalistycznych dotyczących drzew – **inwentaryzacji dendrologicznych, operatów dendrologicznych, opinii i ekspertyz dendrologicznych**, a także świadczenia usług takich jak **nadzory dendrologiczne, przeglądy drzew pod kątem bezpieczeństwa, doradztwo dotyczące bezpieczeństwa drzew** (czy **bezpieczeństwa w otoczeniu drzew**) połączona z nowo zdobytymi uprawnieniami branżowymi (certyfikat ETT – European Tree Technician) gwarantuje jakość usług naszej firmy Pracowni IKROPKA na najwyższym, europejskim poziomie.
+
+**Zakres uprawnień ETT European Tree Technician – uprawnionego specjalisty arborysty i dendrologii**
+
+- specjalista w zakresie organizowania, prowadzenie prac / kierowanie pracami na drzewach oraz w ich sąsiedztwie
+- specjalista w zakresie nadzorowanie prac na drzewach oraz w ich sąsiedztwie, weryfikowanie zasadności i poprawności wykonywanych działań przy drzewach (odbiory prac)
+- specjalista w zakresie organizowania, zarządzania i nadzorowania pracą ETW (European Tree Worker) oraz innymi osobami pracującymi przy drzewach
+- specjalista w zakresie analiz dokumentacji dotyczącej drzew, zagadnień prawnych, przedmiarowania i kosztorysowania robót.
+
+**O organizacji egzaminującej i nadającej certyfikację ETT – European Tree Technician:**
+
+*European Arboricultural Council (EAC) – Europejska Rada do Spraw Drzew jest organizacją europejską, mającą na celu podnoszenie statusu i profesjonalnego poziomu kompetencji w uprawie drzew, co jest osiągane przez badania i edukację. W EAC znajdują się organizacje arborystyczne z Austrii, Belgii, Chorwacji, Czech, Danii, Finlandii, Niemiec, Francji, Włoch, Holandii, Norwegii, Polski, Rumunii, Hiszpanii, Szwecji, Szwajcarii i Wielkiej Brytanii. EAC realizuje swoje cele poprzez organizowanie jednolitych szkoleń:*
+
+- *European Tree Worker, którego zadaniem jest wykształcenie wysoko wyspecjalizowanych pracowników, wykonujących bezpośrednio prace związane z pielęgnacją i uprawą drzew,*
+- *European Tree Technician, którego zadaniem jest wykształcenie wysoko wyspecjalizowanych inspektorów nadzoru prac pielęgnacyjnych drzew.*
+
+*Efektem tych szkoleń są certyfikaty uznawane w krajach Unii Europejskiej, jak również, na mocy porozumienia z International Society of Arboriculture (ISA), poza Unią Europejską – na całym świecie. (za: Akademia Arborystyki)*
+
+
