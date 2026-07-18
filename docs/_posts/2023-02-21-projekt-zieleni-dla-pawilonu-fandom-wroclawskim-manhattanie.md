@@ -1,7 +1,7 @@
 ---
 categories:
 - aktualności
-date: '2026-07-16'
+date: 2023-02-21
 description: Projekt zieleni dla pawilonu FANDOM na wrocławskim Manhattanie tworzy
   funkcjonalną i atrakcyjną przestrzeń z wykorzystaniem nowoczesnych nasadzeń.
 header:

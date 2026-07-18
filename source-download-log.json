@@ -1,0 +1,1236 @@
+{
+  "park-kieszonkowy-ogrod-pereca": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/park-kieszonkowy-ogrod-pereca/",
+    "imagesFound": 17,
+    "matched": 17,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-1.jpg",
+        "repoFilename": "Ogrody-Pereca-zdj-1.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-2.jpg",
+        "repoFilename": "Ogrody-Pereca-zdj-2.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-3.jpg",
+        "repoFilename": "Ogrody-Pereca-zdj-3.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca3-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca3-min.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca1-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca1-min.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca2-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca2-min.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/3-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca6-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca6-min.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/44.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos6.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca7-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca7-min.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/555.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca9-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca9-min.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/6-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos8.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca10-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca10-min.jpg",
+        "position": 9,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/05/kafelek-3.png",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos9.jpg",
+        "mimeType": "image/png"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca12-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca12-min.jpg",
+        "position": 10,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/05/kafelek-4.png",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos10.jpg",
+        "mimeType": "image/png"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca11-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca11-min.jpg",
+        "position": 11,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/03/layout_kafelek_ok150KB-1-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos11.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca8-min_optimized.jpg",
+        "repoFilename": "ikropka-ogrod-pereca8-min_optimized.jpg",
+        "position": 12,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/03/jskimage-e1679473485840.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos12.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca5-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca5-min.jpg",
+        "position": 13,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Muzeu-Okr%C4%99gowe-Ziemi-Kaliskiej.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos13.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/ikropka-ogrod-pereca4-min.jpg",
+        "repoFilename": "ikropka-ogrod-pereca4-min.jpg",
+        "position": 14,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Zesp%C3%B3%C5%82-Szk%C3%B3%C5%82-Og%C3%B3lnokszta%C5%82c%C4%85cych-nr-3-LO-IX-we-Wroc%C5%82awiu.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos14.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja-min_optimized.jpg",
+        "repoFilename": "park-kieszonkowy-pereca-realizacja-min_optimized.jpg",
+        "position": 15,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Wroc%C5%82awska-Rewitalizacja.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos15.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-ogrod-pereca/park-kieszonkowy-pereca-realizacja2-min.jpg",
+        "repoFilename": "park-kieszonkowy-pereca-realizacja2-min.jpg",
+        "position": 16,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/budimex-Parking-Wroc%C5%82aw-v.4.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-ogrod-pereca-pos16.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "kwiaty-na-rondzie-ogrod-miejski": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/kwiaty-na-rondzie-ogrod-miejski/",
+    "imagesFound": 17,
+    "matched": 16,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY2-min.jpg",
+        "repoFilename": "IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY2-min.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-3-min.jpg",
+        "repoFilename": "ikropka-rondo-3-min.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich3.jpg",
+        "repoFilename": "ikropka-rondo-powstańców-śląskich3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-powstańców-śląskich1.jpg",
+        "repoFilename": "ikropka-rondo-powstańców-śląskich1.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-2-min.jpg",
+        "repoFilename": "ikropka-rondo-2-min.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/3-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-9-min.jpg",
+        "repoFilename": "ikropka-rondo-9-min.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/44.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos6.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-5-min.jpg",
+        "repoFilename": "ikropka-rondo-5-min.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/555.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-1-min.jpg",
+        "repoFilename": "ikropka-rondo-1-min.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/6-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos8.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/ikropka-rondo-4-min.jpg",
+        "repoFilename": "ikropka-rondo-4-min.jpg",
+        "position": 9,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/05/kafelek-3.png",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos9.jpg",
+        "mimeType": "image/png"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY-min.jpg",
+        "repoFilename": "IKROPKA_KWIATY-NA-RONDZIE-PODSTAWOWY-min.jpg",
+        "position": 10,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/05/kafelek-4.png",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos10.jpg",
+        "mimeType": "image/png"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj1.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj1.jpg",
+        "position": 11,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2026/03/layout_kafelek_ok150KB-1-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos11.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj10.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj10.jpg",
+        "position": 12,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/03/jskimage-e1679473485840.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos12.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj30.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj30.jpg",
+        "position": 13,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Muzeu-Okr%C4%99gowe-Ziemi-Kaliskiej.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos13.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj40.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj40.jpg",
+        "position": 14,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Zesp%C3%B3%C5%82-Szk%C3%B3%C5%82-Og%C3%B3lnokszta%C5%82c%C4%85cych-nr-3-LO-IX-we-Wroc%C5%82awiu.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos14.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj50.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj50.jpg",
+        "position": 15,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/Wroc%C5%82awska-Rewitalizacja.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos15.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/kwiaty-na-rondzie_ikropka_zdj61.jpg",
+        "repoFilename": "kwiaty-na-rondzie_ikropka_zdj61.jpg",
+        "position": 16,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/budimex-Parking-Wroc%C5%82aw-v.4.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/kwiaty-na-rondzie-ogrod-miejski-pos16.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "nadzor-przyrodniczy-parku-szczytnickim": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/nadzor-przyrodniczy-parku-szczytnickim/",
+    "imagesFound": 13,
+    "matched": 13,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/01/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo1.jpg",
+        "repoFilename": "photo1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo2.jpg",
+        "repoFilename": "photo2.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo3.jpg",
+        "repoFilename": "photo3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-3.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo4.jpg",
+        "repoFilename": "photo4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-4.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo5.jpg",
+        "repoFilename": "photo5.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-5.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo6.jpg",
+        "repoFilename": "photo6.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-6.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos6.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo7.jpg",
+        "repoFilename": "photo7.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-7.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo8.jpg",
+        "repoFilename": "photo8.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-8.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos8.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo9.jpg",
+        "repoFilename": "photo9.jpg",
+        "position": 9,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-9.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos9.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo10.jpg",
+        "repoFilename": "photo10.jpg",
+        "position": 10,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-10.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos10.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo11.jpg",
+        "repoFilename": "photo11.jpg",
+        "position": 11,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-11.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos11.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/photo12.jpg",
+        "repoFilename": "photo12.jpg",
+        "position": 12,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/nadz%C3%B3r-przyrodniczy-park-Szczytnicki-zdj-12.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-przyrodniczy-parku-szczytnickim-pos12.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "modelowe-osiedle-nowe-zerniki-wuwa-2": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/modelowe-osiedle-nowe-zerniki-wuwa-2/",
+    "imagesFound": 9,
+    "matched": 9,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo1.jpg",
+        "repoFilename": "photo1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo2.jpg",
+        "repoFilename": "photo2.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo3.jpg",
+        "repoFilename": "photo3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-3.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo4.jpg",
+        "repoFilename": "photo4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-4.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo5.jpg",
+        "repoFilename": "photo5.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-5.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo6.jpg",
+        "repoFilename": "photo6.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-6.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos6.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo7.jpg",
+        "repoFilename": "photo7.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-7.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/photo8.jpg",
+        "repoFilename": "photo8.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Nowe-%C5%BBerniki-zdj-8.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/modelowe-osiedle-nowe-zerniki-wuwa-2-pos8.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "park-kieszonkowy-pod-srebrzystym-klonem": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/park-kieszonkowy-pod-srebrzystym-klonem/",
+    "imagesFound": 17,
+    "matched": 9,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo2.jpg",
+        "repoFilename": "photo2.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo3.jpg",
+        "repoFilename": "photo3.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo4.jpg",
+        "repoFilename": "photo4.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo5.jpg",
+        "repoFilename": "photo5.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo6.jpg",
+        "repoFilename": "photo6.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/3-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo7.jpg",
+        "repoFilename": "photo7.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/44.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos6.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo8.jpg",
+        "repoFilename": "photo8.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/555.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-kieszonkowy-pod-srebrzystym-klonem/photo9.jpg",
+        "repoFilename": "photo9.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/6-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-kieszonkowy-pod-srebrzystym-klonem-pos8.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "park-przygody-w-parku-andersa": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/park-przygody-w-parku-andersa/",
+    "imagesFound": 17,
+    "matched": 8,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/layout_slider_Andersa_do-500KB.jpg",
+        "repoFilename": "layout_slider_Andersa_do-500KB.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-hustawki-podsatawowy_Ikropka.png",
+        "repoFilename": "Park-Andersa-hustawki-podsatawowy_Ikropka.png",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-przygoda-podstawowy_Ikropka.png",
+        "repoFilename": "Park-Andersa-przygoda-podstawowy_Ikropka.png",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-sport-podstawowy_Ikropka.png",
+        "repoFilename": "Park-Andersa-sport-podstawowy_Ikropka.png",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/Park-Andersa-zdrowie-podstawowy_Ikropka.png",
+        "repoFilename": "Park-Andersa-zdrowie-podstawowy_Ikropka.png",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/layout_grafika-do-galerii_wyzszy_rzut.jpg",
+        "repoFilename": "layout_grafika-do-galerii_wyzszy_rzut.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/3-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa.jpg",
+        "repoFilename": "zestawienie-roślinności-layout-Andersa.jpg",
+        "position": 7,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/555.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos7.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-przygody-w-parku-andersa/zestawienie-roślinności-layout-Andersa_2.jpg",
+        "repoFilename": "zestawienie-roślinności-layout-Andersa_2.jpg",
+        "position": 8,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/6-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-przygody-w-parku-andersa-pos8.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/",
+    "imagesFound": 7,
+    "matched": 7,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-slider.jpg",
+        "repoFilename": "nadzor-park-klecinski-slider.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_slider_ikropka.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj3.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj3.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj3_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj2.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj2.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj2_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj4.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj4_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj6.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj6.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj6_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-zdj5.jpg",
+        "repoFilename": "nadzor-park-klecinski-zdj5.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/08/Nadz%C3%B3r-Park-Kleci%C5%84ski_zdj5_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw-pos6.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "park-mlodziezowy-w-swidnicy": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/park-mlodziezowy-w-swidnicy/",
+    "imagesFound": 17,
+    "matched": 7,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-slider-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-slider-1.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj4-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj4-1.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj5-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj5-1.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj2-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj2-1.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj3-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj3-1.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/3-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos5.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/park-mlodziezowy-w-swidnicy/Park-Mlodziezowy-zdj1-1.jpg",
+        "repoFilename": "Park-Mlodziezowy-zdj1-1.jpg",
+        "position": 6,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/44.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/park-mlodziezowy-w-swidnicy-pos6.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "naturalistyczny-ogrod-ze-stawem": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/naturalistyczny-ogrod-ze-stawem/",
+    "imagesFound": 6,
+    "matched": 6,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-slider_ikropka.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo1.jpg",
+        "repoFilename": "photo1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-zdj_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo2.jpg",
+        "repoFilename": "photo2.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-zdj1_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo3.jpg",
+        "repoFilename": "photo3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-zdj2_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo4.jpg",
+        "repoFilename": "photo4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-zdj3_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos4.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/photo5.jpg",
+        "repoFilename": "photo5.jpg",
+        "position": 5,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/07/Ogr%C3%B3d-naturalistyczny-Uskorz-Ma%C5%82y-zdj4_ikropka.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/naturalistyczny-ogrod-ze-stawem-pos5.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "drogi-dla-natury-w-brwinowie": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/drogi-dla-natury-w-brwinowie/",
+    "imagesFound": 17,
+    "matched": 5,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-slider-111.jpg",
+        "repoFilename": "Szkolenie-Brwin-w-slider-111.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/drogi-dla-natury-w-brwinowie-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-1-1.jpg",
+        "repoFilename": "Szkolenie-Brwin-w-zdj-1-1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drogi-dla-natury-w-brwinowie-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-2.jpg",
+        "repoFilename": "Szkolenie-Brwin-w-zdj-2.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drogi-dla-natury-w-brwinowie-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-3.jpg",
+        "repoFilename": "Szkolenie-Brwin-w-zdj-3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drogi-dla-natury-w-brwinowie-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drogi-dla-natury-w-brwinowie/Szkolenie-Brwin-w-zdj-4.jpg",
+        "repoFilename": "Szkolenie-Brwin-w-zdj-4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drogi-dla-natury-w-brwinowie-pos4.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/",
+    "imagesFound": 17,
+    "matched": 5,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj-1.jpg",
+        "repoFilename": "Pawia-zdj-1.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj2.jpg",
+        "repoFilename": "Pawia-zdj2.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj3.jpg",
+        "repoFilename": "Pawia-zdj3.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj4.jpg",
+        "repoFilename": "Pawia-zdj4.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew/Pawia-zdj5.jpg",
+        "repoFilename": "Pawia-zdj5.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/06/2-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/inwentaryzacja-dendrologiczna-z-analiza-mozliwosci-zachowania-drzew-pos4.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "operat-projekt-nasadzen-kompensacyjnych": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/operat-projekt-nasadzen-kompensacyjnych/",
+    "imagesFound": 5,
+    "matched": 5,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/02/operat-i-proj-nasadze%C5%84-Wojkowice-zdj1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/operat-projekt-nasadzen-kompensacyjnych-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo1.jpg",
+        "repoFilename": "photo1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/02/operat-i-proj-nasadze%C5%84-Wojkowice-zdj-2.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/operat-projekt-nasadzen-kompensacyjnych-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo2.jpg",
+        "repoFilename": "photo2.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/02/operat-i-proj-nasadze%C5%84-Wojkowice-zdj-3.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/operat-projekt-nasadzen-kompensacyjnych-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo3.jpg",
+        "repoFilename": "photo3.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/02/operat-i-proj-nasadze%C5%84-Wojkowice-zdj-4.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/operat-projekt-nasadzen-kompensacyjnych-pos3.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/photo4.jpg",
+        "repoFilename": "photo4.jpg",
+        "position": 4,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/02/operat-i-proj-nasadze%C5%84-Wojkowice-zdj-5.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/operat-projekt-nasadzen-kompensacyjnych-pos4.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "drzewo-na-placu-budowy": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/drzewo-na-placu-budowy/",
+    "imagesFound": 17,
+    "matched": 4,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-slider.jpg",
+        "repoFilename": "Drzewo-na-placu-budowy-jesion-slider.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/04/layout_slider_do-500KB_www1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/drzewo-na-placu-budowy-pos0.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-1-1.jpg",
+        "repoFilename": "Drzewo-na-placu-budowy-jesion-zdj-1-1.jpg",
+        "position": 1,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/2.-budowa-Z-TEREN%C3%93W-DSC04016-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drzewo-na-placu-budowy-pos1.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-3.jpg",
+        "repoFilename": "Drzewo-na-placu-budowy-jesion-zdj-3.jpg",
+        "position": 2,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/03/3.-mierzenie-drzewa-Z-TEREN%C3%93W-DSC03679-1.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drzewo-na-placu-budowy-pos2.jpg",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "repoPath": "/assets/images/portfolio/drzewo-na-placu-budowy/Drzewo-na-placu-budowy-jesion-zdj-2.jpg",
+        "repoFilename": "Drzewo-na-placu-budowy-jesion-zdj-2.jpg",
+        "position": 3,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2023/02/layout_kafelek_Andersa2_ok150KB.jpg",
+        "type": "gallery",
+        "downloadedPath": "../final-source-images/drzewo-na-placu-budowy-pos3.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "cmentarz-w-plocku": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/cmentarz-w-plocku/",
+    "imagesFound": 7,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/cmentarz-w-plocku/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/cmentarz-w-P%C5%82ocku-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/cmentarz-w-plocku-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "ekspertyza-dla-debu-wlosta": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/ekspertyza-dla-debu-wlosta/",
+    "imagesFound": 4,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/ekspertyza-dla-debu-wlosta/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Ekspertyza-D%C4%85b-W%C5%82osta-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/ekspertyza-dla-debu-wlosta-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "ekspertyza-pomnikowych-lip-przy-palacu": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/ekspertyza-pomnikowych-lip-przy-palacu/",
+    "imagesFound": 6,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/ekspertyza-pomnikowych-lip-przy-palacu/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2019/01/Staro%C5%9Bcin-zdj1.-2.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/ekspertyza-pomnikowych-lip-przy-palacu-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "konferencja-w-otrebusach": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/konferencja-w-otrebusach/",
+    "imagesFound": 6,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/konferencja-w-otrebusach/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Konferencja-w-Otr%C4%99busach-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/konferencja-w-otrebusach-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "kurort-nadmorski-swinoujscie": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/kurort-nadmorski-swinoujscie/",
+    "imagesFound": 11,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/kurort-nadmorski-swinoujscie/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/12/slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/kurort-nadmorski-swinoujscie-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "ocena-zniszczen-drzewa": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/ocena-zniszczen-drzewa/",
+    "imagesFound": 5,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/ocena-zniszczen-drzewa/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/12/Ekspertyza-jarz%C4%85b-slider-a.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/ocena-zniszczen-drzewa-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "ochrona-zarzadzanie-drzewostanem": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/ochrona-zarzadzanie-drzewostanem/",
+    "imagesFound": 5,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Szkolenie-Nowe-Skalmierzyce-slider111.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/ochrona-zarzadzanie-drzewostanem-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "opinia-dendrologiczna-dla-debu-pomnika-przyrody": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/opinia-dendrologiczna-dla-debu-pomnika-przyrody/",
+    "imagesFound": 6,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2018/11/Matejki-zdj-1.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/opinia-dendrologiczna-dla-debu-pomnika-przyrody-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  },
+  "park-w-bialaczowie": {
+    "ikropkaUrl": "https://ikropka.eu/projekt/park-w-bialaczowie/",
+    "imagesFound": 13,
+    "matched": 1,
+    "matches": [
+      {
+        "repoPath": "/assets/images/portfolio/park-w-bialaczowie/main.jpg",
+        "repoFilename": "main.jpg",
+        "position": 0,
+        "sourceUrl": "https://ikropka.eu/wp-content/uploads/2017/07/Bia%C5%82acz%C3%B3w-slider.jpg",
+        "type": "featured",
+        "downloadedPath": "../final-source-images/park-w-bialaczowie-pos0.jpg",
+        "mimeType": "image/jpeg"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 ---
 categories:
 - aktualności
-date: '2026-07-16'
+date: 2019-12-18
 description: Łąki kwietne w projekcie „Kwiaty na Rondzie” we Wrocławiu – antysmogowa
   mieszanka roślin łąkowych na Placu Powstańców Śląskich. Zobacz szczegóły projektu!
 header:
