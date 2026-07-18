@@ -33,8 +33,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-##
-
 Powstała w 2007 roku Pracownia Architektury Krajobrazu IKROPKA na przestrzeni lat zyskała renomę profesjonalnego, rzetelnego i terminowego wykonawcy. Swoją ofertę kieruje zarówno do osób prywatnych, jak i architektów, inwestorów, samorządów. Klient może liczyć na profesjonalną obsługę i fachowe doradztwo. Każdy projekt wykonany zostanie z szacunkiem do środowiska naturalnego.
 
 {% include feature_row %}
@@ -60,12 +58,12 @@ Pracownia Architektury Krajobrazu IKROPKA pomaga swoim Klientom w czynnościach 
 
 ## Nasze atuty
 
-- **PODEJMUJEMY KAŻDE WYZWANIE**: 
-- **PROJEKTY FUNKCJONALNE I OPARTE NA PRZYRODZIE (NBS)**: 
-- **TERMINOWOŚĆ PRZEDE WSZYSTKIM**: 
-- **WIELOLETNIE DOŚWIADCZENIE OD 2003 ROKU**: 
-- **ZESPÓŁ PROFESJONALISTÓW**: 
-- **DBAMY O TWOJĄ INWESTYCJĘ**: 
+- **PODEJMUJEMY KAŻDE WYZWANIE** - Żaden projekt nie jest dla nas zbyt trudny. Specjalizujemy się w złożonych inwestycjach, obiektach zabytkowych i wymagających terenach.
+- **PROJEKTY FUNKCJONALNE I OPARTE NA PRZYRODZIE (NBS)** - Tworzymy rozwiązania oparte na naturze (Nature-Based Solutions), które łączą funkcjonalność z dbałością o środowisko.
+- **TERMINOWOŚĆ PRZEDE WSZYSTKIM** - Dotrzymujemy terminów. Twoja inwestycja nie będzie opóźniona z naszej winy.
+- **WIELOLETNIE DOŚWIADCZENIE OD 2003 ROKU** - Ponad 20 lat praktyki w architekturze krajobrazu i dendrologii. Setki zrealizowanych projektów.
+- **ZESPÓŁ PROFESJONALISTÓW** - Dendrolodzy, architekci krajobrazu, inspektorzy nadzoru - wykwalifikowani specjaliści z uprawnieniami.
+- **DBAMY O TWOJĄ INWESTYCJĘ** - Pełna obsługa od projektu, przez nadzór, aż po odbiór. Jesteśmy z Tobą na każdym etapie. 
 
 ## Wybrane projekty
 
@@ -128,25 +126,25 @@ Zapoznaj się z naszymi najnowszymi realizacjami:
 }
 </style>
 
-## Referencje
+## Co mówią o nas klienci?
 
-> 
+> "Polecamy Pracownię Architektury Krajobrazu IKROPKA jako solidnego partnera do współpracy w ramach zadań związanych z dendrologią i obiektami zabytkowymi."
 >
-> — ****, 
+> — **Wejherowski Zarząd Nieruchomości Komunalnych**, 2019
 
-> 
+> "Pani Dominika Krop-Andrzejczuk wraz z Jej zespołem jest fachowym i doświadczonym wykonawcą projektów zieleni miejskiej i dachów zielonych."
 >
-> — ****, 
+> — **JSK Architekci**, 2019
 
-> 
+> "PAK IKROPKA jest fachowym i doświadczonym projektantem zagospodarowania terenów zieleni. Polecamy współpracę."
 >
-> — ****, 
+> — **ARCHICOM**, 2018
 
-> 
+> "Zespół kierowany przez Dominikę Krop wykazuje się znajomością szerokiej wiedzy z dendrologii, fauny, flory i ich znaczenia dla środowiska."
 >
-> — ****, 
+> — **Urząd Miasta i Gminy w Strzelinie**, 2017
 
-> 
->
-> — ****, 
 
+
+[Zobacz wszystkie referencje (60+)](/ikropka-migration/referencje/){: .btn .btn--info}
+{: .text-center}

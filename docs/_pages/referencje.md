@@ -9,13 +9,10 @@ description: "Ponad 60 referencji od zadowolonych klientów - gminy, deweloperzy
 
 Od 2006 roku realizujemy projekty z zakresu architektury krajobrazu i dendrologii dla klientów w całej Polsce. Poniżej znajdziesz **ponad 60 referencji** od zadowolonych klientów.
 
-<div class="references-intro">
-  <p><strong>18 lat doświadczenia</strong> • <strong>60+ projektów</strong> • <strong>100% zadowolonych klientów</strong></p>
-</div>
+**18 lat doświadczenia** • **60+ projektów** • **100% zadowolonych klientów**
+{: .text-center .notice--info}
 
 ---
-
-<div class="references-list">
 
 ### 2023
 
@@ -364,102 +361,12 @@ Od 2006 roku realizujemy projekty z zakresu architektury krajobrazu i dendrologi
 
 > Mogę polecić Panią Dominikę Krop jako pracownika kompetentnego i fachowca w swojej dziedzinie.
 
-</div>
-
 ---
 
-<div class="cta-section">
-  <h3>Chcesz dołączyć do grona zadowolonych klientów?</h3>
-  <p>Skontaktuj się z nami - chętnie omówimy Twój projekt.</p>
-  <a href="{{ '/kontakt/' | relative_url }}" class="btn btn--primary btn--large">Skontaktuj się z nami</a>
-</div>
+**Chcesz dołączyć do grona zadowolonych klientów?**
+Skontaktuj się z nami - chętnie omówimy Twój projekt.
 
-<style>
-.references-intro {
-  text-align: center;
-  margin: 2rem 0 3rem;
-  padding: 1.5rem;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 8px;
-}
+[Skontaktuj się z nami](/ikropka-migration/kontakt/){: .btn .btn--primary .btn--large}
+{: .text-center}
 
-.references-intro p {
-  font-size: 1.1rem;
-  color: #52adc8;
-  font-weight: bold;
-  margin: 0;
-}
-
-.references-list {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.references-list h3 {
-  color: #52adc8;
-  border-bottom: 3px solid #52adc8;
-  padding-bottom: 0.5rem;
-  margin-top: 3rem;
-  margin-bottom: 2rem;
-}
-
-.references-list h3:first-child {
-  margin-top: 0;
-}
-
-.references-list strong {
-  color: #333;
-  font-size: 1.1rem;
-  display: block;
-  margin-bottom: 0.25rem;
-}
-
-.references-list em {
-  color: #666;
-  font-size: 0.9rem;
-  display: block;
-  margin-bottom: 0.75rem;
-}
-
-.references-list blockquote {
-  border-left: 4px solid #52adc8;
-  padding-left: 1rem;
-  margin: 0 0 2rem 0;
-  color: #555;
-  font-style: italic;
-  background: #f8f9fa;
-  padding: 1rem;
-  border-radius: 4px;
-}
-
-.references-list hr {
-  border: none;
-  border-top: 1px solid #eee;
-  margin: 2rem 0;
-}
-
-.cta-section {
-  margin: 4rem 0 2rem;
-  padding: 3rem 2rem;
-  background: linear-gradient(135deg, #52adc8 0%, #3a8ba0 100%);
-  color: white;
-  border-radius: 12px;
-  text-align: center;
-}
-
-.cta-section h3 {
-  margin-top: 0;
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-}
-
-.cta-section p {
-  font-size: 1.1rem;
-  margin-bottom: 2rem;
-}
-
-.btn--large {
-  padding: 1rem 2.5rem;
-  font-size: 1.1rem;
-}
-</style>
+<!-- Old CSS removed - using Minimal Mistakes built-in styles instead -->
