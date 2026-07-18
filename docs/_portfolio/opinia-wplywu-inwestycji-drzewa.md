@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Opinia dendrologiczna ocenia wpływ inwestycji na drzewa oraz wskazuje
   zalecenia ich ochrony. Poznaj zakres opracowania i zastosowane rozwiązania.
 featured_image: /assets/images/portfolio/opinia-wplywu-inwestycji-drzewa/Opinia-wyspa-Pomorska-slajder.jpg

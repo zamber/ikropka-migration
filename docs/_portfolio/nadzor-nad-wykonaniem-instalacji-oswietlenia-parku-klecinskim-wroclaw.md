@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Nadzór nad wykonaniem instalacji oświetlenia w Parku Klecińskim zapewnił
   ochronę drzew podczas realizacji inwestycji.
 featured_image: /assets/images/portfolio/nadzor-nad-wykonaniem-instalacji-oswietlenia-parku-klecinskim-wroclaw/nadzor-park-klecinski-slider.jpg

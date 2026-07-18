@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Opinia dendrologiczna dla dębu – pomnika przyrody zawiera ocenę jego
   stanu oraz zalecenia dotyczące ochrony cennego drzewa.
 featured_image: /assets/images/portfolio/opinia-dendrologiczna-dla-debu-pomnika-przyrody/main.jpg

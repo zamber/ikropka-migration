@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Projekt zagospodarowania terenów zieleni na Zakrzówku – tworzenie przyjaznej
   przestrzeni rekreacyjnej dla mieszkańców w zgodzie z przyrodą.
 featured_image: /assets/images/portfolio/nasz-zakrzowek/Nasz-Zakrz-wek-slider-1.jpg

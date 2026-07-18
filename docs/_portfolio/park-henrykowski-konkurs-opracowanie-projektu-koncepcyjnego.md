@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2020-12-31
 description: Konkursowy projekt koncepcyjny Parku Henrykowskiego – propozycja rewaloryzacji
   historycznego parku z uwzględnieniem wartości przyrodniczych i kulturowych.
 featured_image: /assets/images/portfolio/park-henrykowski-konkurs-opracowanie-projektu-koncepcyjnego/ikropka-park-henrykowski-slider.jpg

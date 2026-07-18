@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Okresowy przegląd drzewostanu na terenie Zespołu Szkół Nr 3 we Wrocławiu,
   mający na celu zapewnienie bezpieczeństwa użytkowników terenu szkolnego.
 featured_image: /assets/images/portfolio/okresowy-przeglad-drzewostanu/PD-Szkocka-slajder-b.jpg

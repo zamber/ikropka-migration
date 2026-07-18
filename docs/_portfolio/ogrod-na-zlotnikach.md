@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2011-12-31
 description: Projekt ogrodu na Złotnikach tworzy funkcjonalną przestrzeń wypoczynku
   z odpowiednio dobraną zielenią i nowoczesnymi rozwiązaniami.
 featured_image: /assets/images/portfolio/ogrod-na-zlotnikach/slider2.jpg

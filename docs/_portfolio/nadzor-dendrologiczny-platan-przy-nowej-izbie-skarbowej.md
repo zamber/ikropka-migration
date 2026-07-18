@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2014-12-31
 description: Nadzór dendrologiczny nad ochroną platana podczas budowy Izby Skarbowej
   we Wrocławiu – jak uratowano drzewo warte 1 mln zł.
 featured_image: /assets/images/portfolio/nadzor-dendrologiczny-platan-przy-nowej-izbie-skarbowej/slider111.jpg

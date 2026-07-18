@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Prace dendrologiczne na cmentarzu komunalnym w Prudniku obejmują ocenę
   drzew i zalecenia poprawiające bezpieczeństwo użytkowników.
 featured_image: /assets/images/portfolio/na-prudnickim-cmentarzu/slider111.jpg

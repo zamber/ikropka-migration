@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2014-12-31
 description: Projekt zieleni we wnętrzu podwórzowym we Wrocławiu – nasadzenia zamienne
   i ochrona drzew na terenie 7937 m² dla Wrocławskich Mieszkań.
 featured_image: /assets/images/portfolio/fajne-podworko/Norwida-slider1.jpg

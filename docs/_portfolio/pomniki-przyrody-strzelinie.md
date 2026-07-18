@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Pomniki przyrody w Strzelinie – nadzór dendrologiczny i entomologiczny
   nad pielęgnacją zabytkowych Dębów Krzyżowych zasiedlonych przez pachnicę dębową.
 featured_image: /assets/images/portfolio/pomniki-przyrody-strzelinie/slider11.jpg

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2014-12-31
 description: Plan ochrony drzew określa zasady zabezpieczenia zieleni podczas inwestycji
   i pomaga skutecznie chronić cenne drzewa. Sprawdź opracowanie.
 featured_image: /assets/images/portfolio/plan-ochrony-drzew/Plan-ochrony-drzew-na-budowie-1111.jpg

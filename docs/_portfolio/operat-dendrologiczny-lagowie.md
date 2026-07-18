@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2018-12-31
 description: Operat dendrologiczny wykonany dla inwestycji w Łagowie obejmuje ocenę
   drzewostanu i zalecenia ochronne.
 featured_image: /assets/images/portfolio/operat-dendrologiczny-lagowie/operat-lagow-zdj-1-1.jpg

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2011-12-31
 description: Koncepcja architektoniczna zagospodarowania Placu Nowy Targ we Wrocławiu
   – projekt przywrócenia funkcji targowej i stworzenia nowej przestrzeni publicznej
   w centrum miasta.

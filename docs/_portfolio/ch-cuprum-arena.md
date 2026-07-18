@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2009-12-31
 description: Zagospodarowanie terenu wokół galerii handlowej CH Cuprum Arena w Lubinie
   – projekt zieleni, fontanny i małej architektury na 3,57 ha.
 featured_image: /assets/images/portfolio/ch-cuprum-arena/CH-Cuprum-slider1.jpg

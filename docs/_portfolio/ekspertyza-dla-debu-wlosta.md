@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Ekspertyza dendrologiczna dębu „Włost” obejmuje ocenę stanu drzewa oraz
   zalecenia dotyczące jego ochrony i dalszej pielęgnacji.
 featured_image: /assets/images/portfolio/ekspertyza-dla-debu-wlosta/main.jpg

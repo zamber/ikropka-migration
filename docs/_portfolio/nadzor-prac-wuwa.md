@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Nadzór nad pracami zieleni na terenie osiedla WuWa we Wrocławiu – opieka
   nad historycznym drzewostanem i realizacja nasadzeń zgodnych z projektem.
 featured_image: /assets/images/portfolio/nadzor-prac-wuwa/Nadz-r-WUWA-slider11.jpg

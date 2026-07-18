@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Koncepcja urbanistyczno-architektoniczna zagospodarowania terenów publicznych
   w Dzielnicy Nadmorskiej Świnoujścia, łącząca walory naturalnego krajobrazu z funkcjonalną
   przestrzenią publiczną.

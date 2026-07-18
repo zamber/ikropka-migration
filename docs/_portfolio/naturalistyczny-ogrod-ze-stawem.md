@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Naturalistyczny ogród ze stawem łączy różnorodne nasadzenia, wodę i lokalną
   przyrodę, tworząc harmonijną przestrzeń do wypoczynku.
 featured_image: /assets/images/portfolio/naturalistyczny-ogrod-ze-stawem/main.jpg

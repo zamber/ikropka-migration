@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Inwentaryzacja dendrologiczna 250 drzew i 16 alej pomnikowych na terenie
   Podwarszawskiego Trójmiasta Ogrodów.
 featured_image: /assets/images/portfolio/pomniki-przyrody-trzech-gminach/PTO-slider11.jpg

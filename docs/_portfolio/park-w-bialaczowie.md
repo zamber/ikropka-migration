@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2015-12-31
 description: Projekt rewaloryzacji parku w Białaczowie – przywrócenie historycznego
   układu kompozycyjnego z dbałością o zachowanie cennego drzewostanu parkowego.
 featured_image: /assets/images/portfolio/park-w-bialaczowie/main.jpg

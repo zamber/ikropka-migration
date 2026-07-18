@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Projekt skweru „Kosmiczne Wojszyce” tworzy atrakcyjną przestrzeń rekreacyjną
   z zielenią, małą architekturą i rozwiązaniami dla mieszkańców.
 featured_image: /assets/images/portfolio/kosmiczne-wojszyce-projekt-skweru/KosmiczneWojszyce_slider-1.jpg

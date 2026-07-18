@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Operat i projekt nasadzeń kompensacyjnych – kompleksowa dokumentacja
   wymagana przy wycince drzew, zgodna z przepisami i lokalnymi warunkami siedliskowymi.
 featured_image: /assets/images/portfolio/operat-projekt-nasadzen-kompensacyjnych/main.jpg

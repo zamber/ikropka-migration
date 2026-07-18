@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2015-12-31
 description: Nasadzenia kompensacyjne pomagają zrekompensować usunięcie drzew zgodnie
   z obowiązującymi przepisami. Przykładowa realizacja na terenie osiedla Borek we
   Wrocławiu.

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2010-12-31
 description: Projekt zagospodarowania Placu Akademickiego – funkcjonalna i estetyczna
   przestrzeń publiczna z zielenią, małą architekturą i strefami wypoczynku.
 featured_image: /assets/images/portfolio/plac-akademicki/Plac-Akademicki-slider111.jpg

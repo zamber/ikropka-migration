@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Projekt zieleni, nawierzchni mineralnych i systemów zielonego dachu dla
   kompleksu biurowego Business Garden we Wrocławiu. Starannie zaprojektowana roślinność
   i mała architektura w otoczeniu reprezentacyjnych przestrzeni biurowych.

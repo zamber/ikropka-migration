@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Projekt ogrodu sensorycznego dla dzieci przy ZSP nr 8 we Wrocławiu –
   przestrzeń stymulująca zmysły, wspierająca rozwój i integrację sensoryczną.
 featured_image: /assets/images/portfolio/ogrod-sensoryczny-dla-dzieci-zsp-8-we-wroclawiu/Ogród-sensoryczny-szkoła-ZSP8_ikropka_slider.jpg

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Ogród leśny inspirowany naturalnym ekosystemem łączy różnorodne gatunki
   roślin, zwiększa bioróżnorodność i tworzy wyjątkową przestrzeń.
 featured_image: /assets/images/portfolio/ogrod-lesny/Ogród-leśny-slider1.jpg

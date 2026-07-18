@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2017-12-31
 description: Nadzór przyrodniczy w Parku Szczytnickim zapewnił ochronę cennej zieleni
   podczas prowadzonych prac inwestycyjnych.
 featured_image: /assets/images/portfolio/nadzor-przyrodniczy-parku-szczytnickim/main.jpg

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Opinia dendrologiczna i nadzór arborystyczny przy Dębie Krzyżowym – ocena
   stanu zdrowotnego pomnikowego drzewa i zalecenia dotyczące jego ochrony.
 featured_image: /assets/images/portfolio/dab-krzyzowy-opinia-dendrologiczna-nadzor-nad-pracami-arborystycznymi/Dąb-Krzyżowy_slider_ikropka.jpg

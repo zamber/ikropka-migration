@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2017-12-31
 description: Projekt Kieszonkowego Parku Uśmiechu tworzy przyjazną przestrzeń rekreacyjną
   z zielenią, miejscami odpoczynku i rozwiązaniami dla mieszkańców.
 featured_image: /assets/images/portfolio/kieszonkowy-park-usmiechu/Park-Uśmiechu-slider.jpg

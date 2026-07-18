@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Opinia dendrologiczna klonu kapadockiego obejmuje ocenę jego stanu zdrowotnego
   oraz zalecenia dotyczące ochrony i pielęgnacji drzewa.
 featured_image: /assets/images/portfolio/opinia-dendrologiczna-klonu-kapadockiego/klon-kapadocki-zdj-1.3-1.jpg

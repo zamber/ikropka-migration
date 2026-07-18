@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2005-12-31
 description: Projekt niewielkiego ogrodu przydomowego we Wrocławiu (92 m²), pełniącego
   funkcje rekreacyjne i ozdobne, z tarasem ogrodowym i mini fontanną „mokry kamień”.
 featured_image: /assets/images/portfolio/ogrodek-na-luku/na-luku-slider-2.jpg

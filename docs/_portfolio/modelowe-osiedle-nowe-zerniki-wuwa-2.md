@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2015-12-31
 description: Modelowe osiedle Nowe Żerniki WUWA 2 we Wrocławiu – projekt zieleni z
   zielonym dachem targowiska i pagórkowatą przestrzenią wspólną.
 featured_image: /assets/images/portfolio/modelowe-osiedle-nowe-zerniki-wuwa-2/main.jpg

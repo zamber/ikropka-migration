@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Projekt Alejowego Arboretum łączy edukację przyrodniczą z ochroną drzew
   i atrakcyjnym zagospodarowaniem przestrzeni w Przygodzicach.
 featured_image: /assets/images/portfolio/alejowe-arboretum/slider-11.jpg

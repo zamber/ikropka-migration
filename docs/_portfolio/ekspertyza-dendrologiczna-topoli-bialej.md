@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2020-12-31
 description: Ekspertyza dendrologiczna topoli białej obejmuje ocenę stanu drzewa oraz
   zalecenia dotyczące bezpieczeństwa i dalszej pielęgnacji.
 featured_image: /assets/images/portfolio/ekspertyza-dendrologiczna-topoli-bialej/silder-ekspertyza-topola_ikropka-1.jpg

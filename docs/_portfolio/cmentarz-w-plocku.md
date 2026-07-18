@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2012-12-31
 description: Projekt zagospodarowania zabytkowego cmentarza augsbursko-ewangelickiego
   w Płocku, łączący ochronę dziedzictwa z projektowaniem zieleni i programem uczynnienia
   nekropolii.

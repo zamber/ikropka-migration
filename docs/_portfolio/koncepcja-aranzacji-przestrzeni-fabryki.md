@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Koncepcja aranżacji przestrzeni fabryki Diehl Controls w Namysłowie –
   strefy wypoczynku i wejścia dla pracowników w stylu upcyklingowym i industrialnym.
 featured_image: /assets/images/portfolio/koncepcja-aranzacji-przestrzeni-fabryki/KONCEPCJA-ARANŻACJI-TERENU-FABRYKI-DIEHL-CONTROLS_IKROPKA_SLIDER_1.jpg

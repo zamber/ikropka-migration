@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Park kieszonkowy „Ogród Pereca” we Wrocławiu – projekt zieleńca nawiązujący
   do przedwojennej kompozycji placu przy ul. Pereca.
 featured_image: /assets/images/portfolio/park-kieszonkowy-ogrod-pereca/Ogrody-Pereca-zdj-1.jpg

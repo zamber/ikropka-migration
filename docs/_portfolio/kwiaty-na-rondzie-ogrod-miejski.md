@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2019-12-31
 description: Projekt ogrodu miejskiego na rondzie – sezonowe i wieloletnie nasadzenia
   kwiatowe tworzące atrakcyjną i reprezentacyjną przestrzeń w centrum miasta.
 featured_image: /assets/images/portfolio/kwiaty-na-rondzie-ogrod-miejski/slider-1.jpg

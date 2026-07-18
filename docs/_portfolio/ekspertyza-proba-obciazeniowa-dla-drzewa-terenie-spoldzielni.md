@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2020-12-31
 description: Ekspertyza z próbą obciążeniową drzewa pozwala ocenić jego stabilność
   i bezpieczeństwo. Sprawdź zakres specjalistycznego opracowania.
 featured_image: /assets/images/portfolio/ekspertyza-proba-obciazeniowa-dla-drzewa-terenie-spoldzielni/slider-expertyza-lipa_ikropka.jpg

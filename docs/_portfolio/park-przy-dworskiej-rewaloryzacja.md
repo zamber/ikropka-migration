@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2010-12-31
 description: Rewaloryzacja parku przy ul. Dworskiej – projekt przywracający historyczny
   układ zieleni z uwzględnieniem potrzeb współczesnych użytkowników parku.
 featured_image: /assets/images/portfolio/park-przy-dworskiej-rewaloryzacja/Dworska-slider-2111.jpg

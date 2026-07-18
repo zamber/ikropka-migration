@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Ocena zniszczeń drzewa – ekspertyza dendrologiczna jarzębu w Płocku po
   cięciach pielęgnacyjnych, wykonana przez specjalistów IKROPKI.
 featured_image: /assets/images/portfolio/ocena-zniszczen-drzewa/main.jpg

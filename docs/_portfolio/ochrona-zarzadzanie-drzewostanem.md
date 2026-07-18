@@ -1,5 +1,6 @@
 ---
 category: szkolenia
+date: 2016-12-31
 description: Szkolenie „Drogi dla Natury” w Nowych Skalmierzycach – IKROPKA uczyła
   diagnostyki drzew i pielęgnacji metodą alpinistyczną.
 featured_image: /assets/images/portfolio/ochrona-zarzadzanie-drzewostanem/main.jpg

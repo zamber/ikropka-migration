@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Ekspertyza dendrologiczna czterech drzew obejmuje ocenę ich stanu oraz
   zalecenia dotyczące bezpieczeństwa i dalszego postępowania.
 featured_image: /assets/images/portfolio/ekspertyza-4-drzew/Ekspertyza-4-drzew-slider11.jpg

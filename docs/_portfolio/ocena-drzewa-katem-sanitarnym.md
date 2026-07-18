@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Opinia dendrologiczna dotycząca pomnikowej lipy drobnolistnej na placu
   zabaw przedszkola w Konarach, obejmująca ocenę stanu sanitarnego i bezpieczeństwa
   drzewa wraz z zaleceniami pielęgnacyjnymi.

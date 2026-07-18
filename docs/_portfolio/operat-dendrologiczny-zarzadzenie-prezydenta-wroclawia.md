@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Operat dendrologiczny dla budowy gazociągu we Wrocławiu zgodny z Zarządzeniem
   Prezydenta Wrocławia – analiza uniknięcia kolizji z drzewostanem.
 featured_image: /assets/images/portfolio/operat-dendrologiczny-zarzadzenie-prezydenta-wroclawia/Operat_Analiaza-uniknięcia-kolizji2_ikropka.jpg

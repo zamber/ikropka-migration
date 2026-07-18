@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2014-12-31
 description: Ogród na Rumiankowej we Wrocławiu – wielofunkcyjny projekt ogrodu przydomowego
   ze strefami zabaw, wypoczynku i uprawy warzyw na 1434 m².
 featured_image: /assets/images/portfolio/ogrod-na-rumiankowej/Ogr-d-na-Rumiankowej-slider111.jpg

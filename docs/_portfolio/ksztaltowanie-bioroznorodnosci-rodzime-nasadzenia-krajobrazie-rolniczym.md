@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2025-12-31
 description: Projekt kształtowania bioróżnorodności poprzez rodzime nasadzenia w krajobrazie
   rolniczym – zrównoważone podejście do środowiska naturalnego.
 featured_image: /assets/images/portfolio/ksztaltowanie-bioroznorodnosci-rodzime-nasadzenia-krajobrazie-rolniczym/layout_slider_do-500KB-1-6.jpg

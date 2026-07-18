@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2018-12-31
 description: Projekt parku kieszonkowego Psia Górka tworzy atrakcyjną przestrzeń rekreacyjną
   z bogatą zielenią i rozwiązaniami przyjaznymi mieszkańcom.
 featured_image: /assets/images/portfolio/park-kieszonkowy-psia-gorka/Grabskiego-zdj-slider-1.jpg

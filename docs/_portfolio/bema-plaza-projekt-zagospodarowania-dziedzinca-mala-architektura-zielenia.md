@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2019-12-31
 description: Projekt zagospodarowania dziedzińca Bema Plaza – mała architektura, zieleń
   i przestrzeń wspólna tworząca reprezentacyjne otoczenie centrum handlowego.
 featured_image: /assets/images/portfolio/bema-plaza-projekt-zagospodarowania-dziedzinca-mala-architektura-zielenia/BEMA-PROJEKT-ZAGOSPODAROWANIA_SLIDER_ikropka.jpg

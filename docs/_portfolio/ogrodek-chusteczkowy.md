@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Mały ogród w zabudowie szeregowej w Mokronosie Dolnym – prosty, elegancki
   projekt zieleni i małej architektury na 280 m².
 featured_image: /assets/images/portfolio/ogrodek-chusteczkowy/slider11.jpg

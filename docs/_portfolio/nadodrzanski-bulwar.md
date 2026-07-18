@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2007-12-31
 description: Projekt zieleni dla Nadodrzańskiego Bulwaru łączy funkcjonalną promenadę
   z atrakcyjnymi nasadzeniami i ochroną istniejących drzew.
 featured_image: /assets/images/portfolio/nadodrzanski-bulwar/Bulwar-slider1.jpg

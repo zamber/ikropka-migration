@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2017-12-31
 description: Opinia dendrologiczna szpaleru topól obejmuje ocenę stanu drzew oraz
   zalecenia dotyczące ich ochrony i dalszego postępowania.
 featured_image: /assets/images/portfolio/opinia-dendrologiczna-szpaleru-topol/Opinia-topole-slider-a.jpg

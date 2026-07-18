@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2016-12-31
 description: Inwentaryzacja dendrologiczna na wyspie przy Elektrowni Wodnej Marszowice
   we Wrocławiu – 85 drzew zbadanych na terenie dzikiego, nieużytkowanego lasu.
 featured_image: /assets/images/portfolio/inwentaryzacja-dendrologiczna-wyspie/Wyspa-Marszowice-inwentaryzacja-slider.jpg

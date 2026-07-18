@@ -1,5 +1,6 @@
 ---
 category: zabytkowe
+date: 2017-12-31
 description: Operat dendrologiczny dla zabytkowego Białkowa – inwentaryzacja i ocena
   drzewostanu historycznego założenia parkowego z zaleceniami pielęgnacyjnymi.
 featured_image: /assets/images/portfolio/operat-zabytkowym-bialkowie/Operat-Białków-slider.jpg

@@ -1,5 +1,6 @@
 ---
 category: projekty
+date: 2015-12-31
 description: Projekt Central Park przy Sky Tower we Wrocławiu łączy nowoczesną architekturę
   z funkcjonalną zielenią miejską.
 featured_image: /assets/images/portfolio/central-park-przy-sky-tower-wroclaw/Central-Park-slider1.jpg
