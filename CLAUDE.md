@@ -125,6 +125,28 @@ What needs to be decided/researched
 - **Contact Form:** Formspree or similar (static site compatible)
 - **Image Optimization:** Use Jekyll picture tag or responsive images
 
+### CRITICAL: Jekyll Folder Naming Rules
+
+**DO NOT** use underscore prefixes (`_`) for multilingual content folders unless they are defined as Jekyll collections!
+
+❌ **WRONG:**
+```
+docs/en/_portfolio/   # Jekyll will IGNORE this folder!
+docs/en/_posts/       # Jekyll will IGNORE this folder!
+docs/de/_pages/       # Jekyll will IGNORE this folder!
+```
+
+✅ **CORRECT:**
+```
+docs/en/portfolio/    # Jekyll processes this as regular pages
+docs/en/posts/        # Jekyll processes this as regular pages
+docs/de/pages/        # Jekyll processes this as regular pages
+```
+
+**Why:** Jekyll ignores folders starting with `_` by default unless they are explicitly defined in `_config.yml` as `collections:`. For multilingual content that should be processed as regular pages (not collections), use folders WITHOUT underscore prefix.
+
+**If you break this rule:** Content won't show up in listings, site.pages won't include them, and you'll waste hours debugging why "nothing is showing up".
+
 ---
 
 ## Content Translation Strategy
@@ -255,6 +277,7 @@ cd /home/luna/ikropka-migration
 - **SEO Priority:** Every page needs proper meta tags, structured data, and mobile optimization
 - **Content Accuracy:** Landscape architecture is a specialized field — preserve technical terminology accuracy
 - **Demo Status:** This is a preview build. Final hosting TBD. Don't over-engineer for GitHub Pages limitations.
+- **ALWAYS TEST AFTER CHANGES:** After making fixes to templates, filters, or structure, VERIFY the fix works before pushing. Don't push blind changes and assume they work. If local Jekyll testing isn't available, at minimum check file structure and logic carefully.
 
 ---
 
