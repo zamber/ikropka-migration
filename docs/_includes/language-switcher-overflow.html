@@ -1,0 +1,58 @@
+{% comment %}
+Language Switcher for Overflow Menu (Hamburger)
+Appears as last items in mobile/overflow menu
+{% endcomment %}
+
+{% assign current_lang = page.lang | default: "pl" %}
+{% assign current_path = page.permalink %}
+
+{% comment %}Remove language prefixes from current path to get base path{% endcomment %}
+{% if current_lang == "en" %}
+  {% assign base_path = current_path | remove: "/en" %}
+{% elsif current_lang == "de" %}
+  {% assign base_path = current_path | remove: "/de" %}
+{% else %}
+  {% assign base_path = current_path %}
+{% endif %}
+
+<li class="masthead__menu-item masthead__menu-item--lg lang-divider">
+  <span>──────</span>
+</li>
+
+<li class="masthead__menu-item masthead__menu-item--lg">
+  {% if current_lang == "pl" %}
+    <strong>🇵🇱 Polski</strong>
+  {% else %}
+    <a href="{{ site.baseurl }}{{ base_path }}">🇵🇱 Polski</a>
+  {% endif %}
+</li>
+
+<li class="masthead__menu-item masthead__menu-item--lg">
+  {% if current_lang == "en" %}
+    <strong>🇬🇧 English</strong>
+  {% else %}
+    <a href="{{ site.baseurl }}/en{{ base_path }}">🇬🇧 English</a>
+  {% endif %}
+</li>
+
+<li class="masthead__menu-item masthead__menu-item--lg">
+  {% if current_lang == "de" %}
+    <strong>🇩🇪 Deutsch</strong>
+  {% else %}
+    <a href="{{ site.baseurl }}/de{{ base_path }}">🇩🇪 Deutsch</a>
+  {% endif %}
+</li>
+
+<style>
+.lang-divider {
+  color: #ccc;
+  text-align: center;
+  pointer-events: none;
+  padding: 0.25rem 0 !important;
+}
+
+.masthead__menu-item strong {
+  color: #52adc8;
+  font-weight: bold;
+}
+</style>

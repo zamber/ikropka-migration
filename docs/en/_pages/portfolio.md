@@ -28,7 +28,8 @@ Below you will find **72 completed projects** in the field of landscape architec
 </div>
 
 <div class="portfolio-grid">
-{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+{% assign en_portfolio = site.pages | where_exp: "item", "item.path contains 'en/_portfolio'" %}
+{% assign sorted_portfolio = en_portfolio | sort: 'title' %}
 {% for project in sorted_portfolio %}
   <div class="portfolio-item" data-category="{{ project.category }}">
     <a href="{{ project.url | relative_url }}">

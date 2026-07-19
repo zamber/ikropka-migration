@@ -1,0 +1,36 @@
+<!-- Custom JavaScript for IKROPKA -->
+
+<!-- Auto-detect browser language and redirect if needed -->
+<script>
+(function() {
+  // Only run on homepage/root paths
+  const currentPath = window.location.pathname;
+  const baseUrl = '{{ site.baseurl }}' || '';
+
+  // Check if we're on the root homepage (not already on a language-specific page)
+  if (currentPath === baseUrl + '/' || currentPath === baseUrl || currentPath === baseUrl + '/index.html') {
+    // Check if user has already set a preference
+    const savedLang = localStorage.getItem('ikropka_preferred_lang');
+
+    if (!savedLang) {
+      // Get browser language
+      const browserLang = navigator.language || navigator.userLanguage;
+      const langCode = browserLang.split('-')[0].toLowerCase();
+
+      // Redirect based on browser language
+      if (langCode === 'en') {
+        window.location.href = baseUrl + '/en/';
+      } else if (langCode === 'de') {
+        window.location.href = baseUrl + '/de/';
+      }
+      // If Polish or other, stay on Polish version (default)
+    }
+  }
+
+  // Save language preference when user manually switches
+  const currentLang = '{{ page.lang | default: "pl" }}';
+  if (currentLang) {
+    localStorage.setItem('ikropka_preferred_lang', currentLang);
+  }
+})();
+</script>

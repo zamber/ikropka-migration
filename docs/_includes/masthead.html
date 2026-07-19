@@ -33,14 +33,14 @@
         </button>
         {% endif %}
 
-        {%comment%}Language Switcher - added for multilingual support{%endcomment%}
-        {% include language-switcher.html %}
-
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
         </button>
-        <ul class="hidden-links hidden"></ul>
+        <ul class="hidden-links hidden">
+          {%comment%}Language Switcher in overflow menu{%endcomment%}
+          {% include language-switcher-overflow.html %}
+        </ul>
       </nav>
     </div>
   </div>

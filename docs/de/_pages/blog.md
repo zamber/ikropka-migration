@@ -12,7 +12,8 @@ lang: de
 Entdecken Sie unsere neuesten Projekte, Projekte und Aktuelles aus der Welt der Landschaftsarchitektur.
 
 <div class="blog-grid">
-{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% assign de_posts = site.pages | where_exp: "item", "item.path contains 'de/_posts'" %}
+{% assign sorted_posts = de_posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
   <article class="blog-item">
     <a href="{{ post.url | relative_url }}">

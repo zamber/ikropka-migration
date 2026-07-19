@@ -72,7 +72,8 @@ Die Landschaftsarchitekturwerkstatt IKROPKA unterstützt ihre Kunden bei formell
 Lernen Sie unsere neuesten Projekte kennen:
 
 <div class="featured-portfolio">
-{% assign featured = site.portfolio | sort: 'date' | reverse | limit: 6 %}
+{% assign de_portfolio = site.pages | where_exp: "item", "item.path contains 'de/_portfolio'" %}
+{% assign featured = de_portfolio | sort: 'date' | reverse | limit: 6 %}
 {% for project in featured %}
   <div class="featured-item">
     <a href="{{ project.url | relative_url }}">
