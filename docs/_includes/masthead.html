@@ -13,19 +13,23 @@
         </a>
         <ul class="visible-links">
           {%- assign current_lang = page.lang | default: "pl" -%}
+          <!-- DEBUG: page.lang={{ page.lang }}, current_lang={{ current_lang }} -->
           {%- if current_lang == "en" -%}
+            <!-- DEBUG: Using English navigation -->
             {%- for link in site.data.navigation_en.main -%}
               <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               </li>
             {%- endfor -%}
           {%- elsif current_lang == "de" -%}
+            <!-- DEBUG: Using German navigation -->
             {%- for link in site.data.navigation_de.main -%}
               <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               </li>
             {%- endfor -%}
           {%- else -%}
+            <!-- DEBUG: Using Polish navigation (default) -->
             {%- for link in site.data.navigation.main -%}
               <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
