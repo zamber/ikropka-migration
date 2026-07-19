@@ -28,7 +28,7 @@ Im Folgenden finden Sie **72 fertiggestellte Projekte** aus dem Bereich der Land
 </div>
 
 <div class="portfolio-grid">
-{% assign de_portfolio = site.pages | where_exp: "item", "item.path contains 'de/_portfolio'" %}
+{% assign de_portfolio = site.pages | where_exp: "item", "item.url contains '/de/_portfolio/'" %}
 {% assign sorted_portfolio = de_portfolio | sort: 'title' %}
 {% for project in sorted_portfolio %}
   <div class="portfolio-item" data-category="{{ project.category }}">

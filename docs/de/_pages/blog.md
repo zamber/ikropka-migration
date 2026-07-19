@@ -12,7 +12,7 @@ lang: de
 Entdecken Sie unsere neuesten Projekte, Projekte und Aktuelles aus der Welt der Landschaftsarchitektur.
 
 <div class="blog-grid">
-{% assign de_posts = site.pages | where_exp: "item", "item.path contains 'de/_posts'" %}
+{% assign de_posts = site.pages | where_exp: "item", "item.url contains '/de/_posts/'" %}
 {% assign sorted_posts = de_posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
   <article class="blog-item">

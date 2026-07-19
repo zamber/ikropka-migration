@@ -12,7 +12,7 @@ lang: en
 Discover our latest designs, projects, and news from the world of landscape architecture.
 
 <div class="blog-grid">
-{% assign en_posts = site.pages | where_exp: "item", "item.path contains 'en/_posts'" %}
+{% assign en_posts = site.pages | where_exp: "item", "item.url contains '/en/_posts/'" %}
 {% assign sorted_posts = en_posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
   <article class="blog-item">
