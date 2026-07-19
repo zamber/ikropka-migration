@@ -1,54 +1,56 @@
 # Main navigation (German)
 main:
   - title: "Über uns"
-    url: /de/uber-uns/
+    url: /de/about/
   - title: "Dienstleistungen"
-    url: /de/dienstleistungen/
+    url: /de/services/
   - title: "Portfolio"
     url: /de/portfolio/
   - title: "Referenzen"
-    url: /de/referenzen/
+    url: /de/references/
   - title: "Aktuelles"
-    url: /de/aktuelles/
+    url: /de/aktualnosci/
   - title: "Kontakt"
-    url: /de/kontakt/
+    url: /de/contact/
 
 # Services sidebar navigation (German)
 services:
-  - title: "Dendrologie-Dienstleistungen"
+  - title: "Dendrologische Dienstleistungen"
     children:
       - title: "Bauminventare"
-        url: /de/dienstleistungen/bauminventare/
+        url: /de/services/inwentaryzacje-dendrologiczne/
       - title: "Dendrologischer Bewirtschaftungsplan"
-        url: /de/dienstleistungen/dendrologischer-bewirtschaftungsplan/
-      - title: "Dendrologische Gutachten"
-        url: /de/dienstleistungen/dendrologische-gutachten/
+        url: /de/services/operat-dendrologiczny/
+      - title: "Gutachten"
+        url: /de/services/dendrolog-opinie-ekspertyzy/
       - title: "Baumkontrollen"
-        url: /de/dienstleistungen/baumkontrollen/
+        url: /de/services/przeglady-drzew-katem-bezpieczenstwa/
       - title: "Baum-Notdienst"
-        url: /de/dienstleistungen/baum-notdienst/
-      - title: "Baumschutzprojekt"
-        url: /de/dienstleistungen/baumschutzprojekt/
-  - title: "Design-Dienstleistungen"
+        url: /de/services/pogotowie-dendrologiczne/
+      - title: "Baumschutzplan"
+        url: /de/services/projekt-ochrony-drzewa/
+  - title: "Planungsdienstleistungen"
     children:
-      - title: "Geländeerschließungsprojekte"
-        url: /de/dienstleistungen/gelaendeerschliessungsprojekte/
-      - title: "Grünflächengestaltung"
-        url: /de/dienstleistungen/gruenflaechengestaltung/
+      - title: "Geländeerschließung"
+        url: /de/services/projekty-zagospodarowania-terenu/
+      - title: "Grünflächenplanung"
+        url: /de/services/projekty-zieleni/
       - title: "Private Gärten"
-        url: /de/dienstleistungen/private-gaerten/
-      - title: "Parks und Erholungsgebiete"
-        url: /de/dienstleistungen/parks-erholungsgebiete/
+        url: /de/services/ogrody-prywatne/
+      - title: "Parks & Erholung"
+        url: /de/services/parki-i-tereny-rekreacyjne/
+      - title: "Landschaftsarchitektur"
+        url: /de/services/pracownia-architektury-krajobrazu/
   - title: "Weitere Dienstleistungen"
     children:
       - title: "Bauüberwachung"
-        url: /de/dienstleistungen/bauueberwachung/
+        url: /de/services/nadzory/
       - title: "Baudenkmäler"
-        url: /de/dienstleistungen/baudenkmaeler/
+        url: /de/services/obiekty-zabytkowe/
       - title: "Beratung"
-        url: /de/dienstleistungen/beratung/
+        url: /de/services/doradztwo/
       - title: "Schulungen"
-        url: /de/dienstleistungen/schulungen/
+        url: /de/services/szkolenia/
 
 # Portfolio sidebar navigation (German)
 portfolio:

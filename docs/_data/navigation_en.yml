@@ -9,7 +9,7 @@ main:
   - title: "References"
     url: /en/references/
   - title: "News"
-    url: /en/news/
+    url: /en/aktualnosci/
   - title: "Contact"
     url: /en/contact/
 
@@ -17,38 +17,40 @@ main:
 services:
   - title: "Dendrology Services"
     children:
-      - title: "Tree inventories"
-        url: /en/services/tree-inventories/
-      - title: "Dendrology management plan"
-        url: /en/services/dendrology-management-plan/
-      - title: "Dendrology expert assessments"
-        url: /en/services/dendrology-expert-assessments/
-      - title: "Tree inspections"
-        url: /en/services/tree-inspections/
-      - title: "Emergency dendrology service"
-        url: /en/services/emergency-dendrology/
-      - title: "Tree protection project"
-        url: /en/services/tree-protection-project/
+      - title: "Tree Inventories"
+        url: /en/services/inwentaryzacje-dendrologiczne/
+      - title: "Dendrology Management Plan"
+        url: /en/services/operat-dendrologiczny/
+      - title: "Expert Assessments"
+        url: /en/services/dendrolog-opinie-ekspertyzy/
+      - title: "Tree Inspections"
+        url: /en/services/przeglady-drzew-katem-bezpieczenstwa/
+      - title: "Emergency Service"
+        url: /en/services/pogotowie-dendrologiczne/
+      - title: "Tree Protection Plan"
+        url: /en/services/projekt-ochrony-drzewa/
   - title: "Design Services"
     children:
-      - title: "Site development projects"
-        url: /en/services/site-development-projects/
-      - title: "Green space designs"
-        url: /en/services/green-space-designs/
-      - title: "Private gardens"
-        url: /en/services/private-gardens/
-      - title: "Parks and recreational areas"
-        url: /en/services/parks-recreational-areas/
+      - title: "Site Development"
+        url: /en/services/projekty-zagospodarowania-terenu/
+      - title: "Green Space Design"
+        url: /en/services/projekty-zieleni/
+      - title: "Private Gardens"
+        url: /en/services/ogrody-prywatne/
+      - title: "Parks & Recreation"
+        url: /en/services/parki-i-tereny-rekreacyjne/
+      - title: "Landscape Architecture"
+        url: /en/services/pracownia-architektury-krajobrazu/
   - title: "Other Services"
     children:
       - title: "Supervision"
-        url: /en/services/supervision/
-      - title: "Historic monuments"
-        url: /en/services/historic-monuments/
+        url: /en/services/nadzory/
+      - title: "Historic Monuments"
+        url: /en/services/obiekty-zabytkowe/
       - title: "Consulting"
-        url: /en/services/consulting/
+        url: /en/services/doradztwo/
       - title: "Training"
-        url: /en/services/training/
+        url: /en/services/szkolenia/
 
 # Portfolio sidebar navigation (English)
 portfolio:
