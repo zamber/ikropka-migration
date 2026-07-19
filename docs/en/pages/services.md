@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Services
-permalink: /en/services/
+permalink: /en/oferta/
 sidebar:
   nav: services
 lang: en

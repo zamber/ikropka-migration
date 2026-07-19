@@ -1,17 +1,17 @@
 # Main navigation (German)
 main:
   - title: "Über uns"
-    url: /de/about/
+    url: /de/o-nas/
   - title: "Dienstleistungen"
-    url: /de/services/
+    url: /de/oferta/
   - title: "Portfolio"
     url: /de/portfolio/
   - title: "Referenzen"
-    url: /de/references/
+    url: /de/referencje/
   - title: "Aktuelles"
     url: /de/aktualnosci/
   - title: "Kontakt"
-    url: /de/contact/
+    url: /de/kontakt/
 
 # Services sidebar navigation (German)
 services:

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: References
-permalink: /en/references/
+permalink: /en/referencje/
 description: Over 60 references from satisfied clients – municipalities, developers,
   institutions. 18 years of experience in landscape architecture and dendrology.
 lang: en

@@ -1,17 +1,17 @@
 # Main navigation (English)
 main:
   - title: "About"
-    url: /en/about/
+    url: /en/o-nas/
   - title: "Services"
-    url: /en/services/
+    url: /en/oferta/
   - title: "Portfolio"
     url: /en/portfolio/
   - title: "References"
-    url: /en/references/
+    url: /en/referencje/
   - title: "News"
     url: /en/aktualnosci/
   - title: "Contact"
-    url: /en/contact/
+    url: /en/kontakt/
 
 # Services sidebar navigation (English)
 services:

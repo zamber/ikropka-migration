@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Referenzen
-permalink: /de/references/
+permalink: /de/referencje/
 description: Über 60 Referenzen von zufriedenen Kunden – Gemeinden, Entwickler, Institutionen.
   18 Jahre Erfahrung in Landschaftsarchitektur und Dendrologie.
 lang: de

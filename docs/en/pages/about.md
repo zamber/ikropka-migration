@@ -2,7 +2,7 @@
 description: Get to know the IKROPKA team and our experience in landscape architecture,
   dendrology and greenery protection. Check why it is worth trusting us.
 layout: single
-permalink: /en/about/
+permalink: /en/o-nas/
 title: About us
 lang: en
 ---
