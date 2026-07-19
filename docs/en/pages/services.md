@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Services
-permalink: /en/oferta/
+permalink: /en/services/
 sidebar:
   nav: services
 lang: en
@@ -115,8 +115,8 @@ We create green space designs tailored to your needs:
 {% endfor %}
 </ul>
 
-<a name="other"></a>
-### Other Services
+<a name="supervision"></a>
+### Supervision and Other Services
 
 {% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}

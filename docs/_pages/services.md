@@ -114,8 +114,8 @@ Tworzymy projekty zieleni dopasowane do Twoich potrzeb:
 {% endfor %}
 </ul>
 
-<a name="other"></a>
-### Inne Usługi
+<a name="supervision"></a>
+### Nadzory i Inne Usługi
 
 {% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}

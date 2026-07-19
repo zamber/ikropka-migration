@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Angebot
-permalink: /de/oferta/
+permalink: /de/services/
 sidebar:
   nav: services
 lang: de
@@ -115,8 +115,8 @@ Wir erstellen Grünflächengestaltungen, die an Ihre Bedürfnisse angepasst sind
 {% endfor %}
 </ul>
 
-<a name="other"></a>
-### Andere Dienstleistungen
+<a name="supervision"></a>
+### Bauüberwachung und andere Dienstleistungen
 
 {% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}
