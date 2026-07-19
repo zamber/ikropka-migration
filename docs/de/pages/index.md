@@ -86,7 +86,7 @@ Lernen Sie unsere neuesten Projekte kennen:
 </div>
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/ikropka-migration/portfolio/" class="button">Alle Projekte ansehen (72) →</a>
+  <a href="/ikropka-migration/de/portfolio/" class="button">Alle Projekte ansehen (72) →</a>
 </div>
 
 <style>

@@ -10,7 +10,7 @@ title: Dendrologe – Stellungnahmen und Gutachten
 lang: de
 ---
 
-Stellungnahmen und dendrologische Gutachten sind Ausarbeitungen, die fundierte Kenntnisse über den Sanitärzustand des Baumes, seine Stabilität sowie seine Bruch- und Bruchfestigkeit bzw. Widerstandsfähigkeit gegen das Umstürzen mit dem Wurzelballen vermitteln. Sie enthalten Empfehlungen von Experten für das weitere Vorgehen mit dem Baum. Wir laden zur [Zusammenarbeit](/kontakt/) ein!
+Stellungnahmen und dendrologische Gutachten sind Ausarbeitungen, die fundierte Kenntnisse über den Sanitärzustand des Baumes, seine Stabilität sowie seine Bruch- und Bruchfestigkeit bzw. Widerstandsfähigkeit gegen das Umstürzen mit dem Wurzelballen vermitteln. Sie enthalten Empfehlungen von Experten für das weitere Vorgehen mit dem Baum. Wir laden zur [Zusammenarbeit](/de/contact/) ein!
 
 
 ## Stellungnahmen und dendrologische Gutachten
@@ -23,6 +23,6 @@ Stellungnahmen und dendrologische Gutachten sind Ausarbeitungen, die fundierte K
 
 **Ein dendrologisches Gutachten** umfasst – über den Umfang einer Stellungnahme hinaus – ebenfalls eine fortgeschrittene Baumuntersuchung unter Verwendung professioneller Geräte, z. B. eines Schalltomografen oder Resistografen. Durch derartige Untersuchungen erhält der Auftraggeber ein Bild des Stamminneren mit dokumentierter Größe und Ausdehnung des inneren Holzdefekts sowie genaue Informationen über die Wandstärke des Baumstammes. Solche Untersuchungen, gestützt auf Artenkenntnis und entsprechende Berechnungen, ermöglichen die **Bewertung der Bruchfestigkeit des Baumstammes**. Wir bewerten ebenfalls die Stabilität des Baumes im Boden. Das dendrologische Gutachten enthält Untersuchungsergebnisse und deren Interpretation sowie detaillierte Empfehlungen für das weitere Vorgehen mit den Bäumen.
 
-*Wir betreuen jeden Auftrag umfassend und bieten Hilfe nicht nur bei der Erstellung der Ausarbeitung, sondern auch bei den darauffolgenden Maßnahmen. Je nach Ergebnis des Gutachtens oder der Stellungnahme können wir [dendrologische Bauüberwachung](/oferta/nadzory/) der empfohlenen Pflegemaßnahmen durchführen. Pflegearbeiten am Bestand sind oft komplexe Maßnahmen, die Wissen und Erfahrung erfordern, und bei fehlerhafter Ausführung gegenteilige Wirkungen haben können. Daher sind wir vor Ort, um die Korrektheit und Qualität der ausgeführten Arbeiten zu überwachen!*
+*Wir betreuen jeden Auftrag umfassend und bieten Hilfe nicht nur bei der Erstellung der Ausarbeitung, sondern auch bei den darauffolgenden Maßnahmen. Je nach Ergebnis des Gutachtens oder der Stellungnahme können wir [dendrologische Bauüberwachung](/de/services/nadzory/) der empfohlenen Pflegemaßnahmen durchführen. Pflegearbeiten am Bestand sind oft komplexe Maßnahmen, die Wissen und Erfahrung erfordern, und bei fehlerhafter Ausführung gegenteilige Wirkungen haben können. Daher sind wir vor Ort, um die Korrektheit und Qualität der ausgeführten Arbeiten zu überwachen!*
 
 *Wir sind stets auf dem Laufenden mit neuesten Erkenntnissen und wissenschaftlichen Untersuchungen nicht nur aus Polen, sondern auch aus Großbritannien, Deutschland und anderen Ländern Westeuropas.*

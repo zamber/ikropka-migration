@@ -20,7 +20,7 @@ title: We have received new references
 lang: en
 ---
 
-We have received references from the company Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością with its registered office in Wrocław for the conducted [dendrology supervision](/oferta/nadzory/) in a historic park in Wrocław – Park Południowy.
+We have received references from the company Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością with its registered office in Wrocław for the conducted [dendrology supervision](/en/services/nadzory/) in a historic park in Wrocław – Park Południowy.
 
 
 ![We have received new references]({{ site.baseurl }}/assets/images/aktualnosci-spartanikropka-kopia.jpg)

@@ -20,7 +20,7 @@ title: Wir haben neue Referenzen erhalten.
 lang: de
 ---
 
-Wir haben eine Referenz von der Gesellschaft Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością mit Sitz in Wrocław für die durchgeführte [dendrologische Bauüberwachung](/oferta/nadzory/) im denkmalgeschützten Park in Wrocław – Park Południowy erhalten.
+Wir haben eine Referenz von der Gesellschaft Wrocławskim Centrum Treningowym SPARTAN spółką z ograniczoną odpowiedzialnością mit Sitz in Wrocław für die durchgeführte [dendrologische Bauüberwachung](/de/services/nadzory/) im denkmalgeschützten Park in Wrocław – Park Południowy erhalten.
 
 
 ![Otrzymaliśmy nowe referencje]({{ site.baseurl }}/assets/images/aktualnosci-spartanikropka-kopia.jpg)

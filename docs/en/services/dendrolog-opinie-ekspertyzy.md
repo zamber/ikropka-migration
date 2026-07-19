@@ -9,7 +9,7 @@ title: Dendrologist – Opinions and Expert Assessments
 lang: en
 ---
 
-Opinions and dendrology expert assessments are documents providing advanced knowledge about the sanitary condition of a tree, its stability, and resistance to breakage or uprooting with the root ball. They contain expert recommendations for further handling of the tree. We invite you to [cooperation](/kontakt/)!
+Opinions and dendrology expert assessments are documents providing advanced knowledge about the sanitary condition of a tree, its stability, and resistance to breakage or uprooting with the root ball. They contain expert recommendations for further handling of the tree. We invite you to [cooperation](/en/contact/)!
 
 
 ## Opinions and dendrology expert assessments
@@ -22,6 +22,6 @@ Opinions and dendrology expert assessments are documents providing advanced know
 
 **Dendrology expert assessment** is – beyond the scope of an opinion – also advanced tree examination using professional equipment, e.g. sonic tomograph or resistograph. Thanks to such examinations, the Ordering Party receives an image of the trunk interior with documented size and extent of internal decay and precise information about the thickness of the tree trunk wall. Such examinations supported by knowledge of the species and appropriate calculations allow for **assessment of the tree trunk's resistance to breakage**. We also assess the tree's stability in the soil. A dendrology expert assessment contains examination results and their interpretation, as well as detailed recommendations for further handling of the trees.
 
-*We provide comprehensive handling of every order and offer assistance not only in preparing the document, but also in actions following it. Depending on the result of the expert assessment or opinion, we can provide [dendrology supervision](/oferta/nadzory/) over the recommended care treatments. Care works on tree stands are often complex actions requiring knowledge and experience, and if performed incorrectly may have opposite effects. Therefore, we are on site to oversee the correctness and quality of the performed works!*
+*We provide comprehensive handling of every order and offer assistance not only in preparing the document, but also in actions following it. Depending on the result of the expert assessment or opinion, we can provide [dendrology supervision](/en/services/nadzory/) over the recommended care treatments. Care works on tree stands are often complex actions requiring knowledge and experience, and if performed incorrectly may have opposite effects. Therefore, we are on site to oversee the correctness and quality of the performed works!*
 
 *We keep up to date with the latest knowledge and scientific research not only from Poland, but also from the United Kingdom, Germany and other Western European countries.*
