@@ -1,0 +1,261 @@
+# Translation Glossary for IKROPKA Landscape Architecture
+# Specialized terms that require consistent translation
+# Format: Polish term -> English -> German
+
+landscape_architecture:
+  architektura krajobrazu:
+    en: landscape architecture
+    de: Landschaftsarchitektur
+  krajobraz:
+    en: landscape
+    de: Landschaft
+  zieleń:
+    en: greenery
+    de: Grünfläche
+  tereny zielone:
+    en: green areas
+    de: Grünflächen
+  przestrzeń publiczna:
+    en: public space
+    de: öffentlicher Raum
+  mała architektura:
+    en: landscape furniture
+    de: Stadtmöblierung
+  zagospodarowanie terenu:
+    en: site development
+    de: Geländeerschließung
+
+dendrology:
+  dendrologia:
+    en: dendrology
+    de: Dendrologie
+  dendrolog:
+    en: dendrologist
+    de: Dendrologe
+  arborysta:
+    en: arborist
+    de: Baumpfleger
+  inwentaryzacja dendrologiczna:
+    en: tree inventory
+    de: Bauminventar
+  operat dendrologiczny:
+    en: dendrology management plan
+    de: dendrologischer Bewirtschaftungsplan
+  ekspertyza dendrologiczna:
+    en: dendrology expert assessment
+    de: dendrologisches Gutachten
+  przegląd drzew:
+    en: tree inspection
+    de: Baumkontrolle
+  ocena stanu drzew:
+    en: tree condition assessment
+    de: Baumzustandsbewertung
+  pogotowie dendrologiczne:
+    en: emergency dendrology service
+    de: Baum-Notdienst
+  pielęgnacja drzew:
+    en: tree care
+    de: Baumpflege
+  wycinka drzew:
+    en: tree removal
+    de: Baumfällung
+  przesadzanie drzew:
+    en: tree transplanting
+    de: Baumpflanzung
+
+projects:
+  projekt zagospodarowania terenu:
+    en: site development project
+    de: Geländeerschließungsprojekt
+  projekt wykonawczy:
+    en: construction project
+    de: Ausführungsprojekt
+  projekt koncepcyjny:
+    en: concept design
+    de: Entwurfskonzept
+  koncepcja projektu:
+    en: design concept
+    de: Projektkonzept
+  projekt zieleni:
+    en: green space design
+    de: Grünflächengestaltung
+  rewaloryzacja:
+    en: revitalization
+    de: Revitalisierung
+  rekultywacja:
+    en: reclamation
+    de: Rekultivierung
+  renowacja:
+    en: renovation
+    de: Renovierung
+
+supervision:
+  nadzór autorski:
+    en: author supervision
+    de: Bauüberwachung
+  nadzór inspektora zieleni:
+    en: green space inspector supervision
+    de: Grünflächeninspektion
+  inspektor zieleni:
+    en: green space inspector
+    de: Grünflächeninspektor
+  kierownik budowy:
+    en: construction manager
+    de: Bauleiter
+
+historic:
+  obiekt zabytkowy:
+    en: historic monument
+    de: Baudenkmal
+  konserwator zabytków:
+    en: monument conservator
+    de: Denkmalschützer
+  ochrona zabytków:
+    en: monument protection
+    de: Denkmalschutz
+  rewaloryzacja obiektów zabytkowych:
+    en: revitalization of historic monuments
+    de: Revitalisierung von Baudenkmälern
+
+spaces:
+  park miejski:
+    en: urban park
+    de: Stadtpark
+  skwer:
+    en: square
+    de: Platz
+  plac zabaw:
+    en: playground
+    de: Spielplatz
+  ogród prywatny:
+    en: private garden
+    de: privater Garten
+  ogród przydomowy:
+    en: home garden
+    de: Hausgarten
+  zieleń osiedlowa:
+    en: residential greenery
+    de: Wohnsiedlungsgrün
+  teren rekreacyjny:
+    en: recreational area
+    de: Erholungsgebiet
+  aleja:
+    en: avenue
+    de: Allee
+
+status:
+  zrealizowany:
+    en: completed
+    de: fertiggestellt
+  w realizacji:
+    en: in progress
+    de: in Arbeit
+  koncepcja:
+    en: concept
+    de: Konzept
+  projektowanie:
+    en: design phase
+    de: Entwurfsphase
+  wykonanie:
+    en: construction
+    de: Ausführung
+
+services:
+  usługi:
+    en: services
+    de: Dienstleistungen
+  oferta:
+    en: services
+    de: Angebot
+  doradztwo:
+    en: consulting
+    de: Beratung
+  szkolenia:
+    en: training
+    de: Schulungen
+  ekspertyzy:
+    en: expert assessments
+    de: Gutachten
+  opinie:
+    en: opinions
+    de: Stellungnahmen
+
+voivodeships:
+  woj. dolnośląskie:
+    en: Lower Silesian Voivodeship
+    de: Woiwodschaft Niederschlesien
+  woj. wielkopolskie:
+    en: Greater Poland Voivodeship
+    de: Woiwodschaft Großpolen
+  woj. opolskie:
+    en: Opole Voivodeship
+    de: Woiwodschaft Oppeln
+  woj. mazowieckie:
+    en: Masovian Voivodeship
+    de: Woiwodschaft Masowien
+  woj. śląskie:
+    en: Silesian Voivodeship
+    de: Woiwodschaft Schlesien
+  woj. łódzkie:
+    en: Łódź Voivodeship
+    de: Woiwodschaft Łódź
+  woj. małopolskie:
+    en: Lesser Poland Voivodeship
+    de: Woiwodschaft Kleinpolen
+
+# Common phrases
+common:
+  o nas:
+    en: about us
+    de: über uns
+  kontakt:
+    en: contact
+    de: Kontakt
+  referencje:
+    en: references
+    de: Referenzen
+  aktualności:
+    en: news
+    de: Aktuelles
+  portfolio:
+    en: portfolio
+    de: Portfolio
+  realizacje:
+    en: projects
+    de: Projekte
+  współpraca:
+    en: cooperation
+    de: Zusammenarbeit
+  doświadczenie:
+    en: experience
+    de: Erfahrung
+  zespół:
+    en: team
+    de: Team
+
+# Proper nouns - DO NOT TRANSLATE (kept for reference)
+proper_nouns:
+  # Company names
+  - IKROPKA
+  - Fundacja EkoRozwoju
+  - Gmina Wrocław
+
+  # Person names
+  - Piotr Zaborowski
+
+  # Cities - keep original Polish names
+  - Wrocław
+  - Warszawa
+  - Kraków
+  - Poznań
+  - Gdańsk
+
+  # Street names - keep Polish
+  - al. Paderewskiego
+  - ul. Grabiszyńska
+  - Park Centralny
+
+  # Brands
+  - European Tree Technician
+  - ETT
+  - WordPress

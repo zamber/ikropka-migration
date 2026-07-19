@@ -1,0 +1,64 @@
+# Main navigation (German)
+main:
+  - title: "Über uns"
+    url: /de/uber-uns/
+  - title: "Dienstleistungen"
+    url: /de/dienstleistungen/
+  - title: "Portfolio"
+    url: /de/portfolio/
+  - title: "Referenzen"
+    url: /de/referenzen/
+  - title: "Aktuelles"
+    url: /de/aktuelles/
+  - title: "Kontakt"
+    url: /de/kontakt/
+
+# Services sidebar navigation (German)
+services:
+  - title: "Dendrologie-Dienstleistungen"
+    children:
+      - title: "Bauminventare"
+        url: /de/dienstleistungen/bauminventare/
+      - title: "Dendrologischer Bewirtschaftungsplan"
+        url: /de/dienstleistungen/dendrologischer-bewirtschaftungsplan/
+      - title: "Dendrologische Gutachten"
+        url: /de/dienstleistungen/dendrologische-gutachten/
+      - title: "Baumkontrollen"
+        url: /de/dienstleistungen/baumkontrollen/
+      - title: "Baum-Notdienst"
+        url: /de/dienstleistungen/baum-notdienst/
+      - title: "Baumschutzprojekt"
+        url: /de/dienstleistungen/baumschutzprojekt/
+  - title: "Design-Dienstleistungen"
+    children:
+      - title: "Geländeerschließungsprojekte"
+        url: /de/dienstleistungen/gelaendeerschliessungsprojekte/
+      - title: "Grünflächengestaltung"
+        url: /de/dienstleistungen/gruenflaechengestaltung/
+      - title: "Private Gärten"
+        url: /de/dienstleistungen/private-gaerten/
+      - title: "Parks und Erholungsgebiete"
+        url: /de/dienstleistungen/parks-erholungsgebiete/
+  - title: "Weitere Dienstleistungen"
+    children:
+      - title: "Bauüberwachung"
+        url: /de/dienstleistungen/bauueberwachung/
+      - title: "Baudenkmäler"
+        url: /de/dienstleistungen/baudenkmaeler/
+      - title: "Beratung"
+        url: /de/dienstleistungen/beratung/
+      - title: "Schulungen"
+        url: /de/dienstleistungen/schulungen/
+
+# Portfolio sidebar navigation (German)
+portfolio:
+  - title: "Kategorien"
+    children:
+      - title: "Alle Projekte"
+        url: /de/portfolio/
+      - title: "Baudenkmäler"
+        url: /de/portfolio/baudenkmaeler/
+      - title: "Projekte"
+        url: /de/portfolio/projekte/
+      - title: "Schulungen"
+        url: /de/portfolio/schulungen/

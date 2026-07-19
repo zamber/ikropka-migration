@@ -44,6 +44,8 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Reading Files
 include:
   - _pages
+  - en
+  - de
   - .htaccess
 exclude:
   - "*.sublime-project"
@@ -195,6 +197,18 @@ defaults:
         nav: "services"
       seo:
         type: Service
+  # English content
+  - scope:
+      path: "en"
+    values:
+      lang: en
+      layout: single
+  # German content
+  - scope:
+      path: "de"
+    values:
+      lang: de
+      layout: single
 
 # Google Analytics (optional, add later)
 # analytics:

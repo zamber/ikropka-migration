@@ -1,0 +1,64 @@
+# Main navigation (English)
+main:
+  - title: "About"
+    url: /en/about/
+  - title: "Services"
+    url: /en/services/
+  - title: "Portfolio"
+    url: /en/portfolio/
+  - title: "References"
+    url: /en/references/
+  - title: "News"
+    url: /en/news/
+  - title: "Contact"
+    url: /en/contact/
+
+# Services sidebar navigation (English)
+services:
+  - title: "Dendrology Services"
+    children:
+      - title: "Tree inventories"
+        url: /en/services/tree-inventories/
+      - title: "Dendrology management plan"
+        url: /en/services/dendrology-management-plan/
+      - title: "Dendrology expert assessments"
+        url: /en/services/dendrology-expert-assessments/
+      - title: "Tree inspections"
+        url: /en/services/tree-inspections/
+      - title: "Emergency dendrology service"
+        url: /en/services/emergency-dendrology/
+      - title: "Tree protection project"
+        url: /en/services/tree-protection-project/
+  - title: "Design Services"
+    children:
+      - title: "Site development projects"
+        url: /en/services/site-development-projects/
+      - title: "Green space designs"
+        url: /en/services/green-space-designs/
+      - title: "Private gardens"
+        url: /en/services/private-gardens/
+      - title: "Parks and recreational areas"
+        url: /en/services/parks-recreational-areas/
+  - title: "Other Services"
+    children:
+      - title: "Supervision"
+        url: /en/services/supervision/
+      - title: "Historic monuments"
+        url: /en/services/historic-monuments/
+      - title: "Consulting"
+        url: /en/services/consulting/
+      - title: "Training"
+        url: /en/services/training/
+
+# Portfolio sidebar navigation (English)
+portfolio:
+  - title: "Categories"
+    children:
+      - title: "All projects"
+        url: /en/portfolio/
+      - title: "Historic monuments"
+        url: /en/portfolio/historic/
+      - title: "Projects"
+        url: /en/portfolio/projects/
+      - title: "Training"
+        url: /en/portfolio/training/

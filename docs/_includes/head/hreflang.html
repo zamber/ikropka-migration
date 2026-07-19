@@ -1,0 +1,22 @@
+{% comment %}
+Hreflang tags for multilingual SEO
+Tells search engines about language variants of the current page
+{% endcomment %}
+
+{% assign current_lang = page.lang | default: "pl" %}
+{% assign current_path = page.permalink %}
+
+{% comment %}Remove language prefixes to get base path{% endcomment %}
+{% if current_lang == "en" %}
+  {% assign base_path = current_path | remove: "/en" %}
+{% elsif current_lang == "de" %}
+  {% assign base_path = current_path | remove: "/de" %}
+{% else %}
+  {% assign base_path = current_path %}
+{% endif %}
+
+{% comment %}Generate hreflang tags for all language versions{% endcomment %}
+<link rel="alternate" hreflang="pl" href="{{ site.url }}{{ site.baseurl }}{{ base_path }}" />
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/en{{ base_path }}" />
+<link rel="alternate" hreflang="de" href="{{ site.url }}{{ site.baseurl }}/de{{ base_path }}" />
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ base_path }}" />

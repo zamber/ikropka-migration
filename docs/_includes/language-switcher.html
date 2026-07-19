@@ -1,0 +1,71 @@
+{% comment %}
+Language Switcher Component
+Displays PL | EN | DE language selector in header
+{% endcomment %}
+
+{% assign current_lang = page.lang | default: "pl" %}
+{% assign current_path = page.permalink %}
+
+{% comment %}
+Remove language prefixes from current path to get base path
+{% endcomment %}
+{% if current_lang == "en" %}
+  {% assign base_path = current_path | remove: "/en" %}
+{% elsif current_lang == "de" %}
+  {% assign base_path = current_path | remove: "/de" %}
+{% else %}
+  {% assign base_path = current_path %}
+{% endif %}
+
+<div class="language-switcher">
+  {% if current_lang == "pl" %}
+    <span class="lang-active">PL</span>
+  {% else %}
+    <a href="{{ site.baseurl }}{{ base_path }}" class="lang-link">PL</a>
+  {% endif %}
+
+  <span class="lang-separator">|</span>
+
+  {% if current_lang == "en" %}
+    <span class="lang-active">EN</span>
+  {% else %}
+    <a href="{{ site.baseurl }}/en{{ base_path }}" class="lang-link">EN</a>
+  {% endif %}
+
+  <span class="lang-separator">|</span>
+
+  {% if current_lang == "de" %}
+    <span class="lang-active">DE</span>
+  {% else %}
+    <a href="{{ site.baseurl }}/de{{ base_path }}" class="lang-link">DE</a>
+  {% endif %}
+</div>
+
+<style>
+.language-switcher {
+  display: inline-block;
+  padding: 0.5em 1em;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.language-switcher .lang-active {
+  color: #52adc8;
+  text-decoration: underline;
+}
+
+.language-switcher .lang-link {
+  color: #7a8288;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.language-switcher .lang-link:hover {
+  color: #52adc8;
+}
+
+.language-switcher .lang-separator {
+  margin: 0 0.4em;
+  color: #ccc;
+}
+</style>
