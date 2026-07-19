@@ -3,7 +3,7 @@ description: Lernen Sie das Team IKROPKA und unsere Erfahrung in Landschaftsarch
   Dendrologie sowie Grünschutz kennen. Sehen Sie nach, warum es sich lohnt, uns zu
   vertrauen.
 layout: single
-permalink: /de/o-nas/
+permalink: /de/about/
 title: über uns
 lang: de
 ---
