@@ -14,17 +14,24 @@
         <ul class="visible-links">
           {%- assign current_lang = page.lang | default: "pl" -%}
           {%- if current_lang == "en" -%}
-            {%- assign nav = site.data.navigation_en -%}
+            {%- for link in site.data.navigation_en.main -%}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {%- endfor -%}
           {%- elsif current_lang == "de" -%}
-            {%- assign nav = site.data.navigation_de -%}
+            {%- for link in site.data.navigation_de.main -%}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {%- endfor -%}
           {%- else -%}
-            {%- assign nav = site.data.navigation -%}
+            {%- for link in site.data.navigation.main -%}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+            {%- endfor -%}
           {%- endif -%}
-          {%- for link in nav.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
