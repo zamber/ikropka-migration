@@ -72,7 +72,7 @@ The Landscape Architecture Studio IKROPKA assists its Clients in formal and lega
 Explore our latest projects:
 
 <div class="featured-portfolio">
-{% assign en_portfolio = site.pages | where_exp: "item", "item.url contains '/en/_portfolio/'" %}
+{% assign en_portfolio = site.pages | where_exp: "item", "item.url contains '/en/portfolio/'" %}
 {% assign featured = en_portfolio | sort: 'date' | reverse | limit: 6 %}
 {% for project in featured %}
   <div class="featured-item">

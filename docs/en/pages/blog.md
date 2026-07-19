@@ -1,19 +1,19 @@
 ---
 layout: single
-title: Aktuelles
-permalink: /de/aktualnosci/
+title: News
+permalink: /en/aktualnosci/
 sidebar:
   nav: main
-lang: de
+lang: en
 ---
 
-## Aktuelles und Projekte
+## News and projects
 
-Entdecken Sie unsere neuesten Projekte, Projekte und Aktuelles aus der Welt der Landschaftsarchitektur.
+Discover our latest designs, projects, and news from the world of landscape architecture.
 
 <div class="blog-grid">
-{% assign de_posts = site.pages | where_exp: "item", "item.url contains '/de/_posts/'" %}
-{% assign sorted_posts = de_posts | sort: 'date' | reverse %}
+{% assign en_posts = site.pages | where_exp: "item", "item.url contains '/en/posts/'" %}
+{% assign sorted_posts = en_posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
   <article class="blog-item">
     <a href="{{ post.url | relative_url }}">
@@ -28,7 +28,7 @@ Entdecken Sie unsere neuesten Projekte, Projekte und Aktuelles aus der Welt der 
         {% elsif post.excerpt %}
           <p class="excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
         {% endif %}
-        <span class="read-more">Weiterlesen →</span>
+        <span class="read-more">Read more →</span>
       </div>
     </a>
   </article>
