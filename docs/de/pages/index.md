@@ -2,34 +2,33 @@
 description: Ikropka – pracownia projektowania zieleni i krajobrazu. Tworzymy ogrody,
   parki i öffentlicher Raum z dbałością o naturę i estetykę.
 header:
-  caption: Twój partner w zielonych inwestycjach
+  caption: Ihr Partner für grüne Investitionen
   overlay_filter: '0.5'
   overlay_image: /assets/images/layout_slider_do-500KB_www1.jpg
 layout: splash
 permalink: /de/
-title: IKROPKA — Pracownia Architektury Krajobrazu
+title: IKROPKA — Landschaftsarchitekturwerkstatt
 feature_row:
 - image_path: /assets/images/services-dendrology.jpg
-  alt: Usługi dendrologiczne
-  title: Usługi Dendrologiczne
-  excerpt: Inwentaryzacje, operaty, ekspertyzy, przeglądy drzew i pogotowie dendrologiczne.
-  url: /oferta/#dendrology
-  btn_label: Dowiedz się więcej
+  alt: Dendrologische Dienstleistungen
+  title: Dendrologische Dienstleistungen
+  excerpt: Bauminventare, Bewirtschaftungspläne, Gutachten, Baumkontrollen und dendrologischer Notdienst.
+  url: /de/services/#dendrology
+  btn_label: Mehr erfahren
   btn_class: btn--primary
 - image_path: /assets/images/services-design.jpg
-  alt: Usługi projektowe
-  title: Usługi Projektowe
-  excerpt: Projekty zagospodarowania terenu, projekty zieleni, ogrody prywatne, parki.
-  url: /oferta/#design
-  btn_label: Dowiedz się więcej
+  alt: Planungsdienstleistungen
+  title: Planungsdienstleistungen
+  excerpt: Flächenentwicklungsprojekte, Grünflächenplanung, private Gärten, Parks.
+  url: /de/services/#design
+  btn_label: Mehr erfahren
   btn_class: btn--primary
 - image_path: /assets/images/services-supervision.jpg
-  alt: Nadzory
-  title: Nadzory i Obsługa Inwestycji
-  excerpt: Inspektor nadzoru dendrologicznego i nadzór terenów zieleni w procesie
-    inwestycyjnym.
-  url: /oferta/#supervision
-  btn_label: Dowiedz się więcej
+  alt: Bauüberwachung
+  title: Bauüberwachung und Investitionsbetreuung
+  excerpt: Dendrologischer Bauüberwachungsinspektor und Grünflächenaufsicht im Investitionsprozess.
+  url: /de/services/#supervision
+  btn_label: Mehr erfahren
   btn_class: btn--primary
 lang: de
 ---

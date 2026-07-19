@@ -2,7 +2,7 @@
 description: Ikropka – studio for green space design and landscape architecture. We
   create private gardens, urban parks and public spaces with care for nature and aesthetics.
 header:
-  caption: Twój partner w zielonych inwestycjach
+  caption: Your partner in green investments
   overlay_filter: '0.5'
   overlay_image: /assets/images/layout_slider_do-500KB_www1.jpg
 layout: splash
@@ -10,26 +10,25 @@ permalink: /en/
 title: IKROPKA — Landscape Architecture Studio
 feature_row:
 - image_path: /assets/images/services-dendrology.jpg
-  alt: Usługi dendrologiczne
-  title: Usługi Dendrologiczne
-  excerpt: Inwentaryzacje, operaty, ekspertyzy, przeglądy drzew i pogotowie dendrologiczne.
-  url: /oferta/#dendrology
-  btn_label: Dowiedz się więcej
+  alt: Dendrological services
+  title: Dendrological Services
+  excerpt: Tree inventories, management plans, expert assessments, tree inspections and dendrological emergency services.
+  url: /en/services/#dendrology
+  btn_label: Learn more
   btn_class: btn--primary
 - image_path: /assets/images/services-design.jpg
-  alt: Usługi projektowe
-  title: Usługi Projektowe
-  excerpt: Projekty zagospodarowania terenu, projekty zieleni, ogrody prywatne, parki.
-  url: /oferta/#design
-  btn_label: Dowiedz się więcej
+  alt: Design services
+  title: Design Services
+  excerpt: Site development projects, green space design, private gardens, parks.
+  url: /en/services/#design
+  btn_label: Learn more
   btn_class: btn--primary
 - image_path: /assets/images/services-supervision.jpg
-  alt: Nadzory
-  title: Nadzory i Obsługa Inwestycji
-  excerpt: Inspektor nadzoru dendrologicznego i nadzór terenów zieleni w procesie
-    inwestycyjnym.
-  url: /oferta/#supervision
-  btn_label: Dowiedz się więcej
+  alt: Supervision
+  title: Supervision and Investment Management
+  excerpt: Dendrological supervision inspector and green area supervision in the investment process.
+  url: /en/services/#supervision
+  btn_label: Learn more
   btn_class: btn--primary
 lang: en
 ---
