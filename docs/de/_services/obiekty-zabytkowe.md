@@ -3,7 +3,7 @@ category: services
 description: Wir erstellen Projekte und Studien für Baudenkmäler. Die Revitalisierung
   eines denkmalgeschützten Parks ist eine unserer Dienstleistungen.
 layout: single
-permalink: /de/oferta/obiekty-zabytkowe/
+permalink: /de/services/obiekty-zabytkowe/
 service_type: design
 title: Baudenkmäler – Projekt der Revitalisierung eines denkmalgeschützten Parks
 lang: de

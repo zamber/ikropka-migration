@@ -3,7 +3,7 @@ category: services
 description: Tree and greenery inventory, as well as tree inventory, are just some
   of the services we offer. A tree inventory is essential for new investments.
 layout: single
-permalink: /en/oferta/inwentaryzacje-dendrologiczne/
+permalink: /en/services/inwentaryzacje-dendrologiczne/
 service_type: dendrology
 title: Tree inventory and dendrological (tree) inventory
 lang: en

@@ -4,7 +4,7 @@ description: Wir bieten Schulungen zur Dendrologie und zur Gestaltung rund um B�
   für Beamte, Planer, Ausführende und Investoren an. Prüfen Sie das Programm und nehmen
   Sie Kontakt auf!
 layout: single
-permalink: /de/oferta/szkolenia/
+permalink: /de/services/szkolenia/
 service_type: training
 title: Schulungen
 lang: de

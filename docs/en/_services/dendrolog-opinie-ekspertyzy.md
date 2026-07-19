@@ -3,7 +3,7 @@ category: services
 description: Opinions and dendrology expert assessments prepared by experienced dendrologists.
   We operate efficiently both in Wrocław and throughout Poland!
 layout: single
-permalink: /en/oferta/dendrolog-opinie-ekspertyzy/
+permalink: /en/services/dendrolog-opinie-ekspertyzy/
 service_type: dendrology
 title: Dendrologist – Opinions and Expert Assessments
 lang: en

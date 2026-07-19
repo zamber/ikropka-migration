@@ -3,7 +3,7 @@ category: services
 description: We prepare designs and study documents for historic monuments. The revitalization
   project of a historic park is one of our services.
 layout: single
-permalink: /en/oferta/obiekty-zabytkowe/
+permalink: /en/services/obiekty-zabytkowe/
 service_type: design
 title: Historic monuments – Revitalization project of a historic park
 lang: en

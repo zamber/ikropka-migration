@@ -4,7 +4,7 @@ description: Stellungnahmen und dendrologische Gutachten, erarbeitet von erfahre
   Dendrologen. Wir arbeiten effizient sowohl in Wrocław als auch im gesamten Gebiet
   von Polen!
 layout: single
-permalink: /de/oferta/dendrolog-opinie-ekspertyzy/
+permalink: /de/services/dendrolog-opinie-ekspertyzy/
 service_type: dendrology
 title: Dendrologe – Stellungnahmen und Gutachten
 lang: de

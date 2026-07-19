@@ -3,7 +3,7 @@ category: services
 description: We carry out site development projects – concept design, construction,
   and construction project. Public, private, commercial, and historic areas.
 layout: single
-permalink: /en/oferta/projekty-zagospodarowania-terenu/
+permalink: /en/services/projekty-zagospodarowania-terenu/
 service_type: design
 title: Site development projects
 lang: en

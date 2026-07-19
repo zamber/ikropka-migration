@@ -3,7 +3,7 @@ category: services
 description: Ikropka – studio for green space design and landscape architecture. We
   create private gardens, urban parks and public spaces with care for nature and aesthetics.
 layout: single
-permalink: /en/oferta/pracownia-architektury-krajobrazu/
+permalink: /en/services/pracownia-architektury-krajobrazu/
 service_type: design
 title: Landscape architecture studio
 lang: en

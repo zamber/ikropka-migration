@@ -4,7 +4,7 @@ description: Wir erstellen Geländeerschließungsprojekte – Entwurfskonzepte, 
   und Ausführungsprojekte. Öffentliche, private, kommerzielle und denkmalgeschützte
   Flächen.
 layout: single
-permalink: /de/oferta/projekty-zagospodarowania-terenu/
+permalink: /de/services/projekty-zagospodarowania-terenu/
 service_type: design
 title: Geländeerschließungsprojekte
 lang: de

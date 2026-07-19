@@ -3,7 +3,7 @@ category: services
 description: Expert assessment and supervision are extremely important in various
   projects. Dendrology management plan is another service from our offer.
 layout: single
-permalink: /en/oferta/operat-dendrologiczny/
+permalink: /en/services/operat-dendrologiczny/
 service_type: dendrology
 title: Dendrology management plan – expert assessment and supervision
 lang: en

@@ -4,7 +4,7 @@ description: Gutachten sowie Bauüberwachung sind äußerst wichtig bei verschie
   Projekten. Ein dendrologischer Bewirtschaftungsplan ist eine weitere Dienstleistung
   aus unserem Angebot.
 layout: single
-permalink: /de/oferta/operat-dendrologiczny/
+permalink: /de/services/operat-dendrologiczny/
 service_type: dendrology
 title: Dendrologischer Bewirtschaftungsplan – Gutachten und Bauüberwachung
 lang: de

@@ -3,7 +3,7 @@ category: services
 description: Ikropka – pracownia projektowania zieleni i krajobrazu. Tworzymy ogrody,
   parki i öffentlicher Raum z dbałością o naturę i estetykę.
 layout: single
-permalink: /de/oferta/pracownia-architektury-krajobrazu/
+permalink: /de/services/pracownia-architektury-krajobrazu/
 service_type: design
 title: Pracownia Landschaftsarchitektur
 lang: de

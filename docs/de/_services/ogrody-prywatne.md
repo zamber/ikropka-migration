@@ -4,7 +4,7 @@ description: Wir gestalten Hausgärten und Residencgärten, die an Sie und Ihre 
   angepasst sind. Projektkonzept, Visualisierungen, Ausführungsprojekt. Entdecken
   Sie unser Angebot!
 layout: single
-permalink: /de/oferta/ogrody-prywatne/
+permalink: /de/services/ogrody-prywatne/
 service_type: design
 title: Gärten
 lang: de

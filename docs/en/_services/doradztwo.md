@@ -4,7 +4,7 @@ description: Dendrology consulting and design consulting for companies and priva
   individuals at every stage of investment. We help select technologies and optimize
   costs.
 layout: single
-permalink: /en/oferta/doradztwo/
+permalink: /en/services/doradztwo/
 service_type: consulting
 title: Consulting
 lang: en

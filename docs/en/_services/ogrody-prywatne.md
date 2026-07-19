@@ -3,7 +3,7 @@ category: services
 description: We design home gardens and residential gardens tailored to you and your
   family. Design concepts, visualizations, construction project. Check out our services!
 layout: single
-permalink: /en/oferta/ogrody-prywatne/
+permalink: /en/services/ogrody-prywatne/
 service_type: design
 title: Gardens
 lang: en

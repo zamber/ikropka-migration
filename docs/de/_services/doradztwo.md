@@ -4,7 +4,7 @@ description: Dendrologische und projektbezogene Beratung für Unternehmen und Pr
   in jeder Phase des Vorhabens. Wir helfen bei der Auswahl von Technologien und der
   Optimierung von Kosten.
 layout: single
-permalink: /de/oferta/doradztwo/
+permalink: /de/services/doradztwo/
 service_type: consulting
 title: Beratung
 lang: de

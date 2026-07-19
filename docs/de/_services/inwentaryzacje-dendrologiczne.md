@@ -3,7 +3,7 @@ category: services
 description: Bauminventar der Grünflächen sowie der Bäume sind nur einige Dienstleistungen,
   die wir anbieten. Ein dendrologisches Bauminventar ist bei neuen Investitionen wichtig.
 layout: single
-permalink: /de/oferta/inwentaryzacje-dendrologiczne/
+permalink: /de/services/inwentaryzacje-dendrologiczne/
 service_type: dendrology
 title: Bauminventar und dendrologisches Bauminventar (Bäume)
 lang: de

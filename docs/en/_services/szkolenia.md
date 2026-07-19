@@ -3,7 +3,7 @@ category: services
 description: We offer training in dendrology and design around trees for officials,
   designers, contractors and investors. Check the program and get in touch!
 layout: single
-permalink: /en/oferta/szkolenia/
+permalink: /en/services/szkolenia/
 service_type: training
 title: Training
 lang: en
