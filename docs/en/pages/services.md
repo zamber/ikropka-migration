@@ -12,7 +12,8 @@ lang: en
 We offer comprehensive services in landscape architecture and dendrology. Below you will find a detailed description of our offer.
 
 <div class="services-grid">
-{% for service in site.services %}
+{% assign en_services = site.pages | where_exp: "item", "item.url contains '/en/services/'" %}
+{% for service in en_services %}
   <div class="service-item">
     <a href="{{ service.url | relative_url }}">
       <h3>{{ service.title }}</h3>
@@ -96,7 +97,7 @@ We offer comprehensive services in landscape architecture and dendrology. Below 
 
 We specialize in comprehensive tree care:
 
-{% assign dendro_services = site.services | where: "service_type", "dendrology" %}
+{% assign dendro_services = en_services | where: "service_type", "dendrology" %}
 <ul>
 {% for service in dendro_services %}
   <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
@@ -108,7 +109,7 @@ We specialize in comprehensive tree care:
 
 We create green space designs tailored to your needs:
 
-{% assign design_services = site.services | where: "service_type", "design" %}
+{% assign design_services = en_services | where: "service_type", "design" %}
 <ul>
 {% for service in design_services %}
   <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
@@ -118,7 +119,7 @@ We create green space designs tailored to your needs:
 <a name="supervision"></a>
 ### Supervision and Other Services
 
-{% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
+{% assign other_services = en_services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}
 <ul>
 {% for service in other_services %}

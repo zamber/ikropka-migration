@@ -12,7 +12,8 @@ lang: de
 Wir bieten umfassende Dienstleistungen im Bereich Landschaftsarchitektur und Dendrologie. Im Folgenden finden Sie eine detaillierte Beschreibung unseres Angebots.
 
 <div class="services-grid">
-{% for service in site.services %}
+{% assign de_services = site.pages | where_exp: "item", "item.url contains '/de/services/'" %}
+{% for service in de_services %}
   <div class="service-item">
     <a href="{{ service.url | relative_url }}">
       <h3>{{ service.title }}</h3>
@@ -96,7 +97,7 @@ Wir bieten umfassende Dienstleistungen im Bereich Landschaftsarchitektur und Den
 
 Wir spezialisieren uns auf die umfassende Betreuung von Bäumen:
 
-{% assign dendro_services = site.services | where: "service_type", "dendrology" %}
+{% assign dendro_services = de_services | where: "service_type", "dendrology" %}
 <ul>
 {% for service in dendro_services %}
   <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
@@ -108,7 +109,7 @@ Wir spezialisieren uns auf die umfassende Betreuung von Bäumen:
 
 Wir erstellen Grünflächengestaltungen, die an Ihre Bedürfnisse angepasst sind:
 
-{% assign design_services = site.services | where: "service_type", "design" %}
+{% assign design_services = de_services | where: "service_type", "design" %}
 <ul>
 {% for service in design_services %}
   <li><a href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
@@ -118,7 +119,7 @@ Wir erstellen Grünflächengestaltungen, die an Ihre Bedürfnisse angepasst sind
 <a name="supervision"></a>
 ### Bauüberwachung und andere Dienstleistungen
 
-{% assign other_services = site.services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
+{% assign other_services = de_services | where_exp: "item", "item.service_type != 'dendrology'" | where_exp: "item", "item.service_type != 'design'" %}
 {% if other_services.size > 0 %}
 <ul>
 {% for service in other_services %}
